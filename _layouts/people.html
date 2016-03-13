@@ -1,0 +1,29 @@
+---
+layout: default
+---
+</div>
+
+	{% for person in site.data.people %}
+        <div class="container">
+	    <div class="row row-centered">
+	    <!-- Our Fearless Leader -->
+	        <div class="col-md-3 col-centered">
+		{% if person.status == "PI" %}
+			<a href="{{ person.url }}">
+			<div class="thumbnail">
+				<img src="{{ site.baseurl }}/img/{{ person.pic }}" class="img-circle" alt="{{ person.name }}">
+				<div class="caption">
+					<h1>{{ person.name }}</h1>
+                                        <h3 class="job-title">{{ person.role }}</h3>
+					<p class="email">{{ person.email }}</p>
+					<p class="text-muted">{{ person.description }}</p>
+				</div>						
+			</div>
+			</a>
+                {% endif %}
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+
+</div>

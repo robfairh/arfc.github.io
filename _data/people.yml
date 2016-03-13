@@ -1,0 +1,17 @@
+- name: Katy Huff
+  pic: people/huffk.png
+  dates: 2016-present
+  status: PI
+  role: Assistant Professor
+  src: https://katyhuff.github.io
+  url: https://katyhuff.github.io
+  description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
+  
+- name: Ima Undergrad
+  pic: people/undergradi.gif
+  dates: 2016-present
+  status: ugrad
+  role: Undergraduate Research Assistant
+  src: https://google.com
+  url: https://google.com
+  description: 'Ima is interested in python.'
