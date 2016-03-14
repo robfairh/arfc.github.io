@@ -28,7 +28,7 @@ task :publish => [:generate] do
 
     system "git checkout master"
     system "rm -r *"
-    cp_r tmp, "."
+    cp_r "#{tmp}/*", "."
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -am #{message.inspect}"
