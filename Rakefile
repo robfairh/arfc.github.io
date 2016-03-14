@@ -36,5 +36,6 @@ task :publish => [:generate] do
     system "git push origin master --force"
 
     Dir.chdir pwd
+    system "git checkout source"
   end
 end
