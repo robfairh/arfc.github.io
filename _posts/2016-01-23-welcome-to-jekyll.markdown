@@ -1,25 +1,21 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-01-23 18:03:54 -0800
+title:  "Huff Plans to Join NPRE"
+date:   2016-02-06 18:03:54 -0800
+author: Katy Huff
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I am thrilled to be joining the University of Illinois at Urbana-Champaign as 
+an Assistant Professor in the Department of Nuclear, Plasma and Radiological 
+Engineering. I was honored to have been awarded a Blue Waters Assistant 
+Professorship as well as a 0% appointment with the National Center for 
+Supercomputing Applications. The support of NCSA is very meaningful to me and I 
+hope to make important use of the high performance computing resources on 
+campus when I arrive.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+I will begin my appointment on August 16, 2016. Until then, I'll be wrapping up 
+my work at the University of California, Berkeley. In addition, I'll be 
+preparing my first NPRE course, seeking graduate students and postdocs for a 
+research group, finding a home in the Urbana-Champaign area, and setting up 
+this website.
