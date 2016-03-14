@@ -42,6 +42,30 @@ subtitle: University of Illinois at Urbana-Champaign
         </div>
     </section>
 
+
+
+<!--- NEWS -->
+    <section id="news" class="{% cycle '', 'bg-light-gray' %}">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">News</h2>
+                    <h3 class="section-subheading text-muted">Updates from the research group.</h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6 text-center">
+		    {% for post in site.posts %}
+			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+			<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+		    {% endfor %}
+		<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
 <!--- Software -->
     <section id="software" class="{% cycle '', 'bg-light-gray' %}">
         <div class="container">
@@ -67,29 +91,3 @@ subtitle: University of Illinois at Urbana-Champaign
             </div>
         </div>
     </section>
-
-
-<!--- NEWS -->
-    <section id="news" class="{% cycle '', 'bg-light-gray' %}">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">News</h2>
-                    <h3 class="section-subheading text-muted">Updates from the research group.</h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-md-6 text-center">
-		    {% for post in site.posts %}
-			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-			<h2>
-			  <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-			</h2>
-		    {% endfor %}
-		<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
