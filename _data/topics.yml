@@ -1,10 +1,10 @@
 - title: Coupled Multiphysics of Advanced Reactors
-  pic: research/multiphysics.png
+  pic: img/research/multiphysics.png
   src: https://github.com/katyhuff/pyrk
   url: '/research/'
   description: 'Advanced nuclear reactors often involve complex geometries, unique materials, and new physical regimes. To simulate the coupled physics in such designs, current tools must be extended to capture those geometries, materials, and regimes. Our work focuses on extending current tools with features essential to simulating advanced reactor multiphysics.' 
   
-- name: Fuel Cycle Analysis
+- title: Fuel Cycle Analysis
   pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nuclear_Fuel_Cycle.svg/820px-Nuclear_Fuel_Cycle.svg.png'
   src: https://github.com/cyclus/cyclus
   url: http://www.fuelcycle.org
