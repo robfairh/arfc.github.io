@@ -1,6 +1,3 @@
-- title: "Home"
-  url: "/"
-
 - title: "Research"
   url: "/research/"
   subcategories:
@@ -18,20 +15,33 @@
   url: "/people/"
   subcategories:
     - subtitle: "Current"
-      suburl: "/teaching/current"
+      suburl: "/people/current"
     - subtitle: "Past"
-      suburl: "/teaching/past"
-    - subtitle: "Workshops"
-      suburl: "/teaching/workshops"
+      suburl: "/people/past"
 
 - title: "Openings"
   url: "/positions/"
   subcategories:
     - subtitle: "Undergraduate"
-      suburl: "/positions/undergrad"
+      suburl: "/positions/ugrad"
     - subtitle: "Graduate"
       suburl: "/positions/grad"
     - subtitle: "Postdoctoral"
-      suburl: "/positions/postdocs"
+      suburl: "/positions/postdoc"
     - subtitle: "Staff"
       suburl: "/positions/staff"
+
+- title: "Manual"
+  url: "/manual/"
+  subcategories:
+    - subtitle: "Mission"
+      suburl: "/manual/mission"
+    - subtitle: "Code of Conduct`"
+      suburl: "/manual/coc"
+    - subtitle: "Expectations"
+      suburl: "/manual/expectations"
+    - subtitle: "Resources"
+      suburl: "/manual/resources"
+    - subtitle: "Meta"
+      suburl: "/manual/meta"
+

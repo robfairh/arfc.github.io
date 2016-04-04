@@ -1,14 +1,33 @@
 - name: Katy Huff
-  pic: people/huffk.png
+  pic: /img/people/huffk.png
   dates: 2016-present
   status: PI
   role: Assistant Professor
   src: https://katyhuff.github.io
   url: https://katyhuff.github.io
   description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
+  social: 
+    - url: http://bit.ly/khuffcal
+      icon: calendar
+      name: Calendar
+    - url: mailto:katyhuff@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing 
+      icon: map-marker
+      name: 118 Talbot Lab
+    - url: https://github.com/katyhuff
+      icon: github-alt
+      name: Github
+    - url: http://scholar.google.com/citations?user=rD2qRk8AAAAJ
+      icon: graduation-cap
+      name: Google Scholar
+    - url: https://twitter.com/katyhuff
+      icon: twitter
+      name: Twitter
   
 - name: Ima Undergrad
-  pic: people/undergradi.gif
+  pic: img/people/undergradi.gif
   dates: 2016-present
   status: ugrad
   role: Undergraduate Research Assistant

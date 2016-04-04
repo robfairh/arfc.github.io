@@ -822,7 +822,8 @@ footer ul.quicklinks {
 }
 
 ul.social-buttons {
-    margin-bottom: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
 
 ul.social-buttons li a {
