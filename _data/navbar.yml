@@ -13,11 +13,6 @@
 
 - title: "People"
   url: "/people/"
-  subcategories:
-    - subtitle: "Current"
-      suburl: "/people/current"
-    - subtitle: "Past"
-      suburl: "/people/past"
 
 - title: "Openings"
   url: "/positions/"
