@@ -11,12 +11,14 @@ layout: default
                     <h3 class="section-subheading text-muted">{{ page.subtitle }}</h3>
                 </div>
                 {% if page.intro %}
-                <div class="col-md-4 text-center">
-                            {{ content }}
+                <div class="col-md-3 text-muted">
+                </div>
+                <div class="col-md-6 text-muted text-center">
+                           {{ page.intro }}
                 </div>
 		{% endif %}
             </div>
         </div>
-    </section>
     {{ content }}
+    </section>
 
