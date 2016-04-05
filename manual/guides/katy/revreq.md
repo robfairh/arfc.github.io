@@ -3,45 +3,79 @@ layout: manual
 title: Requesting a Review of Something
 subtitle: "Reading, reviewing, and re-reviewing are a huge part of the research 
 process. Here are some tips to get the most useful reviews from me."
-permalink: /manual/
+permalink: /manual/guides/katy/revreq
 ---
 
-This part of the website is intended to be a living document capturing the 
-norms and processes behing this research group. The following sections were 
-inspired by [Lab Carpentry](http://labcarpentry.org) and its implementation at 
-the [Data Exploration Laboratory](https://dxl.ncsa.illinois.edu/). 
+Reading and reviewing the work in the research group is a key responsibility of 
+any research group leader. For me, it is also one of the most exciting 
+parts of the job. When I ask you to send me something for review, I hope to 
+look at it, make direct edits, and/or write up comments. 
 
-# Mission
+# Formats
 
-The **[mission](/manual/mission)** section is a place to state our evolving vision for the safe, 
-sustainable future of nuclear energy through advanced modeling and simulation 
-of advanced reactors and fuel cycles.
+I really do not want to send word documents back and forth with you. The 
+following options allow a more streamlined document collaboration:
+
+- LaTeX in a git repository
+- Markdown in a git repository
+- Any markup language at all in a git repository
+- A shared Google Docs folder
+- Overleaf
+
+If you are working in one of the environments, please just point me to the 
+repository. 
+
+If, for whatever reason, you can't work in one of those frameworks, send me a 
+PDF. It's a Portable Document Format after all. Word documents render 
+differently on different machines, so if you send me a word document, I may 
+complain about formatting you can't even see. Send me a pdf.
+
+# Timelines
+
+I, like other humans, need time to read things. This kind of work typically 
+happens on my couch over the weekend or on the plane. So, timing your request 
+around those things might (perhaps) speed up the turnaround time. 
+
+## Under 1 page
+
+If you have some short wording, a blog post, an abstract, a cover letter, or something else 
+under a page, I should be able to get back to you within a few days. When I get 
+your email, I'll either respond within the day or I'll let you know when to 
+expect my comments.
+
+## Under 100 pages
+
+Longer items like manuscripts, conference summaries, and thesis chapters, will 
+take a little longer. Plan ahead to give me two weeks to review these items. I 
+may have significant edits, so include extra time before the deadline to allow 
+yourself to make those edits. 
+
+## Over 100 pages
+
+If you have something like a dissertation or masters thesis that exceeds the 
+amount of text I might be able to read in a day, please consider sending it to 
+me in chunks. I need at least a month to read and comment on documents of this 
+size. Again, add extra time before the deadline to make the edits I might 
+suggest.
+
+## Forgotten Reviews
+
+I will typically acknowledge reciept of one of these review requests. At that 
+point, I'll usually say how long I expect my response to take. I try very hard 
+tohonor these commitments, but sometimes things get lost. If I've gone past the 
+deadline, please remind me. 
+
+# Reading my comments
+
+- Sometimes, I'll directly edit the document if that's possible. 
+- Other times, I'll submit my changes to your document with a pull request.
+- If I have a question, I'll probably make comments inline on a github repository.
+- Or, if it's something larger, I might make a github issue capturing the changes 
+that need to be made. 
+- Whether or not you've sent me a pdf, it's possible that I'll send you a marked 
+up pdf in return. This is because I am sometimes stuck on an airplane with my 
+ipad and my stylus. You'll learn to read my handwriting. I try to match 
+comments by color. If I send you a pdf like this, I'll likely ask you to make 
+all the contained changes yourself.
 
 
-# Expectations
-
-The section on **[expectations](/manual/expectations)** addresses mutual 
-expectations among members of the group, with special attention to 
-student-advisor expectations. Again, a great deal of this section came from 
-[Lab Carpentry](http://labcarpentry.org) and 
-[DXL](https://dxl.ncsa.illinois.edu.), but other inspiration also came from 
-[Chris Blattman](http://chrisblattman.com/graduate-advising/), 
-[Paul Wilson](http://cnerg.github.io/), 
-[Carl Boettiger](http://www.carlboettiger.info), 
-[Titus Brown](http://ivory.idyll.org/lab/) and lots of posts on 
-[the Professor Hacker Blog](http://chronicle.com/blogs/profhacker/).  
-
-# Code of Conduct
-
-The mutual expectations within the group are built on a foundation of 
-respect, integrity, and professional conduct. In addition to institutional 
-standards, this group upholds our own evolving **[code of conduct](/manual/coc)**.
-
-# Guides
-
-**[The guides](/manual/guides/guides)** are a set of overviews and checklists 
-for mastering the practical, administrative, and computational infrastructure 
-ARFC relies on for various common tasks. All research group members should 
-contribute to this section early and often. The various channels through which 
-we communicate both internally and externally are documented in a set of 
-communication guides.
