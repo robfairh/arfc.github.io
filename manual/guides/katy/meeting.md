@@ -1,44 +1,42 @@
 ---
 layout: manual
-title: Laboratory Manual
-subtitle: "How-to guide to ARFC."
-permalink: /manual/
+title: Meeting with Katy
+subtitle: "Tips for a productive meeting with me." 
+permalink: /manual/guides/katy/meeting
 ---
+
+I look forward to speaking with you virtually or in person.
+
+# When
+
+If you are a student in my class, you should meet with me during my stated
+office hours for that course.
+
+For everyone else: here's a url where you can pick a time and place that works for you:
+[katyhuff.youcanbook.me](http://katyhuff.youcanbook.me). It syncs with my
+calendar. Once you've filled it out, we'll both receive an email that confirms
+the details.
+
+- If it's 5 minutes, try dropping by my office. 
+- If it's 15 minutes, schedule me for a 15 minute meeting. 
+- If it's 30 minutes, schedule me for a 30 minute meeting and come very prepared.
+- If it's longer than 30 minutes, are you sure?
 
 This part of the website is intended to be a living document capturing the 
 norms and processes behing this research group. The following sections were 
 inspired by [Lab Carpentry](http://labcarpentry.org) and its implementation at 
 the [Data Exploration Laboratory](https://dxl.ncsa.illinois.edu/). 
 
-# Mission
+# How
 
-The **[mission](/manual/mission)** section is a place to state our evolving vision for the safe, 
-sustainable future of nuclear energy through advanced modeling and simulation 
-of advanced reactors and fuel cycles.
+I look forward to meeting with you. I am always open to discuss new ideas with
+colleagues, group members, students, and potential collaborators. My office
+door is often open for this reason.  However, please be aware that I
+think my office hours work most effectively if I arrive prepared. To get the
+most out of your time with me:
 
+- Send a concise written description of the topic or question (a couple of paragraphs by email) at least a day or two before meeting.
+- If you are coming to me with a programming conundrum, please see this [guide](/manual/guides/katy/codereq) before setting up a meeting
+- If you would like to discuss data or theory, I recommend bringing ample diagrams, figures, and tables to our meeting for discussion.
+- Like other humans, I usually need advance time to review something. See this [guide](/manual/guides/katy/revreq) on that topic.
 
-# Expectations
-
-The section on **[expectations](/manual/expectations)** addresses mutual 
-expectations among members of the group, with special attention to 
-student-advisor expectations. Again, a great deal of this section came from Lab 
-Carpentry and DXL, but other inspiration also came from [Chris 
-Blattman](http://chrisblattman.com/graduate-advising/), [Paul 
-Wilson](http://cnerg.github.io/), [Carl 
-Boettiger](http://www.carlboettiger.info), and lots of posts on [the Professor 
-Hacker Blog](http://chronicle.com/blogs/profhacker/).
-
-# Code of Conduct
-
-The mutual expectations within the group are built on a foundation of 
-respect, integrity, and professional conduct. In addition to institutional 
-standards, this group upholds our own evolving **[code of conduct](/manual/coc)**.
-
-# Guides
-
-**[The guides](/manual/guides/guides)** are a set of overviews and checklists 
-for mastering the practical, administrative, and computational infrastructure 
-ARFC relies on for various common tasks. All research group members should 
-contribute to this section early and often. The various channels through which 
-we communicate both internally and externally are documented in a set of 
-communication guides.

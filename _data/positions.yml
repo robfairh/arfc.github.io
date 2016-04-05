@@ -5,20 +5,14 @@
   url: '/positions/postdoc'
   description: 'Postdoctoral scholars are exceptional early career researchers who join the research group to pursue one or more ambitious projects suited to a future in a research-focused career. They should have received a Ph.D. in their area of research within the last 3 years and may be seated in either NCSA or NPRE, depending on the topic of their work.'
   available:
-    - title: "postdoc title 1"
-      description: "description 2"
-      required: "Python"
-      desired: "C++"
-      pic: /img/research/cyclus.gif
-      url: "url2"
-      start: "April 1, 2100"
-    - title: "postdoc title 2"
-      description: "description 2"
-      required: "Python"
-      desired: "C++"
-      pic: /img/research/cyclus.gif
-      url: "url2"
-      start: "April 1, 2100"
+    - title: "Postdoctoral Research Associate Position in computational nuclear engineering"
+      description: "The National Center for Supercomputing Applications (NCSA) seeks a computational nuclear engineering Postdoctoral Research Associate to be part of the Advanced Reactors and Fuel Cycles (ARFC) group led by Kathryn Huff (http://arfc.github.io) and the Data Exploration Lab led by Matthew Turk (https://dxl.ncsa.illinois.edu/).
+              Under general supervision of the principal investigators, the candidate will work as part of a team implementing physics kernels and applications within the Multiphysics Object-Oriented Simulation Environment (MOOSE) Finite Element Modeling (FEM) ecosystem. These kernels and simulations will extend current modeling capabilities to include models appropriate for the unique physics encountered in advanced reactor simulation. As much as possible, this work will be conducted in a transparent and open manner, with an emphasis on maximizing reproducibility and reuse potential. Accordingly, this work will leverage literate programming tools (e.g. Jupyter notebooks) as a platform for communicating analysis methods and results."
+      required: " PhD in nuclear engineering, physics, mechanical engineering, applied mathematics, computer science or closely related discipline. Significant experience in C++ programming. Significant experience in python programming. Strong mathematical background. Strong interest in advanced reactors and systems.  Strong written communication skills. A commitment to and demonstrated ability to perform collaborative research in an interdisciplinary team environment. A demonstrated capability to utilize high performance computing resources.  Demonstrated experience in analyzing simulation results."
+      desired: "Knowledge of nuclear reactors and systems. Experience with the MOOSE framework and its ecosystem of modules. Experience with Jupyter notebooks, git, and GitHub. Experience in consistent multiphysics coupling with Jacobian Free Newton Krylov methods. Enthusiasm for open, reproducible, quality-assured software development."
+      pic: /img/research/multiphysics.png
+      url: img/positions/2016-09-01-comp-nuc-postdoc.pdf
+      start: "September 1, 2016"
   
 - role: grad
   title: Graduate Research Assistants
@@ -26,20 +20,13 @@
   url: '/positions/grad'
   description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
   available:
-    - title: "grad title 1"
-      description: "description 1"
-      required: "Python"
-      desired: "C++"
-      pic: /img/research/cyclus.gif
-      url: "url2"
-      start: "April 1, 2100"
-    - title: "grad title 2"
-      description: "description 2"
-      required: "Python"
-      desired: "C++"
-      pic: /img/research/cyclus.gif
-      url: "url2"
-      start: "April 1, 2100"
+    - title: "Graduate Research Assistant"
+      description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
+      required: ""
+      desired: ""
+      pic: /img/positions/you.png
+      url: ""
+      start: "August 16, 2016"
  
 - role: ugrad
   title: Undergraduate Research Assistants

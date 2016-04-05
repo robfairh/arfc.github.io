@@ -1,44 +1,52 @@
 ---
 layout: manual
-title: Laboratory Manual
-subtitle: "How-to guide to ARFC."
-permalink: /manual/
+title: How to ask for a letter of recommendation from Katy
+subtitle: "Get the best letter of reference from me."
+permalink: /manual/guides/katy/recreq
 ---
 
-This part of the website is intended to be a living document capturing the 
-norms and processes behing this research group. The following sections were 
-inspired by [Lab Carpentry](http://labcarpentry.org) and its implementation at 
-the [Data Exploration Laboratory](https://dxl.ncsa.illinois.edu/). 
+# Listing me as a reference
 
-# Mission
+I would prefer that you do not list me as a reference unless you have asked me
+first whether I would be willing to support your application.
 
-The **[mission](/manual/mission)** section is a place to state our evolving vision for the safe, 
-sustainable future of nuclear energy through advanced modeling and simulation 
-of advanced reactors and fuel cycles.
+# Who I will write for
 
+I am very happy to write a letter of reference for most people who:
 
-# Expectations
+- took at least one course from me
+- worked in my research group
+- collaborated with me or my research group
+- or interacted with me in some other way relevant to the application
 
-The section on **[expectations](/manual/expectations)** addresses mutual 
-expectations among members of the group, with special attention to 
-student-advisor expectations. Again, a great deal of this section came from Lab 
-Carpentry and DXL, but other inspiration also came from [Chris 
-Blattman](http://chrisblattman.com/graduate-advising/), [Paul 
-Wilson](http://cnerg.github.io/), [Carl 
-Boettiger](http://www.carlboettiger.info), and lots of posts on [the Professor 
-Hacker Blog](http://chronicle.com/blogs/profhacker/).
+In all cases, I consider letter writing an exercise in integrity. I seek to be
+simultaneously as honest and generous as possible. Given this, please use your
+judgement, based on our past interactions, about whether I would be a good
+reference. If you are unsure about what kind of letter I would write for
+you, perhaps I am the wrong choice of reference.
 
-# Code of Conduct
+# Asking
 
-The mutual expectations within the group are built on a foundation of 
-respect, integrity, and professional conduct. In addition to institutional 
-standards, this group upholds our own evolving **[code of conduct](/manual/coc)**.
+If you're ok with all of this, please write me a pleasant formal email indicating that you have read this
+information:
 
-# Guides
+- Please make your request well in advance (at least a few weeks) before it will be due.
+- Please don't forget to [write a professional email](http://chrisblattman.com/2010/11/08/students-how-to-email-to-your-professor-employer-and-professional-peers/).
 
-**[The guides](/manual/guides/guides)** are a set of overviews and checklists 
-for mastering the practical, administrative, and computational infrastructure 
-ARFC relies on for various common tasks. All research group members should 
-contribute to this section early and often. The various channels through which 
-we communicate both internally and externally are documented in a set of 
-communication guides.
+I'm going to need some information. 
+
+- If I don't see you on a daily basis, please remind me how we know one another.
+- Please provide
+- your up to date CV or resume,
+- a list of where the letters will go,
+- ideally with links to descriptions of those positions,
+- and the due dates for the references.
+- Will they call me or ask for a letter?
+- Why do you think you are a good candidate?
+- Are there any specific guidelines for the letter?
+
+For grad school, scholarship, or academic job market applications, please send:
+
+- Any relevant application material (e.g. research statement, teaching statement, statement of intent)
+- Is there a particular feature of you or your work that I should address?
+
