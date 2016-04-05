@@ -36,12 +36,12 @@
   subcategories:
     - subtitle: "Mission"
       suburl: "/manual/mission"
-    - subtitle: "Code of Conduct`"
-      suburl: "/manual/coc"
     - subtitle: "Expectations"
       suburl: "/manual/expectations"
-    - subtitle: "Resources"
-      suburl: "/manual/resources"
+    - subtitle: "Code of Conduct`"
+      suburl: "/manual/coc"
+    - subtitle: "Guides"
+      suburl: "/manual/guides"
     - subtitle: "Meta"
       suburl: "/manual/meta"
 

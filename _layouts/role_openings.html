@@ -1,0 +1,41 @@
+---
+layout: page 
+---
+   <section id="jobs" class="{% cycle '', 'bg-light-gray' %}">
+        <div class="container">
+             <div class="row">
+             {% for type in site.data.positions %}
+                   {% if type.role == page.role %}
+                        {% for job in type.available %}
+			<div class="container">
+			    <div class="row job">
+				<div class="col-md-4">
+					<img src="{{ site.baseurl }}/img/{{ job.pic }}" class="img-responsive" alt="{{ job.title }}">
+				</div>
+				<div class="col-lg-8"> 
+                                        <h4>{{ job.title }}</h4> 
+					{% if job.url %}<p><i class="fa fa-link"></i> Link: <a href="#{{ job.url }}">{{ job.url }}</a></p>{% endif %}
+					{% if job.start %}<p><i class="fa fa-calendar"></i> Start Date: <a href="#{{ job.start }}">{{ job.start }}</a></p>{% endif %}
+					{% if job.required %}<p><i class="fa fa-graduation-cap"></i> Required Skills: <a href="#{{ job.required }}">{{ job.required }}</a></p>{% endif %}
+					{% if job.desired %}<p><i class="fa fa-graduation-cap"></i> Desired Skills: <a href="#{{ job.desired }}">{{ job.desired }}</a></p>{% endif %}
+                                        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                                                More Details 
+                                        </button> 
+                                        <div class="collapse" id="collapseExample"> 
+                                                <div class="card card-block"> 
+                                                        <p class="text-muted">{{ job.description }}</p> 
+                                                </div> 
+                                        </div>
+                                        <br/>
+				</div>
+			    </div>
+                                        <br/>
+			</div>
+            {% endfor %}
+            {% endif %}
+            {% endfor %}
+            </div>
+        </div>
+    </section>
+
+

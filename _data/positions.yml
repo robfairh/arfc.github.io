@@ -1,0 +1,58 @@
+- role: postdoc
+  title: Postdoctoral Scholars
+  role: postdoc
+  pic: /img/positions/postdoc.png
+  url: '/positions/postdoc'
+  description: 'Postdoctoral scholars are exceptional early career researchers who join the research group to pursue one or more ambitious projects suited to a future in a research-focused career. They should have received a Ph.D. in their area of research within the last 3 years and may be seated in either NCSA or NPRE, depending on the topic of their work.'
+  available:
+    - title: "postdoc title 1"
+      description: "description 2"
+      required: "Python"
+      desired: "C++"
+      url: "url2"
+      start: "April 1, 2100"
+    - title: "postdoc title 2"
+      description: "description 2"
+      required: "Python"
+      desired: "C++"
+      url: "url2"
+      start: "April 1, 2100"
+  
+- role: grad
+  title: Graduate Research Assistants
+  pic: /img/positions/grad.png
+  url: '/positions/grad'
+  description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
+  available:
+    - title: "grad title 1"
+      description: "description 1"
+      required: "Python"
+      desired: "C++"
+      url: "url2"
+      start: "April 1, 2100"
+    - title: "grad title 2"
+      description: "description 2"
+      required: "Python"
+      desired: "C++"
+      url: "url2"
+      start: "April 1, 2100"
+ 
+- role: ugrad
+  title: Undergraduate Research Assistants
+  pic: /img/positions/ugrad.png
+  url: '/positions/ugrad'
+  description: 'Our nuclear energy future may involve a mixture of technologies, reprocessing schemes, and waste managent strategies. Deployments may be driven by politics or demand, the options may be constrained by complex logistics, and the assessment of impacts requires analysis at scale. Our work focuses on modeling, simulation, and $analysis of the global nuclear fuel cycle, with an emphasis on sustainability.'
+  available:
+    - title: "Undergrad title 2"
+      description: "description 2"
+      required: "Python"
+      desired: "C++"
+      url: "url2"
+      start: "April 1, 2100"
+    - title: "Undergrad title 2"
+      description: "description 2"
+      required: "Python"
+      desired: "C++"
+      url: "url2"
+      start: "April 1, 2100"
+ 
