@@ -1,9 +1,12 @@
 ---
 layout: manual
 title: Getting Software Help from Katy
-subtitle: "You have a bug. I am your last hope."
+subtitle: "You have a bug. I am not your only hope."
 permalink: /manual/guides/katy/codereq
 ---
+
+![Googling the Error Message](https://pbs.twimg.com/media/CfFPuvoWwAALmcC.jpg "The most important fake book of our time."){:width="270px"}
+![Trying Stuff Until It Works](https://pbs.twimg.com/media/CfSQdwUW8AErog1.jpg:large "Another important fake book on persistence."){:width="270px"}
 
 # Google it
 
@@ -17,7 +20,11 @@ Once you google it, of course, try the things you found on google.
 # Stack Overflow
 
 If Google isn't sufficiently refined, or if your code issue isn't extremely 
-urgent, consider asking your question on 
+urgent, consider asking your question on the largest programming bug forum in  
+the solar system... [Stack Overflow](http://stackoverflow.com/). Be forewarned: the SO community 
+is not always friendly or well-moderated for snark. That said, you can definitely improve your odds of kind 
+answers by following [these tips on asking a question 
+well.](http://stackoverflow.com/help/how-to-ask).
 
 # Check your environment
 
@@ -34,8 +41,9 @@ explain your issues:
 - which python
 - which gcc
 
-If you don't know how to tell, google these environment variables. Or, read the 
-first chapter of [the book](http://physics.codes).
+If you don't know how to interperet these runes, google around to find the 
+meaning of these environment variables. Or, read the first chapter of [the 
+book](http://physics.codes).
 
 # Debuggers and Profilers
 
@@ -56,7 +64,7 @@ need this information to help you.
 
 # Contact me
 
-Only once you have tried _everything_ above and nothing has been clarified, 
+If you have tried _everything_ above and nothing has been clarified, then 
 should you email me.  The email should include your minimal working example or 
 your detailed documentation of the problem (above). I may need a few days to 
 look it over (so you may as well also add it to Stack Overflow in case they're 

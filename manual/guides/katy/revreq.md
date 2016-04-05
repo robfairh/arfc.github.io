@@ -1,7 +1,8 @@
 ---
 layout: manual
-title: Laboratory Manual
-subtitle: "How-to guide to ARFC."
+title: Requesting a Review of Something
+subtitle: "Reading, reviewing, and re-reviewing are a huge part of the research 
+process. Here are some tips to get the most useful reviews from me."
 permalink: /manual/
 ---
 
@@ -21,12 +22,14 @@ of advanced reactors and fuel cycles.
 
 The section on **[expectations](/manual/expectations)** addresses mutual 
 expectations among members of the group, with special attention to 
-student-advisor expectations. Again, a great deal of this section came from Lab 
-Carpentry and DXL, but other inspiration also came from [Chris 
-Blattman](http://chrisblattman.com/graduate-advising/), [Paul 
-Wilson](http://cnerg.github.io/), [Carl 
-Boettiger](http://www.carlboettiger.info), and lots of posts on [the Professor 
-Hacker Blog](http://chronicle.com/blogs/profhacker/).
+student-advisor expectations. Again, a great deal of this section came from 
+[Lab Carpentry](http://labcarpentry.org) and 
+[DXL](https://dxl.ncsa.illinois.edu.), but other inspiration also came from 
+[Chris Blattman](http://chrisblattman.com/graduate-advising/), 
+[Paul Wilson](http://cnerg.github.io/), 
+[Carl Boettiger](http://www.carlboettiger.info), 
+[Titus Brown](http://ivory.idyll.org/lab/) and lots of posts on 
+[the Professor Hacker Blog](http://chronicle.com/blogs/profhacker/).  
 
 # Code of Conduct
 

@@ -19,9 +19,14 @@ that can be captured in one.
 You're new to the research group. There are a lot of tasks to get done before 
 you can really fly. 
 
+- Read the [book](). You can borrow it from Katy or ask for an ebook version.
+- install python
+- install git
+- configure github
+- pick a text editor
 - Add yourself to this website
-- Handle HR stuff
-- Register for classes
+- Handle HR stuff 
+- Register for [classes](/manual/guides/classes)
 - Read the [Code of Conduct](/manual/coc)
 - Explore Chambana
 - 
@@ -32,11 +37,11 @@ We communicate through many channels. Understand and be prepared to make use of
 the various meetings, listhosts, chat media, calendars, twitter accounts, and 
 blogs that tie us together.
 
-- [shared reference library](/manual/guides/zotero)
-- [chatting]()
-- [calendars]()
-- [social media]()
-- [email]()
+- [shared reference library](/manual/guides/refman)
+- [chatting](/manual/guides/chat)
+- [calendars](/manual/guides/calendars)
+- [social media](/manual/guides/social)
+- [email](/manual/guides/email)
 
 # Installation 
 
@@ -45,6 +50,7 @@ blogs that tie us together.
 - configure github
 - install pyne
 - install moose
+-
 
 # Administrative
 
@@ -56,6 +62,7 @@ blogs that tie us together.
 - qualifying exam
 - thesis proposal
 - editing this website 
+-
 
 # Software
 
