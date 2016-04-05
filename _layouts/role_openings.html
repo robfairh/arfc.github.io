@@ -10,7 +10,7 @@ layout: page
 			<div class="container">
 			    <div class="row job">
 				<div class="col-md-4">
-					<img src="{{ site.baseurl }}/img/{{ job.pic }}" class="img-responsive" alt="{{ job.title }}">
+					<img src="{{ job.pic }}" class="img-responsive" alt="{{ job.title }}">
 				</div>
 				<div class="col-lg-8"> 
                                         <h4>{{ job.title }}</h4> 
@@ -18,10 +18,15 @@ layout: page
 					{% if job.start %}<p><i class="fa fa-calendar"></i> Start Date: <a href="#{{ job.start }}">{{ job.start }}</a></p>{% endif %}
 					{% if job.required %}<p><i class="fa fa-graduation-cap"></i> Required Skills: <a href="#{{ job.required }}">{{ job.required }}</a></p>{% endif %}
 					{% if job.desired %}<p><i class="fa fa-graduation-cap"></i> Desired Skills: <a href="#{{ job.desired }}">{{ job.desired }}</a></p>{% endif %}
-                                        <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">
+                                        <button class="btn btn-primary" 
+                                                type="button" 
+                                                data-toggle="collapse" 
+                                                data-target="#{{ forloop.index }}" 
+                                                aria-expanded="false" 
+                                                aria-controls="{{ forloop.index }}">
                                                 More Details 
                                         </button> 
-                                        <div class="collapse" id="collapseExample"> 
+                                        <div class="collapse" id="{{ forloop.index }}"> 
                                                 <div class="card card-block"> 
                                                         <p class="text-muted">{{ job.description }}</p> 
                                                 </div> 
