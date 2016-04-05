@@ -32,7 +32,7 @@
   title: Undergraduate Research Assistants
   pic: /img/positions/ugrad.png
   url: '/positions/ugrad'
-  description: 'Our nuclear energy future may involve a mixture of technologies, reprocessing schemes, and waste managent strategies. Deployments may be driven by politics or demand, the options may be constrained by complex logistics, and the assessment of impacts requires analysis at scale. Our work focuses on modeling, simulation, and $analysis of the global nuclear fuel cycle, with an emphasis on sustainability.'
+  description: 'Within ARFC, many projects appropriate for undergraduates require a significant dedication to learning software skills and best practices. Accordingly, we look for undergraduates who are available for at least 10 hours a week. We additionally invite undergraduates to join in our group meetings. In return for this higher level of participation, we will dedicate the time necessary to train you in high-utility computational skills. We may also be able to provide you with a desk for this work.'
   available:
     - title: "Predicting the Past with Nuclear Fuel Cycle Simulation"
       description: "
