@@ -25,12 +25,19 @@
     - url: https://twitter.com/katyhuff
       icon: twitter
       name: Twitter
-  
-- name: Ima Undergrad
-  pic: img/people/undergradi.gif
-  dates: 2016-present
-  status: ugrad
-  role: Undergraduate Research Assistant
-  src: https://google.com
-  url: https://google.com
-  description: 'Ima is interested in python.'
+
+- name: You
+  pic: /img/people/you.png
+  dates: now
+  status: PI
+  role: Group Member
+  src: /positions
+  url: /positions
+  description: 'Ideal ARFC group members seek to advance nuclear energy challenges through advanced computing, physics-informed modeling, and sophisticated simulation'
+  social: 
+    - url: mailto:katyhuff@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing 
+      icon: map-marker
+      name: 118 Talbot Lab
