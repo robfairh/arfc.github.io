@@ -22,11 +22,6 @@ the details.
 - If it's 30 minutes, schedule me for a 30 minute meeting and come very prepared.
 - If it's longer than 30 minutes, are you sure?
 
-This part of the website is intended to be a living document capturing the 
-norms and processes behing this research group. The following sections were 
-inspired by [Lab Carpentry](http://labcarpentry.org) and its implementation at 
-the [Data Exploration Laboratory](https://dxl.ncsa.illinois.edu/). 
-
 # How
 
 I look forward to meeting with you. I am always open to discuss new ideas with
