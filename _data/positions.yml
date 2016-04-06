@@ -11,7 +11,7 @@
       required: "PhD in nuclear engineering, physics, mechanical engineering, applied mathematics, computer science or closely related discipline. Significant experience in C++ programming. Significant experience in python programming. Strong mathematical background. Strong interest in advanced reactors and systems.  Strong written communication skills. A commitment to and demonstrated ability to perform collaborative research in an interdisciplinary team environment. A demonstrated capability to utilize high performance computing resources.  Demonstrated experience in analyzing simulation results."
       desired: "Knowledge of nuclear reactors and systems. Experience with the MOOSE framework and its ecosystem of modules. Experience with Jupyter notebooks, git, and GitHub. Experience in consistent multiphysics coupling with Jacobian Free Newton Krylov methods. Enthusiasm for open, reproducible, quality-assured software development."
       pic: /img/research/multiphysics.png
-      url: img/positions/2016-09-01-comp-nuc-postdoc.pdf
+      url: /img/positions/2016-09-01-comp-nuc-postdoc.pdf
       start: "September 1, 2016"
   
 - role: grad

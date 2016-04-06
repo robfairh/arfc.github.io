@@ -14,7 +14,7 @@ layout: page
 				</div>
 				<div class="col-lg-8"> 
                                         <h4>{{ job.title }}</h4> 
-					{% if job.url %}<p><i class="fa fa-link"></i> <b>Link:</b> <a href="#{{ job.url }}">{{ job.url }}</a></p>{% endif %}
+					{% if job.url %}<p><i class="fa fa-link"></i> <b>Link:</b> <a href="{{ job.url }}">{{ job.url }}</a></p>{% endif %}
 					{% if job.start %}<p><i class="fa fa-calendar"></i> <b>Start Date:</b> {{ job.start }}</a></p>{% endif %}
 					{% if job.required %}<p><i class="fa fa-graduation-cap"></i> <b>Required Skills:</b> {{ job.required }}</a></p>{% endif %}
 					{% if job.desired %}<p><i class="fa fa-graduation-cap"></i> <b>Desired Skills:</b> {{ job.desired }}</p>{% endif %}
