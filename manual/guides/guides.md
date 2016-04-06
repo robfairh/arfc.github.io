@@ -2,7 +2,7 @@
 layout: manual
 title: Guides
 subtitle: "Instructions and Checklists for practical, common tasks."
-permalink: /manual/guides
+permalink: /manual/guides/
 ---
 
 This page is an index of the growing set of guides behind the operations of the 
