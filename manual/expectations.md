@@ -21,6 +21,7 @@ As your PI, it is my responsibility to do a number of things.
 - **Pursue funding:** to support our work on ambitious projects toward the 
   missions of the group. If funding is going to lapse, I will provide fair 
   warning.
+- **
 - **Provide feedback:** in a timely manner on your research work, research 
   direction, written products, presentations, software design, data analysis, 
   career goals, and anything else of relevance to our collaboration.
@@ -50,7 +51,7 @@ As your PI, it is my responsibility to do a number of things.
 - **Connect you to my network:** whenever possible. I will connect students to 
   my professional network when it may be helpful to students as they seek out 
   external experts, additional mentors, summer internships, and careers. 
-- **Drive Publications:** by helping group members to identify and pursue 
+- **Direct Publication Efforts:** by helping group members to identify and pursue 
   publication-worthy work, helping to write and edit manuscripts, and guiding 
   the submission process. 
 

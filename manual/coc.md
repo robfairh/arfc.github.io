@@ -35,9 +35,8 @@ sexual attention, or creation of an otherwise sexualized environment.
 Group members asked to stop any harassing behavior are expected to comply 
 immediately.
 
-
-If a participant engages in harassing behavior, the conference organisers may 
-take any action they deem appropriate, including warning the offender or 
+If a member engages in harassing behavior, other group members and Kathryn Huff may 
+take any action they deem appropriate to stop this behavior, including warning the offender or 
 expulsion from the group and sactioning through official University of Illinois 
 channels.
 
