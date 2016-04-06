@@ -29,7 +29,7 @@ As your PI, it is my responsibility to do a number of things.
 - **Sign stuff:** On a related note, I'll sign stuff when you need it signed. 
   Just ask.
 - **Guide Research:** in both large-scale and small-scale ways. I will help students 
-  to select PhD or Masters projects at the larger scalle. At the smaller scale, 
+  to select PhD or Masters projects at the larger scale. At the smaller scale, 
   I will help to guide short term progress toward those accomplishments.
 - **Help to define and enforce timelines:** toward prompt completion of work. 
   That is, while not all researchers want or need externally enforced deadlines 
@@ -50,7 +50,9 @@ As your PI, it is my responsibility to do a number of things.
 - **Connect you to my network:** whenever possible. I will connect students to 
   my professional network when it may be helpful to students as they seek out 
   external experts, additional mentors, summer internships, and careers. 
-- Leading, writing, and editing manuscripts
+- **Drive Publications:** by helping group members to identify and pursue 
+  publication-worthy work, helping to write and edit manuscripts, and guiding 
+  the submission process. 
 
 # Postdoc Responsibilities
 
@@ -69,6 +71,7 @@ As your PI, it is my responsibility to do a number of things.
 - **Collaborate:** I very much hope that you will involve other members of the 
   research group (myself included) in the work that you do as a postdoc. We are 
   ready to share our effort, support, expertise, feedback, and ideas. 
+- **Support:** both graduate and undergraduate students in their work. 
 
 
 # Graduate Student Responsibilities
@@ -103,7 +106,6 @@ Students who are my advisees have many responsibilities to themselves, to me, an
   come to the office during the daytime with regularity.  I won't track your 
   hours, but I will worry if I haven't seen your face all week.
 - **Prioritize research:** because it is your job. 
-- develop research projects with the help of the PI
 - **Participate:** actively in the university and the department, attending 
   colloquia, workshops, and other professional, technical, and departmental 
   events when they are relevant to your work and professional growth. Of 
@@ -122,6 +124,7 @@ Students who are my advisees have many responsibilities to themselves, to me, an
 - **Communicate with your colleagues:** regularly concerning relevant 
   collaboration progress, challenges, and insights that impact the integrated 
   success of the group.
+- **:**
 - **Graduate promptly:** I expect MS students to take two years and PhD students to 
   take less than five years to complete all requirements and thesis defenses. 
   Of course there may be exceptions, but extenuating circumstances should be 
