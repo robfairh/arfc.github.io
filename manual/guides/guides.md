@@ -29,7 +29,6 @@ you can really fly.
 - Register for [classes](/manual/guides/classes)
 - Read the [Code of Conduct](/manual/coc)
 - Explore Chambana
-- 
 
 # Communication
 
@@ -50,7 +49,6 @@ blogs that tie us together.
 - configure github
 - install pyne
 - install moose
--
 
 # Administrative
 
@@ -62,7 +60,6 @@ blogs that tie us together.
 - qualifying exam
 - thesis proposal
 - editing this website 
--
 
 # Software
 
@@ -74,7 +71,6 @@ blogs that tie us together.
 - data management
 - cloud computing
 - using Blue Waters
-- 
 
 # Writing Papers
 
@@ -82,7 +78,6 @@ blogs that tie us together.
 - what to write
 - where to submit
 - paper templates
--
 
 # Presenting Work
 
@@ -90,7 +85,6 @@ blogs that tie us together.
 - what to present
 - where to present
 - paper templates
-- 
 
 # Dealing with Katy
 
@@ -102,4 +96,3 @@ way.
 - [Requesting comments on a document](/manual/guides/katy/revreq)
 - [Requesting help with software](/manual/guides/katy/codereq)
 - [Asking Katy to be on your PhD committee](/manual/guides/katy/commreq)
-- 
