@@ -41,7 +41,7 @@ standards, this group upholds our own evolving **[code of conduct](/manual/coc)*
 
 # Guides
 
-**[The guides](/manual/guides/guides)** are a set of overviews and checklists
+**[The guides](/manual/guides/)** are a set of overviews and checklists
 for mastering the practical, administrative, and computational infrastructure
 ARFC relies on for various common tasks. All research group members should
 contribute to this section early and often. If you're new to the research
