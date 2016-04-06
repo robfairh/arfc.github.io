@@ -21,7 +21,12 @@ As your PI, it is my responsibility to do a number of things.
 - **Pursue funding:** to support our work on ambitious projects toward the 
   missions of the group. If funding is going to lapse, I will provide fair 
   warning.
-- **
+- **Mentor:** students in their path to becoming independent scientists. I will 
+  strive to help you ask questions, engage the scientific literature, and 
+  design scientific work.
+- **Guide Research:** in both large-scale and small-scale ways. I will help students 
+  to select PhD or Masters projects at the larger scale. At the smaller scale, 
+  I will help to guide short term progress toward those accomplishments.
 - **Provide feedback:** in a timely manner on your research work, research 
   direction, written products, presentations, software design, data analysis, 
   career goals, and anything else of relevance to our collaboration.
@@ -29,9 +34,6 @@ As your PI, it is my responsibility to do a number of things.
   bulk of administrative and paperwork responsibilities.
 - **Sign stuff:** On a related note, I'll sign stuff when you need it signed. 
   Just ask.
-- **Guide Research:** in both large-scale and small-scale ways. I will help students 
-  to select PhD or Masters projects at the larger scale. At the smaller scale, 
-  I will help to guide short term progress toward those accomplishments.
 - **Help to define and enforce timelines:** toward prompt completion of work. 
   That is, while not all researchers want or need externally enforced deadlines 
   and specifically defined goals, many thrive when periodic expectations drive 
@@ -72,7 +74,8 @@ As your PI, it is my responsibility to do a number of things.
 - **Collaborate:** I very much hope that you will involve other members of the 
   research group (myself included) in the work that you do as a postdoc. We are 
   ready to share our effort, support, expertise, feedback, and ideas. 
-- **Support:** both graduate and undergraduate students in their work. 
+- **Support:** both graduate and undergraduate students by providing leadership 
+  in collaborative work. 
 
 
 # Graduate Student Responsibilities
@@ -86,11 +89,32 @@ Students who are my advisees have many responsibilities to themselves, to me, an
 - **Be responsible:** for informing yourself about graduation requirements, 
   departmental deadlines, career opportunities, and anything else that might 
   impact your standing.
+- **Communicate with Katy:** regularly about your progress, your lack of progress, your challenges, your 
+  needs, your strengths, your weaknesses, and anything else that impacts my 
+  ability to support you in your pursuit of a graduate degree.
+- **Communicate with your colleagues:** regularly concerning relevant 
+  collaboration progress, challenges, and insights that impact the integrated 
+  success of the group.
+- **Be present:** I expect you to be accessible during normal working hours.  
+  Feel free to follow a schedule that works for you, work from home once in a 
+  while when you need to, focus on coursework when that needs to take priority, 
+  read for exams, and take breaks when you want to. But, by default, plan to 
+  come to the office during the daytime with regularity.  I won't track your 
+  hours, but I will worry if I haven't seen your face all week.
+- **Participate:** actively in the university and the department, attending 
+  colloquia, workshops, and other professional, technical, and departmental 
+  events when they are relevant to your work and professional growth. Of 
+  course, participate within reason, as prioritizing research remains a key 
+  responsibility as well.
+- **Ask questions:** in talks, in meetings, and any time there is an 
+  opportunity.  
 - **Be resourceful:** toward your independence as a researcher. You should 
   actively explore the literature in your field, seek out solutions to your 
   challenges, study independently in order to fill gaps in your own knowledge, 
   and take the initiative to _try things out_ when you're curious to see what 
   happens. 
+- **Prioritize research:** by dedicating time and attention to it as you would 
+  a job. In many ways, this is a job.
 - **Have a plan:** It is your responsibility to work with Katy to identify a 
   research topic, identify research milestones and goals, plan your timeline 
   toward progress, plan for conference submissions, prepare for manuscript 
@@ -100,18 +124,6 @@ Students who are my advisees have many responsibilities to themselves, to me, an
   of these things.
 - **Be on time:** to meetings, because to do otherwise signals disrespect to 
   your colleagues. Consistent lateness will not be tolerated.
-- **Be present:** I expect you to be accessible during normal working hours.  
-  Feel free to follow a schedule that works for you, work from home once in a 
-  while when you need to, focus on coursework when that needs to take priority, 
-  read for exams, and take breaks when you want to. But, by default, plan to 
-  come to the office during the daytime with regularity.  I won't track your 
-  hours, but I will worry if I haven't seen your face all week.
-- **Prioritize research:** because it is your job. 
-- **Participate:** actively in the university and the department, attending 
-  colloquia, workshops, and other professional, technical, and departmental 
-  events when they are relevant to your work and professional growth. Of 
-  course, participate within reason, as prioritizing research remains a key 
-  responsibility as well.
 - **Attend group meetings:** these will take place as often as once a week and 
   graduate students are expected to attend and regularly present their work 
   within these meetings.
@@ -119,13 +131,9 @@ Students who are my advisees have many responsibilities to themselves, to me, an
   progress, insights you've gained from reading, tables and charts you may have 
   created, your plans for next week, any challenges to your progress, and 
   anything else Katy should know to interpret your progress.
-- **Communicate with Katy:** regularly about your progress, your lack of progress, your challenges, your 
-  needs, your strengths, your weaknesses, and anything else that impacts my 
-  ability to support you in your pursuit of a graduate degree.
-- **Communicate with your colleagues:** regularly concerning relevant 
-  collaboration progress, challenges, and insights that impact the integrated 
-  success of the group.
-- **:**
+- **Collaborate:** with other members of the group. Group members should strive 
+  to work collaboratively with one another toward the 
+  [mission](/manual/mission) rather than in competition.
 - **Graduate promptly:** I expect MS students to take two years and PhD students to 
   take less than five years to complete all requirements and thesis defenses. 
   Of course there may be exceptions, but extenuating circumstances should be 
@@ -138,6 +146,9 @@ The following are not explicitly required, but are strongly encouraged.
 - **Proactively apply:** for fellowships, scholarships, and awards.
 - **Mentor undergraduates:** when they need leadership from you in order to be 
   productive, contributing members of the research group.
+- **Be involved:** in professional societies, educational efforts, and other 
+  service activities that enrich your life as a scientist and improve your 
+  professional and technical network.
 
 # Undergraduate Responsibilities
 
@@ -151,4 +162,4 @@ For details on each of these, see above for now.
 - plan for the future
 - submit weekly reports
 - attend lab meetings when possible
-- apply for fellowships and scholarships
+- apply for scholarships, awards, and fellowships
