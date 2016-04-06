@@ -5,13 +5,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Laboratory Manual</title>
+  <title>Code of Conduct</title>
     <meta name="viewport" content="width=device-width">
   <meta name="description" content="Website for the Advanced Reactors and Fuel Cycles group">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
   <link rel="stylesheet" href="/style.css">
-  <link rel="canonical" href="http://arfc.github.io/manual/">
+  <link rel="canonical" href="http://arfc.github.io/manual/coc">
   <link rel="alternate" type="application/rss+xml" title="ARFC" href="http://arfc.github.io/feed.xml">
   <link rel="shortcut icon" href="http://arfc.github.io/favicon.ico" />
     <!-- Custom Fonts -->
@@ -132,13 +132,13 @@
         
           <a class="page-link" href="/manual/guides/katy/commreq">Committee Involvement</a>
         
-          <a class="page-link" href="/manual/expectations">Expectations</a>
+          <a class="page-link" href="/manual/coc">Code of Conduct</a>
         
           
         
           <a class="page-link" href="/positions/grad/">Graduate Openings</a>
         
-          <a class="page-link" href="/manual/guides/">Guides</a>
+          <a class="page-link" href="/manual/guides">Guides</a>
         
           <a class="page-link" href="/">Advanced Reactors and Fuel Cycles</a>
         
@@ -146,7 +146,7 @@
         
           <a class="page-link" href="/manual/guides/katy/meeting">Meeting with Katy</a>
         
-          <a class="page-link" href="/manual/mission">Mission</a>
+          <a class="page-link" href="/manual/coc">Code of Conduct</a>
         
           <a class="page-link" href="/research/other/">Other Stuff</a>
         
@@ -182,8 +182,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Laboratory Manual</h2>
-                    <h3 class="section-subheading text-muted">How-to guide to ARFC.</h3>
+                    <h2 class="section-heading">Code of Conduct</h2>
+                    <h3 class="section-subheading text-muted">In addition to University norms, rules, and expectations, we have adopted the following code of conduct.</h3>
                 </div>
             </div>
         </div>
@@ -193,47 +193,74 @@
                 <div class="col-md-3">
                 </div>
                 <div class="col-md-6">
-                        <p>This part of the website is intended to be a living document capturing the
-norms and processes behind this research group. The following sections were
-inspired by <a href="http://labcarpentry.org">Lab Carpentry</a> and its implementation at
-the <a href="https://dxl.ncsa.illinois.edu/">Data Exploration Laboratory</a> and the 
-<a href="http://ivory.idyll.org/lab/">Lab for Data Intensive Biology</a>.</p>
+                        All members of the research group are required to agree with the following code of
+conduct. Additionally, we collectively agree to enforce this code. We are
+expecting cooperation from all members to help ensuring a safe environment for
+everybody.
 
-<h1 id="mission">Mission</h1>
+## The Quick Version
 
-<p>The <strong><a href="/manual/mission">mission</a></strong> section is a place to state our evolving vision for the safe,
-sustainable future of nuclear energy through advanced modeling and simulation
-of advanced reactors and fuel cycles.</p>
+This research group is dedicated to providing a harassment-free conference 
+experience for everyone, regardless of gender, gender identity and expression, 
+age, sexual orientation, disability, physical appearance, body size, race, 
+ethnicity, religion (or lack thereof), or technology choices. We do not 
+tolerate harassment of group members or other colleagues in any form. Sexual 
+language and imagery is not appropriate for any professional setting, including 
+talks, workshops, parties, Twitter and other online media. Research group 
+members violating these rules may be sanctioned or expelled from the group at 
+the discretion of Kathryn Huff.
 
-<h1 id="expectations">Expectations</h1>
+## The Less Quick Version
 
-<p>The section on <strong><a href="/manual/expectations">expectations</a></strong> addresses mutual
-expectations among members of the group, with special attention to
-student-advisor expectations. Again, a great deal of this section came from
-<a href="http://labcarpentry.org">Lab Carpentry</a> and
-<a href="https://dxl.ncsa.illinois.edu.">DXL</a>, but other inspiration also came from
-<a href="http://chrisblattman.com/graduate-advising/">Chris Blattman</a>,
-<a href="http://cnerg.github.io/">Paul Wilson</a>,
-<a href="http://www.carlboettiger.info">Carl Boettiger</a>,
-<a href="http://ivory.idyll.org/lab/">Titus Brown</a> and lots of posts on
-<a href="http://chronicle.com/blogs/profhacker/">the Professor Hacker Blog</a>.</p>
+Harassment includes offensive verbal comments related to gender, gender 
+identity and expression, age, sexual orientation, disability, physical 
+appearance, body size, race, ethnicity, religion, technology choices, sexual 
+images in public spaces, deliberate intimidation, stalking, following, 
+harassing photography or recording, sustained disruption of the research 
+environment, talks, or other events, inappropriate physical contact, unwelcome 
+sexual attention, or creation of an otherwise sexualized environment.
 
-<h1 id="code-of-conduct">Code of Conduct</h1>
+Group members asked to stop any harassing behavior are expected to comply 
+immediately.
 
-<p>The mutual expectations within the group are built on a foundation of
-respect, integrity, and professional conduct. In addition to institutional
-standards, this group upholds our own evolving <strong><a href="/manual/coc">code of conduct</a></strong>.</p>
 
-<h1 id="guides">Guides</h1>
+If a participant engages in harassing behavior, the conference organisers may 
+take any action they deem appropriate, including warning the offender or 
+expulsion from the group and sactioning through official University of Illinois 
+channels.
 
-<p><strong><a href="/manual/guides/guides">The guides</a></strong> are a set of overviews and checklists
-for mastering the practical, administrative, and computational infrastructure
-ARFC relies on for various common tasks. All research group members should
-contribute to this section early and often. If you’re new to the research
-group, you’ll want to use the getting started guide. Additionally, the various channels
-through which we communicate both internally and externally are documented in a
-set of communication guides. Finally, approaches to productively working with
-Katy are captured in some of the guides as well.</p>
+If you are being harassed, notice that someone else is being harassed, or have 
+any other concerns, please contact Katy Huff immediately.  Katy Huff is 
+available to help group members contact security or local law enforcement, 
+navigate official University reporting channels, or otherwise assist those 
+experiencing harassment to feel safe in the research environment. 
+
+If Katy is the cause of the concern or you would prefer she not be involved, 
+official concerns can be addressed by contacting the 
+[UIUC WeCare office](http://wecare.illinois.edu/), or the 
+[Campus Office of Diversity, Equity and Access](http://www.diversity.illinois.edu/).
+
+We expect research group members to follow these rules in all professional 
+settings including the office, conferences, workshop venues, and group-related 
+social events.  We additionally expect members to treat each other 
+professionally with respect to their work and workspaces, with constructive 
+criticism, without dismissive behavior, and without disruption of shared 
+working spaces.
+
+## Original source and credit:
+
+This came from [http://2012.jsconf.us/#/about](http://2012.jsconf.us/#/about) 
+and 
+[The Ada Initiative](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) 
+with edits from  [DXL](https://dxl.ncsa.illinois.edu) and the 
+[Data Intensive Biology Lab](http://http://ivory.idyll.org/lab/).
+
+Please help by translating or improving: 
+[https://github.com/leftlogic/confcodeofconduct.com](http://github.com/leftlogic/confcodeofconduct.com).
+
+This work is licensed under a 
+[Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US).
+
 
                 </div>
                 <div class="col-md-3">
