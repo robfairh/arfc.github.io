@@ -1,3 +1,24 @@
+- title: TBA
+  event: PDE Software Frameworks 2016
+  type: Invited Keynote
+  place: University of Warwick, UK
+  month: July
+  day: 04
+  year: 2016
+  pic: http://www2.warwick.ac.uk/fac/sci/maths/research/events/2015-16/nonsymposium/pde/banner.svg
+  slides: http://katyhuff.github.io/2016-07-04-pdesoft/
+  description: 'TBA'
+
+- title: TBA
+  event: Engineering Academic Software Dagstuhl Perspectives Workshop
+  type: Invited Participant
+  place: Schloss-Dagstuhl, GERMANY
+  month: June
+  day: 19
+  year: 2016
+  pic: http://www.dagstuhl.de/fileadmin/assets/images/lzi_logo.gif
+  slides: http://katyhuff.github.io/2016-06-19-dagstuhl/
+  description: 'TBA'
 
 - title: Progress on Coupled Physics Modeling in Fluoride Salt Cooled High Temperature Reactors
   event: RPNSD
@@ -6,23 +27,23 @@
   month: March
   day: 03
   year: 2016
-  time: <++>
+  time: 11:00am
   pic: /img/pres/2016-03-03-ornl
   slides: https://katyhuff.github.io/2016-03-03-ornl
   description: 'This talk will discuss progress using various approaches to coupled physics analysis of reactor transients in Fluoride Salt Cooled High Temperature Reactors (FHRs), with particular focus on the Pebble-Bed, Fluoride Salt Cooled, High Temperature Reactor (PB-FHR). These have evolved from algebraic and 0-D models to more comprehensive 3D models. Development of steady state benchmarks for FHR simulation will be touched upon, as will challenges encountered in conducting benchmark comparisons among software of differing capabilities in this arena. The development and implementation of an incompressible but thermally expandable model of salt flow through the pebble bed will be discussed as well, in the context of implementation within the MOOSE framework.'
 
-- title: <++> 
-  event: <++>
-  type: <++>
-  place: <++>
-  month: <++>
-  day: <++>
-  year: <++>
-  time: <++>
-  pic: https://<++>
-  vid: https://<++>
-  slides: https://<++>
-  description: '<++>'
+- title: Reproducible Approaches to Modeling and Simulation in Nuclear Energy
+  event: Nuclear Engineering Department Colloquium
+  type: Invited
+  place: University of Tennesee, Knoxville
+  month: March
+  day: 02
+  year: 2016
+  time: 1:30-2:30pm
+  pic: /img/pres/2016-03-02-utk.png
+  vid: http://sf.ites.utk.edu/utk/Play/90f40585222b4f90913d04e0be80a6f81d?catalog=eb238cab-f997-4587-9b7b-d0a0ab83420f
+  slides: https://katyhuff.github.io/2016-03-02-utk
+  description: "The world's energy future depends on improved safety and sustainability of nuclear reactor designs and fuel cycle strategies. Insights can be drawn from numerical experiments that model and simulate these systems. Both reactor and nuclear fuel cycle dynamics are sufficiently complex that sophisticated scientific software methods, high-performance computing resources, and data analysis algorithms are essential to improving our understanding of them. Furthermore, improved reproducibility and verification in these numerical experiments can be achieved through judicious use of scientific computing best practices. This talk will touch on best practices approaches to building software and simulations for coupled physics analysis of reactor transients in the Pebble-Bed, Fluoride Salt Cooled, High Temperature Reactor (PB-FHR) as well as Cyclus, the agent-based nuclear fuel cycle simulation framework."
 
 - title: A Pythonic Future for Science Education 
   event: Supercomputing Conference, Workshop on Python For High Performance Computing
@@ -62,7 +83,8 @@ The scalability and sustainability of these initiatives, however, is limited by 
   year: 2008
   pic: /img/pres/2008-06-00-big-probs.png
   slides: /pres/biris_consolidated_2008.pdf
-  description: '<++>'
+  description: '
+          '
 
 - title: Beam Plug Project and Second Chip Project 
   event: Los Alamos Neutron Science Center (LANSCE-3)
@@ -109,6 +131,7 @@ The scalability and sustainability of these initiatives, however, is limited by 
   pic: /img/pres/huff_digital_2004_pres.png
   slides: /img/pres/huff_digital_2004_pres.png
   description: '<++>'
+
 
 - title: <++> 
   event: <++>
