@@ -28,7 +28,7 @@
   day: 03
   year: 2016
   time: 11:00am
-  pic: /img/pres/2016-03-03-ornl
+  pic: /img/pres/2016-03-03-ornl.png
   slides: https://katyhuff.github.io/2016-03-03-ornl
   description: 'This talk will discuss progress using various approaches to coupled physics analysis of reactor transients in Fluoride Salt Cooled High Temperature Reactors (FHRs), with particular focus on the Pebble-Bed, Fluoride Salt Cooled, High Temperature Reactor (PB-FHR). These have evolved from algebraic and 0-D models to more comprehensive 3D models. Development of steady state benchmarks for FHR simulation will be touched upon, as will challenges encountered in conducting benchmark comparisons among software of differing capabilities in this arena. The development and implementation of an incompressible but thermally expandable model of salt flow through the pebble bed will be discussed as well, in the context of implementation within the MOOSE framework.'
 
