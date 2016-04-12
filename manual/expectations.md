@@ -14,7 +14,7 @@ As your PI, it is my responsibility to do a number of things.
 
 - **Be supportive:** to the best of my ability or connect you to the support 
   you need. Universities are places of growth and challenge. I recognize that 
-  times will occasionally be dark or challenging. Throughout your group 
+  times will occasionally be dark or overwhelming. Throughout your group 
   membership, I will match your dedication to your success with support to the 
   best of my ability. When that is insufficient, I am also responsible for 
   pointing you toward external resources and helping you to formulate a plan. 
