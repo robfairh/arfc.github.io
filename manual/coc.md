@@ -8,7 +8,7 @@ permalink: /manual/coc
 All members of the research group are required to agree with the following code of
 conduct. Additionally, we collectively agree to enforce this code. We are
 expecting cooperation from all members to help ensuring a safe environment for
-everybody.
+everyone.
 
 ## The Quick Version
 
