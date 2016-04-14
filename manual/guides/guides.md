@@ -19,28 +19,27 @@ that can be captured in one.
 You're new to the research group. There are a lot of tasks to get done before 
 you can really fly. 
 
-- Read the [book](). You can borrow it from Katy or ask for an ebook version.
-- install python
-- install git
-- configure github
-- pick a text editor
-- Add yourself to this website
-- Handle HR stuff 
-- Register for [classes](/manual/guides/classes)
-- Read the [Code of Conduct](/manual/coc)
-- Explore Chambana
+- [ ] Read the [book](https://physics.codes). You can borrow it from Katy or ask for an ebook version.
+- [ ] install python
+- [ ] install git
+- [ ] get a GitHub account
+- [ ] configure github
+- [ ] pick a text editor
+- [ ] Add yourself to this website
+- [ ] Get Zotero set up
+- [ ] Add yourself to the [communication channels](/manual/guides/communication)
+- [ ] Handle HR stuff 
+- [ ] Register for [classes](/manual/guides/classes)
+- [ ] Read the [Code of Conduct](/manual/coc)
+- [ ] Explore Chambana
 
 # Communication
 
-We communicate through many channels. Understand and be prepared to make use of 
-the various meetings, listhosts, chat media, calendars, twitter accounts, and 
-blogs that tie us together.
+We communicate through many channels. Use the 
+[communication](/manual/guides/communication) guide to understand and be 
+prepared to make use of the various meetings, listhosts, chat media, calendars, 
+twitter accounts, and whatnot that tie us together.
 
-- [shared reference library](/manual/guides/refman)
-- [chatting](/manual/guides/chat)
-- [calendars](/manual/guides/calendars)
-- [social media](/manual/guides/social)
-- [email](/manual/guides/email)
 
 # Installation 
 
