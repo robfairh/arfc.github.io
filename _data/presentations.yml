@@ -20,6 +20,18 @@
   slides: http://katyhuff.github.io/2016-06-19-dagstuhl/
   description: 'TBA'
 
+- title: Reproducibility Initiatives at the Berkeley Institute for Data Science
+  event: NYU Reproducibility Symposium
+  type: Invited Keynote
+  place: Brooklyn, NY
+  month: May
+  day: 03
+  year: 2016
+  pic: '/img/pres/2016-05-03-nyu.png'
+  slides: http://katyhuff.github.io/2016-05-03-nyu
+  description: ' In parallel with the Moore-Sloan Data Science Environments at UW and NYU, the Berkeley Institute for Data Science (BIDS) has a working group focused on Reproducibility and Open Science. This working group has hosted workshops, horizon scans, tutorials, and seminars at Berkeley to encourage discussion, identify needs, and assist scientists with adopting available reproducibility tools. We are engaged in numerous projects related to these efforts. One is the development of a book of "reproducible case studies" that we collected from scientists across institutions and scientific disciplines. Each case study is a collection of a researcher’s summary of their most reproducible workflow, their insights about the tools used, the distinct stages of the workflow, the difficulties encountered while making the project more reproducible or replicable, and finally, any noteworthy benefits realized from the use of specific tools or research strategies. The book is intended to be a resource for scientists seeking to learn about potential best practices and processes that they might use toward reproducibility in their own work. This talk will review what we discovered through this process, including insights about researcher workflows, pain points, incentives, and human challenges.'
+
+
 - title: Progress on Coupled Physics Modeling in Fluoride Salt Cooled High Temperature Reactors
   event: RPNSD
   type: Seminar

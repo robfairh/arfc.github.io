@@ -19,19 +19,19 @@ that can be captured in one.
 You're new to the research group. There are a lot of tasks to get done before 
 you can really fly. 
 
-- [ ] Read the [book](https://physics.codes). You can borrow it from Katy or ask for an ebook version.
-- [ ] install python
-- [ ] install git
-- [ ] get a GitHub account
-- [ ] configure github
-- [ ] pick a text editor
-- [ ] Add yourself to this website
-- [ ] Get Zotero set up
-- [ ] Add yourself to the [communication channels](/manual/guides/communication)
-- [ ] Handle HR stuff 
-- [ ] Register for [classes](/manual/guides/classes)
-- [ ] Read the [Code of Conduct](/manual/coc)
-- [ ] Explore Chambana
+- Read the [Code of Conduct](/manual/coc)
+- Read the [book](https://physics.codes). You can borrow it from Katy or ask for an ebook version.
+- Install python
+- Install git
+- Get a GitHub account
+- Configure github
+- Pick a text editor
+- Add yourself to this website
+- Get Zotero set up
+- Add yourself to the [communication channels](/manual/guides/communication)
+- Handle HR stuff 
+- Register for [classes](/manual/guides/classes)
+- Explore Chambana
 
 # Communication
 
