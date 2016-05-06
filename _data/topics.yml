@@ -8,7 +8,7 @@
   pic: 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nuclear_Fuel_Cycle.svg/820px-Nuclear_Fuel_Cycle.svg.png'
   src: https://github.com/cyclus/cyclus
   url: http://www.fuelcycle.org
-  description: 'Our nuclear energy future may involve a mixture of technologies, reprocessing schemes, and waste managent strategies. Deployments may be driven by politics or demand, the options may be constrained by complex logistics, and the assessment of impacts requires analysis at scale. Our work focuses on modeling, simulation, and $analysis of the global nuclear fuel cycle, with an emphasis on sustainability.'
+  description: 'Our nuclear energy future may involve a mixture of technologies, reprocessing schemes, and waste managent strategies. Deployments may be driven by politics or demand, the options may be constrained by complex logistics, and the assessment of impacts requires analysis at scale. Our work focuses on modeling, simulation, and analysis of the global nuclear fuel cycle, with an emphasis on sustainability.'
 
 - title: Advanced Computation
   pic: img/research/bw_cropped.jpg
