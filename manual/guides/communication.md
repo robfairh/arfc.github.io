@@ -9,12 +9,14 @@ It's up to you how you prefer to communicate with the rest of the group.
 Please remember that the [Code of Conduct](/manual/coc) applies in all of these 
 channels.
 
-# GitHub 
+## GitHub 
 
 GitHub is where we store our code. So, it's also a place where we can discuss 
-that code. 
+that code. We have a GitHub organization for the group at 
+[github.com/arfc](https:github.com/arfc). More about using GitHub can be found 
+in the [github setup](/manual/github) guide and in [the book](http://physics.codes).
 
-## Issues
+### Issues
 
 Create issues with lots of information about how to replicate the issue, what 
 has been tried, etc. Use tags and milestones where possible. If you or someone 
@@ -24,24 +26,24 @@ person.
 As things move forward with the solution to an issue, continue to discuss 
 progress on the issue itself. 
 
-## Milestones
+### Milestones
 
 Milestones are groups of issues accompanied by a description and deadline. 
 These will often be created for a code release, publication submission, or 
 similarly multifaceted large goal.
 
-## Gists
+### Gists
 
 Sometimes, it's helpful to be able to communicate just a snippet of code. Gists 
 are one way to do this: https://gist.github.com/ 
 
-# Chatting
+## Chatting
 
 If you like synchronous communication, there are a couple of ways to chat with 
 the group or members of the group without causing extra email traffic. You are 
 not required to participate in synchronous communication.
 
-## Slack
+### Slack
 
 The ARFC group has an organizational account with [Slack](slack.com). To use 
 Slack:
@@ -57,7 +59,7 @@ Slack:
 Feel free to add channels for anything related to the group. Feel free to use 
 the random channel for fun, non-work stuff. 
 
-## Google Hangout
+### Google Hangout
 
 The current preferred video-conferencing platform in the group is [Google 
 Hangout](https://hangouts.google.com/). 
@@ -66,7 +68,7 @@ You can [add a google hangout to any google calendar
 event](https://support.google.com/a/answer/4362302?hl=en). This is encouraged 
 if you plan to host the meeting virtually.
 
-## Be careful
+### Be careful
 
 Note that both google hangouts and Slack may push notifications to your 
 desktop. This can be distracting while you're trying to focus. It can also be 
@@ -76,13 +78,13 @@ want these notifications to pop up and interrupt, you can pause them.** Both
 apps have a setting for this.
 
 
-# Email
+## Email
 
 Sign up for the [private ARFC 
 listhost](https://groups.google.com/forum/#!forum/arfc). This is where most 
 announcements will appear.
 
-# Twitter
+## Twitter
 
 ARFC is not on Twitter. Let me know if you think we should be.
 For now, if you like Twitter, though, don't hesitate to follow :
@@ -92,27 +94,27 @@ For now, if you like Twitter, though, don't hesitate to follow :
 - [https://twitter.com/NCSAatIllinois](@NCSAatIllinois)
 - [https://twitter.com/EngineeringAtIL](@EngineeringAtIL)
 
-# Blog
+## Blog
 
 This website has a news section. Blog posts are strongly encouraged!  To post, 
 add a markdown file to the `_posts` directory in the arfc/arfc.github.io source 
 repository. Submit it as a pull request. You can follow the [RSS 
 feed](https://arfc.github.io/feed.xml) if you use a feed reader. 
 
-# Documents
+## Documents
 
 Any research group is going to have a lot of documents. Ideally, they will be 
 easily found by the members of the group who should have access. When in doubt, 
 make documents as public as possible. We use the following places to edit and 
 store documents.
 
-## GitHub
+### GitHub
 
 Any documents related to software development should probably be in the 
 documentation for the code itself, version controlled in GitHub. Similarly, 
 manuscripts for publication should be developed on GitHub. 
 
-## Guides
+### Guides
 
 Permanent documents and records related to the operation of the research group 
 might be appropriate for these guides, here on the website. To add or edit a 
@@ -137,7 +139,7 @@ Once you have the repository cloned and jekyll is installed:
 - Press Ctrl-C to stop serving the site locally
 - Once it's all looking nice, make a pull request to the source branch of arfc/arfc.github.io
 
-## Wiki
+### Wiki
 
 There's also [a wiki for the ARFC 
 group](https://wiki.cites.illinois.edu/wiki/display/ARFC/). If that seems like 
@@ -145,22 +147,21 @@ the appropriate place for a document then please use that.
 
 You'll need to log in with your Illinois credentials. 
 
-## Google Drive
+### Google Drive
 
 Notes in meetings and other really simultaneous editing is probably easiest in 
 Google Docs. We have a group Google Drive directory for information that should be 
 shared and accessible to all group members. To use this: 
 
-- Learn about the Illinois Google Drive setup here: 
-  https://answers.uillinois.edu/illinois/55050
-- Consider installing the Google Drive desktop application for ease of use. 
+- Learn about the Illinois Google Drive setup [here](https://answers.uillinois.edu/illinois/55050).
+- Consider installing the [Google Drive desktop application](https://www.google.com/drive/download/) for ease of use. 
 - Tell Katy what email address(es) to give read/write permission for the group 
   directory.
 - Try to keep the ARFC directory tidy by categorizing new documents as logically as 
   possible.
 
 
-# Calendar 
+## Calendar 
 
 ARFC has a google calendar. It has various scholarship, fellowship, and grant 
 deadlines that group members might want to be aware of. It also is a great 
