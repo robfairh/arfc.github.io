@@ -1,7 +1,7 @@
 ---
 layout: role_openings
 title: Graduate Openings
-subtitle: "Current openings for postdoctoral researchers"
+subtitle: "Current openings for graduate researchers"
 intro: "Graduate research assistants in ARFC are PhD or masters students 
 enrolled at UofI, typically in the NPRE department. These students can be 
 supported to conduct research that advances a dissertation or thesis project 
