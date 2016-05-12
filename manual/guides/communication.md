@@ -122,36 +122,34 @@ guide, you will first need to have the website repository forked and cloned.
 
 - fork the website repository
 - clone your fork of the website repository
-- `cd arfc.github.io`
-- `git checkout source`
 
 You'll also need to [have jekyll installed.](https://jekyllrb.com/docs/installation/) 
 
-
 Once you have the repository cloned and jekyll is installed:
 
+- `cd arfc.github.io`
+- `git checkout source`
 - `cd manual/guides`
-- Add or edit the markdown file of your choice
+- Add or edit the markdown file of your choice.
 - Git add, git commit, and git push your changes to the source branch of your 
-  fork
-- Check that it looks ok by running `jekyll serve`
-- In your browser, navigate to localhost:4000 to see the site rendered.
-- Press Ctrl-C to stop serving the site locally
-- Once it's all looking nice, make a pull request to the source branch of arfc/arfc.github.io
+  fork.
+- Check that it looks ok by running `jekyll serve`.
+- In your browser, navigate to [localhost:4000](http://localhost:4000/) to see the site rendered.
+- Once you're satisfied, press Ctrl-C to stop serving the site locally.
+- Once it's all looking nice, make a pull request to the source branch of [arfc/arfc.github.io](https://github.com/arfc/arfc.github.io/).
 
 ### Wiki
 
 There's also [a wiki for the ARFC 
 group](https://wiki.cites.illinois.edu/wiki/display/ARFC/). If that seems like 
-the appropriate place for a document then please use that.
-
-You'll need to log in with your Illinois credentials. 
+the appropriate place for a document then please use that.  You'll need to log 
+in with your Illinois credentials. 
 
 ### Google Drive
 
 Notes in meetings and other really simultaneous editing is probably easiest in 
 Google Docs. We have a group Google Drive directory for information that should be 
-shared and accessible to all group members. To use this: 
+shared and accessible to all group members. To use google drive 
 
 - Learn about the Illinois Google Drive setup [here](https://answers.uillinois.edu/illinois/55050).
 - Consider installing the [Google Drive desktop application](https://www.google.com/drive/download/) for ease of use. 

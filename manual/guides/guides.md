@@ -19,19 +19,21 @@ that can be captured in one.
 You're new to the research group. There are a lot of tasks to get done before 
 you can really fly. 
 
-- Read the [Code of Conduct](/manual/coc)
-- Read the [book](https://physics.codes). You can borrow it from Katy or ask for an ebook version.
-- Install python
-- Install git
-- Get a GitHub account
-- Configure github
-- Pick a text editor
-- Add yourself to this website
-- Get Zotero set up
-- Add yourself to the [communication channels](/manual/guides/communication)
-- Handle HR stuff 
-- Register for [classes](/manual/guides/classes)
-- Explore Chambana
+- Read the [Code of Conduct](/manual/coc).
+- Read the [book](https://physics.codes). Ask Katy if she has a copy lying around.
+- Install a text editor of your choosing. (Katy uses [vim](http://www.vim.org/) but it can be difficult.
+- Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
+- Install git.
+- [Configure](http://swcarpentry.github.io/git-novice/02-setup.html) git.
+- Get a [Zotero account](https://www.zotero.org/user/register/).
+- Join the [ARFC Zotero group](https://www.zotero.org/groups/arfc).
+- Install the [Zotero desktop application](https://www.zotero.org/download/).
+- Add yourself to the [communication channels](/manual/guides/communication).
+- Install other software you'll need.
+- Add yourself to this website.
+- Handle HR stuff.
+- Register for [classes](/manual/guides/classes).
+- Explore [Chambana](https://localwiki.org/cu/).
 
 # Communication
 
@@ -43,9 +45,8 @@ twitter accounts, and whatnot that tie us together.
 
 # Installation 
 
-- install python
 - install git
-- configure github
+- install python
 - install pyne
 - install moose
 
