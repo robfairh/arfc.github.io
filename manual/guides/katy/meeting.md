@@ -19,7 +19,7 @@ the details.
 
 - If it's 5 minutes, try dropping by my office. 
 - If it's 15 minutes, schedule me for a 15 minute meeting. 
-- If it's 30 minutes, schedule me for a 30 minute meeting and come very prepared.
+- If it's 30 minutes, schedule me for a 30 minute meeting and come prepared.
 - If it's longer than 30 minutes, are you sure?
 
 # How
