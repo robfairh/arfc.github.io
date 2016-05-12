@@ -21,7 +21,7 @@ you can really fly.
 
 - Read the [Code of Conduct](/manual/coc).
 - Read the [book](https://physics.codes). Ask Katy if she has a copy lying around.
-- Install a text editor of your choosing. (Katy uses [vim](http://www.vim.org/) but it can be difficult.
+- Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
 - Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
 - Install git.
 - [Configure](http://swcarpentry.github.io/git-novice/02-setup.html) git.
