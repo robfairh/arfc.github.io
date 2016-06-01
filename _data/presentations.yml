@@ -9,6 +9,18 @@
   slides: http://katyhuff.github.io/2016-06-19-dagstuhl/
   description: 'TBA'
 
+- title: BIDS: Berkeley Institute for Data Science 
+  event: Nuclear Data Science Workshop - Sorma West
+  type: Lightning Talk
+  place: University of California, Berkeley, CA
+  month: May
+  day: 27
+  year: 2016
+  time: 11:00am
+  pic: /img/pres/2016-05-27-sorma.png
+  slides: http://katyhuff.github.io/2016-05-27-sorma/
+  description: 'A discussion of the various eductional activities at the Berkeley Institute for Data Science and at Berkeley more generally'
+
 - title: Reproducibility Initiatives at the Berkeley Institute for Data Science
   event: NYU Reproducibility Symposium
   type: Invited Keynote
