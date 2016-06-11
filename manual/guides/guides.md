@@ -22,15 +22,16 @@ you can really fly.
 - Read the [Code of Conduct](/manual/coc).
 - Read the [book](https://physics.codes). Ask Katy if she has a copy lying around.
 - Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
+- Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
-- Install git.
+- Tell Katy your username so she can add you to the [ARFC github organization.](https://github.com/arfc)
 - [Configure](http://swcarpentry.github.io/git-novice/02-setup.html) git.
 - Get a [Zotero account](https://www.zotero.org/user/register/).
 - Join the [ARFC Zotero group](https://www.zotero.org/groups/arfc).
 - Install the [Zotero desktop application](https://www.zotero.org/download/).
 - Add yourself to the [communication channels](/manual/guides/communication).
+- Add yourself to [this website.](/manual/guides/website)
 - Install other software you'll need.
-- Add yourself to this website.
 - Handle HR stuff.
 - Register for [classes](/manual/guides/classes).
 - Explore [Chambana](https://localwiki.org/cu/).

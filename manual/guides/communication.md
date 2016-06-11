@@ -14,7 +14,7 @@ channels.
 GitHub is where we store our code. So, it's also a place where we can discuss 
 that code. We have a GitHub organization for the group at 
 [github.com/arfc](https:github.com/arfc). More about using GitHub can be found 
-in the [github setup](/manual/github) guide and in [the book](http://physics.codes).
+in the in [the book](http://physics.codes).
 
 ### Issues
 
