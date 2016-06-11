@@ -12,7 +12,7 @@ the website, including blog posts and comments.
 ## Set Up 
 
 1. Install the build dependencies for the website. These include ruby, jekyll, 
-   and jekyllscholar.
+   and jekyll-scholar. Get started [here.](https://jekyllrb.com/docs/installation/).
 2. [Fork](https://github.com/arfc/arfc.github.io#fork-destination-box) the website repository. 
 3. Clone your fork. If you have [your ssh keys set up](https://help.github.com/articles/generating-an-ssh-key/) 
    and your username is USERNAME, the command is `git clone 
