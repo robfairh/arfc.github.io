@@ -13,8 +13,7 @@ members should contribute to this section early and often. If possible, link to
 github repositories, gists, or Jupyter notebooks when there is a guide item 
 that can be captured in one. 
 
-
-# Getting Started
+# <a name="gettingstarted"></a>Getting Started
 
 You're new to the research group. There are a lot of tasks to get done before 
 you can really fly. 
