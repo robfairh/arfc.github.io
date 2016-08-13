@@ -24,7 +24,7 @@ work will likely also emphasize open source advanced reactor multiphysics.
 
 Additionally, a small team of undergraduate researchers will join the group
 this year in the area of nuclear fuel cycle simulation. These include Kathryn
-Mummah and Jin Whan Bae of NPRE as well as Matthew Worley and Yunkon Tan who
+Mummah and Jin Whan Bae of NPRE as well as Matthew Worley and Yukun Tan who
 will join us through the [NCSA SPIN](http://spin.ncsa.illinois.edu/) program.  
 
 With the help of all of these researchers, I expect ARFC will really be able to
