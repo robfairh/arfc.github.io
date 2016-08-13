@@ -55,10 +55,10 @@ subtitle: University of Illinois at Urbana-Champaign
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 text-center">
+                <div class="col-md-12 text-center">
 		    {% for post in site.posts %}
-			<span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-			<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+                    <span class="post-meta"><h2>{{ post.date | date: "%b %-d, %Y" }}</h2></span>
+			<h3><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
 		    {% endfor %}
 		<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
                 </div>
