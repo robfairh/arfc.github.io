@@ -1,8 +1,16 @@
 - role: postdoc
+  title: Postdoctoral Researchers
   pic: /img/positions/postdoc.png
   url: '/positions/postdoc'
   description: 'Postdoctoral scholars are exceptional early career researchers who join the research group to pursue one or more ambitious projects suited to a future in a research-focused career. They should have received a Ph.D. in their area of research within the last 3 years and may be seated in either NCSA or NPRE, depending on the topic of their work.'
   available:
+    - title: "Postdoctoral Researcher - General"
+      description: 'Even if direct funding for a new postdoctoral opening is not available in the ARFC group, applications from exceptional postdoctoral researchers, especially those with their own source of funding, will always be considered. The ideal postdoctoral researcher for ARFC would be interested in spending 1-3 years at UofI. A background in nuclear engineering, fuel cycles, reactor physics, and computing will be essential. Such researchers should be interested in conducting research that is in synergy with the mission of the research group as a whole.'
+      required: "PhD in nuclear engineering, physics, computer science, or similar"
+      desired: "extensive modeling and simulation experience"
+      pic: /img/positions/you.png
+      start: "TBD"
+  closed:
     - title: "Postdoctoral Research Associate Position in computational nuclear engineering"
       description: "The National Center for Supercomputing Applications (NCSA) seeks a computational nuclear engineering Postdoctoral Research Associate to be part of the Advanced Reactors and Fuel Cycles (ARFC) group led by Kathryn Huff (http://arfc.github.io) and the Data Exploration Lab led by Matthew Turk (https://dxl.ncsa.illinois.edu/).
               Under general supervision of the principal investigators, the candidate will work as part of a team implementing physics kernels and applications within the Multiphysics Object-Oriented Simulation Environment (MOOSE) Finite Element Modeling (FEM) ecosystem. These kernels and simulations will extend current modeling capabilities to include models appropriate for the unique physics encountered in advanced reactor simulation. As much as possible, this work will be conducted in a transparent and open manner, with an emphasis on maximizing reproducibility and reuse potential. Accordingly, this work will leverage literate programming tools (e.g. Jupyter notebooks) as a platform for communicating analysis methods and results."
@@ -23,15 +31,13 @@
       required: "acceptance into the NPRE graduate program, interest in fuel cycle analysis, competency in some programming language."
       desired: "C++, python, git, statistics, machine learning"
       pic: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nuclear_Fuel_Cycle.svg/820px-Nuclear_Fuel_Cycle.svg.png"
-      url: ""
       start: "August 16, 2016"
     - title: "Graduate Research Assistant - General"
       description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
-      required: ""
-      desired: ""
+      required: "TBD"
+      desired: "TBD"
       pic: /img/positions/you.png
-      url: ""
-      start: "August 16, 2016"
+      start: "TBD"
  
 - role: ugrad
   title: Undergraduate Research Assistants
@@ -39,6 +45,23 @@
   url: '/positions/ugrad'
   description: 'Within ARFC, many projects appropriate for undergraduates require a significant dedication to learning software skills and best practices. Accordingly, we look for undergraduates who are available for at least 10 hours a week. We additionally invite undergraduates to join in our group meetings. In return for this higher level of participation, we will dedicate the time necessary to train you in high-utility computational skills. We may also be able to provide you with a desk for this work.'
   available:
+    - title: "Geospatial Data Attributes for Cyclus Nuclear Fuel Cycle Simulation Agents"
+      description: "To assess the geographic impacts of nuclear energy, simulate regional variations in energy deployment, and optimize placement of new facilities, Cyclus agents (Facilities, Institutions, and Regions) must possess a notion of their own location . We seek a student who will implement a lightweight location data attribute to enrich Agent class objects in the Cyclus nuclear fuel cycle simulation framework. The student will implement necessary unit tests, add documentation, and demonstrate the rich use of this attribute in existing models. Ideally, the student will work with our team to prepare a conference paper or journal article on this benchmark result. Though learning through doing is integral to this effort, applicants must be comfortable in UNIX/Linux environments and should have some knowledge of C++. Applicants with experience using SQL, HDF5, XML, and Python will be preferred.
+
+Apply through SPIN by April 8.
+"
+      required: "Written communication skills, UNIX/Linux, C++"
+      desired: "SQL, HDF5, XML, Python"
+      pic: /img/research/cyclus.gif
+      start: "September 1, 2016"
+    - title: "Predictive Models for Facility Deployment"
+      description: "The student will work within a team on implementing a new predicitve capability in the Cyclus nuclear fuel cycle simulator software.  This work will use statistical models to bring demand and deployment decisions into the Cyclus simulator itself.  We seek a student who is interested in potentially staying on with the ARFC group as a graduate student.  The student will implement necessary unit tests, add documentation, and demonstrate the rich use of this new predictive capability in existing models. Ideally, the student will work with our team to prepare a conference paper or journal article on these demonstrations. Though learning through doing is integral to this effort, applicants must be comfortable in UNIX/Linux environments and should have some knowledge of C++. Applicants with experience using SQL, HDF5, XML, and Python will be preferred.
+"
+      required: "Written communication skills, UNIX/Linux"
+      desired: "SQL, HDF5, XML, Python"
+      pic: /img/research/cyclus.gif
+      start: "TBD"
+  closed:
     - title: "Predicting the Past with Nuclear Fuel Cycle Simulation"
       description: "To validate its accuracy, the Cyclus tool must be able to predict the past. We seek a student to set up and conduct Cyclus simulations that accurately predict and simulate the history of nuclear energy. Starting at the dawn of commercial nuclear power, the student will define the initial conditions and deployment of reactors as they were deployed historically using what we know (wikidata, IAEA records, etc.) to approximate operating histories, deployment rules, power consumption growth rates, and other details. This simulation should approximate as closely as possible the true history of nuclear power deployment and arrive at what we know to be the existing stored fuel inventory. Ideally, the student will work with our team to publish a conference paper or journal article on this benchmark result. Though learning through doing is integral to this effort, applicants must be comfortable in UNIX/Linux environments. Applicants with experience using SQL, HDF5, XML, Python, and C++ will be preferred.
 
@@ -49,17 +72,6 @@ Apply through SPIN by April 8.
       pic: /img/research/cyclus.gif
       url: "http://spin.ncsa.illinois.edu/"
       start: "September 1, 2016"
-    - title: "Geospatial Data Attributes for Cyclus Nuclear Fuel Cycle Simulation Agents"
-      description: "To assess the geographic impacts of nuclear energy, simulate regional variations in energy deployment, and optimize placement of new facilities, Cyclus agents (Facilities, Institutions, and Regions) must possess a notion of their own location . We seek a student who will implement a lightweight location data attribute to enrich Agent class objects in the Cyclus nuclear fuel cycle simulation framework. The student will implement necessary unit tests, add documentation, and demonstrate the rich use of this attribute in existing models. Ideally, the student will work with our team to prepare a conference paper or journal article on this benchmark result. Though learning through doing is integral to this effort, applicants must be comfortable in UNIX/Linux environments and should have some knowledge of C++. Applicants with experience using SQL, HDF5, XML, and Python will be preferred.
-
-Apply through SPIN by April 8.
-"
-      required: "Written communication skills, UNIX/Linux, C++"
-      desired: "SQL, HDF5, XML, Python"
-      pic: /img/research/cyclus.gif
-      url: "http://spin.ncsa.illinois.edu/"
-      start: "September 1, 2016"
- 
     - title: "Web Scraping to Assemble Geospatial Nuclear Power Data"
       description: "To assess the geographic impacts of nuclear energy and optimize placement of new facilities, Cyclus is in need of a rich geospatial information dataset. We seek a student to create and populate a large data library with geospatial information relevant to nuclear energy. In particular, the student will scrape the web to create a self-updating database of nuclear power plant locations, other nuclear fuel cycle facility locations, existing spent nuclear fuel storage locations, related infrastructure, the electric grid, and other information layers. Extensive use of data APIs (e.g. WikiData), scripting (e.g., python), database. This data capability will be developed in the open alongside Cyclus, but will ideally be distributed for more general use and will be published in a cite-able and open manner. Though learning through doing is integral to this effort, applicants must have some knowledge of Python. Applicants with experience using SQL, HDF5, XML, and C++ will be preferred.
 
