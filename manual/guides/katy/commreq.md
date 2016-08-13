@@ -8,7 +8,7 @@ permalink: /manual/guides/katy/commreq
 # Conditions
 
 - Your research should be something I can substantively comment on. 
-- Please schedule all meetings well in advance (at least two months).
+- Please schedule all committee meetings well in advance (at least two months).
 - You must have a reproducibility plan for your research that describes how a 
   scientist could reproduce your work. This may involve pointing to data, 
   scripting analysis, version controlling all scripts you use in your work, and 
