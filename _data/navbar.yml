@@ -23,8 +23,6 @@
       suburl: "/positions/grad"
     - subtitle: "Postdoctoral"
       suburl: "/positions/postdoc"
-    - subtitle: "Staff"
-      suburl: "/positions/staff"
 
 - title: "Manual"
   url: "/manual/"
