@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 As the first semester of the ARFC group begins this fall, I'm excited to 
-announce that that a number of researchers will join the group.
+announce that a number of researchers will join the group.
 
 Alexander Lindsay will be joining us a postdoctoral scholar. He received his
 undergraduate degree in Chemical Engineering from the University of Washington
