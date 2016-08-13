@@ -5,8 +5,8 @@
     <description>Website for the Advanced Reactors and Fuel Cycles group</description>
     <link>http://arfc.github.io/</link>
     <atom:link href="http://arfc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 13 Aug 2016 12:10:56 -0500</pubDate>
-    <lastBuildDate>Sat, 13 Aug 2016 12:10:56 -0500</lastBuildDate>
+    <pubDate>Sat, 13 Aug 2016 12:13:02 -0500</pubDate>
+    <lastBuildDate>Sat, 13 Aug 2016 12:13:02 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -30,7 +30,7 @@ article announcing that I’ll be joining NPRE. You can read the article
       <item>
         <title>ARFC and ERGS Receive NEUP R&amp;D Award</title>
         <description>&lt;p&gt;The United State Department of Energy &lt;a href=&quot;https://neup.inl.gov/Lists/Headlines/AnnouncementDispForm.aspx?ID=134&quot;&gt;announced&lt;/a&gt; today that ARFC, in collaboration with the University of South Carolina’s Energy and Resources Group led by Anthony Scopatz 
-&lt;a href=&quot;http://www.ergs.sc.edu/&quot;&gt;ERGS&lt;/a&gt;, would recieve 3 years of NEUP R&amp;amp;D support. The 
+(&lt;a href=&quot;http://www.ergs.sc.edu/&quot;&gt;ERGS&lt;/a&gt;), would recieve 3 years of NEUP R&amp;amp;D support. The 
 ARFC group will be able to support extensive work on predictive deployment 
 models for the Cyclus fuel cycle simulator and its library of available 
 modules, Cycamore. The abstract for this award, 
