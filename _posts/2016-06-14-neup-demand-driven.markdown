@@ -7,7 +7,7 @@ categories: jekyll update
 ---
 
 The United State Department of Energy [announced](https://neup.inl.gov/Lists/Headlines/AnnouncementDispForm.aspx?ID=134) today that ARFC, in collaboration with the University of South Carolina's Energy and Resources Group led by Anthony Scopatz 
-[ERGS](http://www.ergs.sc.edu/), would recieve 3 years of NEUP R&D support. The 
+([ERGS](http://www.ergs.sc.edu/)), would recieve 3 years of NEUP R&D support. The 
 ARFC group will be able to support extensive work on predictive deployment 
 models for the Cyclus fuel cycle simulator and its library of available 
 modules, Cycamore. The abstract for this award, 
