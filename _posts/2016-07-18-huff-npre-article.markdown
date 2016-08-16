@@ -8,5 +8,5 @@ categories: jekyll update
 
 I am thrilled to be featured in the NPRE news today. Susan Mumm wrote a lovely 
 article announcing that I'll be joining NPRE. You can read the article 
-[here]Phttp://npre.illinois.edu/news/reactor-physicist-katy-huff-joins-npre-faculty).
+[here](http://npre.illinois.edu/news/reactor-physicist-katy-huff-joins-npre-faculty).
 
