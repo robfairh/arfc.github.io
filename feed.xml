@@ -5,15 +5,53 @@
     <description>Website for the Advanced Reactors and Fuel Cycles group</description>
     <link>http://arfc.github.io/</link>
     <atom:link href="http://arfc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 15 Aug 2016 12:53:41 -0500</pubDate>
-    <lastBuildDate>Mon, 15 Aug 2016 12:53:41 -0500</lastBuildDate>
+    <pubDate>Wed, 17 Aug 2016 08:59:29 -0500</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 08:59:29 -0500</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>New Group Members Join ARFC</title>
+        <description>&lt;p&gt;As the first semester of the ARFC group begins this fall, I’m excited to 
+announce that a number of researchers will join the group.&lt;/p&gt;
+
+&lt;p&gt;Alexander Lindsay will be joining us a postdoctoral scholar. He received his
+undergraduate degree in Chemical Engineering from the University of Washington
+and received his PhD this summer from North Carolina State University. He will
+be joining ARFC as well as the &lt;a href=&quot;https://dxl.ncsa.illinois.edu/&quot;&gt;Data Exploration Laboratory
+(DXL)&lt;/a&gt; led by Matthew Turk. His activities will
+emphasize open source advanced reactor multiphysics and his collaboration with
+DXL may advance visual exploration of simulation results.&lt;/p&gt;
+
+&lt;p&gt;Andrei Rykhlevskii will be joining the group as a PhD student. He has a degree
+in Nuclear Engineering from Bauman Moscow State Technical University as well as
+a Masters of Science in Finanace from the Financial University in Moscow. His
+work will likely also emphasize open source advanced reactor multiphysics.&lt;/p&gt;
+
+&lt;p&gt;Additionally, a small team of undergraduate researchers will join the group 
+this year.  These include Kathryn Mummah and Jin Whan Bae of NPRE as well as 
+Matthew Worley and Yukun Tan who will join us through the &lt;a href=&quot;http://spin.ncsa.illinois.edu/&quot;&gt;NCSA 
+SPIN&lt;/a&gt; program.&lt;/p&gt;
+
+&lt;p&gt;With the help of all of these researchers, I expect ARFC will really be able to
+hit the ground running.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 16 Aug 2016 21:00:00 -0500</pubDate>
+        <link>http://arfc.github.io/jekyll/update/2016/08/16/new-arfc-members/</link>
+        <guid isPermaLink="true">http://arfc.github.io/jekyll/update/2016/08/16/new-arfc-members/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Huff Featured in NPRE News</title>
         <description>&lt;p&gt;I am thrilled to be featured in the NPRE news today. Susan Mumm wrote a lovely 
 article announcing that I’ll be joining NPRE. You can read the article 
-[here]Phttp://npre.illinois.edu/news/reactor-physicist-katy-huff-joins-npre-faculty).&lt;/p&gt;
+&lt;a href=&quot;http://npre.illinois.edu/news/reactor-physicist-katy-huff-joins-npre-faculty&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 12 Jul 2016 21:00:00 -0500</pubDate>
