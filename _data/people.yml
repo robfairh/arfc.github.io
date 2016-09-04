@@ -3,14 +3,14 @@
   dates: 2016-present
   status: PI
   role: Assistant Professor
-  src: https://katyhuff.github.io
-  url: https://katyhuff.github.io
+  src: http://kdhuff.web.engr.illinois.edu
+  url: http://kdhuff.web.engr.illinois.edu
   description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
   social:
     - url: http://bit.ly/khuffcal
       icon: calendar
       name: Calendar
-    - url: mailto:katyhuff@gmail.com
+    - url: mailto:kdhuff@illinois.edu
       icon: envelope-o
       name: Email
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
