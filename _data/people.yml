@@ -6,14 +6,14 @@
   src: https://katyhuff.github.io
   url: https://katyhuff.github.io
   description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
-  social: 
+  social:
     - url: http://bit.ly/khuffcal
       icon: calendar
       name: Calendar
     - url: mailto:katyhuff@gmail.com
       icon: envelope-o
       name: Email
-    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing 
+    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
     - url: https://github.com/katyhuff
@@ -33,7 +33,7 @@
   src: http://alexlindsay.info
   url: http://alexlindsay.info
   description: 'Alex is a postdoctoral researcher dedicated to a reasonable marriage between openness and nuclear energy research.'
-  social: 
+  social:
     - url: mailto:lindsayad@diyplasma.org
       icon: envelope-o
       name: Email
@@ -51,7 +51,7 @@
   src: http://www.linkedin.com/in/andrei-rykhlevskii
   url: http://www.linkedin.com/in/andrei-rykhlevskii
   description: 'Andrei is a UIUC PhD student who interested in coupled neutronics/thermal-hydraulics modeling for advanced nuclear reactors.'
-  social: 
+  social:
     - url: mailto:andreir2@illinois.edu
       icon: envelope-o
       name: Email
@@ -78,6 +78,24 @@
       icon: github-alt
       name: Github
 
+- name: Katie Mummah
+  pic: /img/people/mummahk.png
+  dates: 2016-present
+  role: Undergraduate Research Assistant
+  description: 'Katie is an undergraduate student interested in modeling the nuclear fuel cycle'
+  social:
+    - url: mailto:mummah2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nuclearkatie
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/nuclearkatie
+      icon: linkedin
+      name: Linkedin
+    - url: https://twitter.com/nuclearkatie
+      icon: twitter
+      name: Twitter
 
 - name: You
   pic: /img/people/you.png
@@ -87,10 +105,10 @@
   src: /positions
   url: /positions
   description: 'Ideal ARFC group members seek to advance nuclear energy challenges through advanced computing, physics-informed modeling, and sophisticated simulation'
-  social: 
+  social:
     - url: mailto:katyhuff@gmail.com
       icon: envelope-o
       name: Email
-    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing 
+    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
