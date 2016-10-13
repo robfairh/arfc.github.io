@@ -1,4 +1,16 @@
 
+- title: Data In Nuclear Engineering
+  event: Informatics 500 Seminar 
+  type: Invited Guest Lecture
+  place: Urbana, IL
+  month: October
+  day: 13
+  year: 2016
+  time: 4:00pm
+  pic: https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UIUC_seal.svg/1024px-UIUC_seal.svg.png
+  slides: http://katyhuff.github.io/2016-10-13-info500
+  description: "This talk gave an overview of the origin, evaluation, processing, and validation of data in nuclear engineering. In particular, it highlighted the variability of cross section data, the nuclear structure they attempt to capture, and real concerns related to compensating errors within current evaluated nuclear data sets. This draws on a talk by Morgan C. White concerning what he terms 'the data dilemma.'"
+
 - title: Human Learning at Scale
   event: PyData Conference 
   type: Invited Keynote
