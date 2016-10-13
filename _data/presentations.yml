@@ -168,42 +168,15 @@ The scalability and sustainability of these initiatives, however, is limited by 
   slides: /pres/huff_beam_2003_pres.pdf
   description: 'A project concerning the necessary size of beam plug in the fictional scenario of an uncontrollable accelerator at LANSCE.'
 
-- title: <++> 
-  event: <++>
-  type: <++>
-  place: <++>
-  month: <++>
-  day: <++>
-  year: <++>
-  time: <++>
-  pic: https://<++>
-  vid: https://<++>
-  slides: https://<++>
-  description: '<++>'
-
-- title: <++> 
-  event: <++>
-  type: <++>
-  place: <++>
-  month: <++>
-  day: <++>
-  year: <++>
-  time: <++>
-  pic: https://<++>
-  vid: https://<++>
-  slides: https://<++>
-  description: '<++>'
-
-- title: <++> 
-  event: <++>
-  type: <++>
-  place: <++>
-  month: <++>
-  day: <++>
-  year: <++>
-  time: <++>
-  pic: https://<++>
-  vid: https://<++>
-  slides: https://<++>
-  description: '<++>'
-
+#- title: <++> 
+#  event: <++>
+#  type: <++>
+#  place: <++>
+#  month: <++>
+#  day: <++>
+#  year: <++>
+#  time: <++>
+#  pic: https://<++>
+#  vid: https://<++>
+#  slides: https://<++>
+#  description: '<++>'
