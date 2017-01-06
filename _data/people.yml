@@ -68,8 +68,8 @@
 - name: Jin Whan Bae
   pic: /img/people/baej.png
   dates: 2016-present
-  role: Undergraduate Research Assistant
-  description: 'Jin Whan Bae is an Undergarduate Student interested in fuel cycles and repository simulation.'
+  role: PhD student
+  description: 'Jin Whan Bae is a PhD student interested in fuel cycles and repository simulation.'
   social:
     - url: mailto:jbae11@illinois.edu
       icon: envelope-o
