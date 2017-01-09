@@ -24,7 +24,7 @@
   time: 2:50pm
   pic: https://bids.berkeley.edu/sites/default/files/dturekflow.jpg
   vid: https://bids.berkeley.edu/events/practice-reproducible-research-case-studies-and-lessons-data-intensive-sciences
-  slides: http://katyhuff.github.io/2017-02-02-cse
+  slides: http://katyhuff.github.io/2017-01-27-bids
   description: "This symposium will serve as the launch event for our new open, online book, titled The Practice of Reproducible Research. The book contains a collection of 31 case studies in reproducible research practices written by scientists and engineers working in the data-intensive sciences. Each case study presents the specific approach that the author used to achieve reproducibility in a real-world research project, including a discussion of the overall project workflow, major challenges, and key tools and practices used to increase the reproducibility of the research. This lightning talk will focus on the Lessons Learned synthesis chapter."
 
 
