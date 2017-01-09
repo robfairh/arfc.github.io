@@ -1,4 +1,19 @@
 
+- title: "Advanced Nuclear Reactors and Fuel Cycles: Simulation of Multiple Physics at Disparate Scales"
+  event: "Computational Science and Engineering Seminar Series" 
+  type: Invited Seminar 
+  place: 1030 National Center for Supercomputing Applications, Urbana, IL
+  month: February
+  day: 02
+  year: 2017
+  time: 12:00pm
+  pic: https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UIUC_seal.svg/1024px-UIUC_seal.svg.png
+  vid: https://www.youtube.com/user/cseillinois
+  slides: http://katyhuff.github.io/2017-02-02-cse
+  description: "Nuclear power provides the majority of our nation's safe, reliable, carbon free energy. Advanced nuclear reactors and nuclear fuel cycles promise to further improve passive safety, fuel utilization, and environmental impacts of this key energy source. This seminar will discuss computational approaches to modeling and simulation of the multiple coupled physics and scales inherent to these system. Approaches will include (1) agent based modeling of future energy growth, reprocessing, and fuel management scenarios, (2) the interplay between probabilistic and deterministic neutron transport methods for design and safety analysis, and (3) development of reactor physics kernels for the MOOSE (multiphysics object oriented simulation environment) framework.
+
+  Additionally, to appropriately distress this audience, this talk will touch on the origin, evaluation, processing, and validation of data in nuclear engineering. In particular, it will highlight the challenges presented by the variability of cross section data, the nuclear structure they attempt to capture, and real simulation accuracy concerns related to compensating errors within current evaluated nuclear data sets."
+
 - title: "Lessons Learned"
   event: "The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences" 
   type: Invited Lightning Talk 
@@ -12,18 +27,6 @@
   slides: http://katyhuff.github.io/2017-02-02-cse
   description: "This symposium will serve as the launch event for our new open, online book, titled The Practice of Reproducible Research. The book contains a collection of 31 case studies in reproducible research practices written by scientists and engineers working in the data-intensive sciences. Each case study presents the specific approach that the author used to achieve reproducibility in a real-world research project, including a discussion of the overall project workflow, major challenges, and key tools and practices used to increase the reproducibility of the research. This lightning talk will focus on the Lessons Learned synthesis chapter."
 
-- title: "Advanced Nuclear Reactors and Fuel Cycles: Simulation of Multiple Physics at Disparate Scales"
-  event: "Computational Science and Engineering Seminar Series" 
-  type: Invited Seminar 
-  place: 1030 National Center for Supercomputing Applications, Urbana, IL
-  month: February
-  day: 02
-  year: 2017
-  time: 12:00pm
-  pic: https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UIUC_seal.svg/1024px-UIUC_seal.svg.png
-  vid: https://www.youtube.com/user/cseillinois
-  slides: http://katyhuff.github.io/2017-02-02-cse
-  description: ""
 
 - title: Data In Nuclear Engineering
   event: Informatics 500 Seminar 
