@@ -5,7 +5,7 @@ subtitle: "How to Zotero."
 permalink: /manual/guides/Zotero
 ---
 
-#Zotero
+# Zotero
 Zotero is a convenient tool that allows a creation
 of a nice, organized library that can be exported to
 a bib file later on!
@@ -64,7 +64,9 @@ It can fail.
 
 For Web Pages, just click the 'Save to Zotero' icon.
 If any crucial item is missing, type it in yourself.
-tip: type in 'javascript:(alert(document.lastModified)' in the address line to see when it was last modified.  
+tip: type in  
+ 'javascript:(alert(document.lastModified)'  
+ in the address line to see when it was last modified.  
 
 ![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/6.png "6")  
 
