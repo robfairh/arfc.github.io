@@ -2,7 +2,7 @@
 layout: manual
 title: Zotero
 subtitle: "How to Zotero."
-permalink: /manual/guides/Zotero
+permalink: /manual/guides/zotero
 ---
 
 # Zotero
