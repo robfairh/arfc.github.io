@@ -29,58 +29,58 @@ If you use firefox:
 2. That's it for now.
 
 
-If you use something else (e.g. Chrome)
+If you use something else (e.g. Chrome):
 
-1. Download the Zotero Standalone application. 
-2. Add the Zotero extension to your browser.
+        1. Download the Zotero Standalone application. 
+        2. Add the Zotero extension to your browser.
 
 ## To Store References:
 
-1. Open Zotero Standalone.
-2. Go to a folder (either personal or group) that you'd like to store the reference on.
-3. In your browser, click on the icon that says 'save to Zotero'.
-4. Done.
+        1. Open Zotero Standalone.
+        2. Go to a folder (either personal or group) in which you'd like to store the reference.
+        3. In your browser, click on the icon that says 'save to Zotero'.
+        4. Check the metadata in Zotero. Is there a date, author, and title?
 
 ### The Tricky Part
 
-In order to 'properly' store papers and refernces, one must do so with caution.
+        In order to 'properly' store papers and refernces, one must do so with caution.
 
 #### Best Option: Google Scholar
 
 Search for the article in [Google Scholar](scholar.google.com)
-This will most likely ensure that the browser plugin will have access to all
-the necessary information for proper citing.
+        This will most likely ensure that the browser plugin will have access to all
+        the necessary information for proper citing.
 
 ![alt text]({{site.url}}/manual/guides/images/zot-gs.png)
 
-You should aim to add the paper in the 'introduction page' of the paper, not the paper itself.
-The first picture is when you click 'save to Zotero', not the second.
+        You should aim to add the paper in the 'introduction page' of the paper, not the paper itself.
+        The first picture is when you click 'save to Zotero', not the second.
 
-![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/2.png "2")
+        ![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/2.png "2")
 
-![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/3.png "3")
+        ![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/3.png "3")
 
-See that the one from fig 3 does not contain the author and year created, which is not a good reference.
-See that the one from fig 2 does have all the information, which is good for a reference. 
+        See that the one from fig 3 does not contain the author and year created, which is not a good reference.
+        See that the one from fig 2 does have all the information, which is good for a reference. 
 
-![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/4.png "4")
+        ![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/4.png "4")
 
-You can also try to maually get the data by right clicking the 'bad' reference and clicking on 
-'Retrieve Metadata for PDF'.
-It can fail.
+        You can also try to maually get the data by right clicking the 'bad' reference and clicking on 
+        'Retrieve Metadata for PDF'.
+        It can fail.
 
-![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/5.png "5")
+        ![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/5.png "5")
 
-For Web Pages, just click the 'Save to Zotero' icon.
-If any crucial item is missing, type it in yourself.
-tip: type in:
+        For Web Pages, just click the 'Save to Zotero' icon.
+        If any crucial item is missing, type it in yourself.
+        tip: type in:
 
-javascript:(alert(document.lastModified)
+        javascript:(alert(document.lastModified)
 
- in the address line to see when it was last modified.
+                        in the address line to see when it was last modified.
 
-![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/6.png "6")
+                        ![alt text](https://github.com/arfc/arfc.github.io/tree/source/manual/guides/images/Zotero/6.png "6")
 
-Any other questions, look it up on google!
+                        Any other questions, look it up on google!
 
 
