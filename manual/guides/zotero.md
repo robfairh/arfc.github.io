@@ -66,7 +66,7 @@ For Web Pages, just click the 'Save to Zotero' icon.
 If any crucial item is missing, type it in yourself.
 tip: type in:  
 
-#### 'javascript:(alert(document.lastModified)'  
+javascript:(alert(document.lastModified)  
 
  in the address line to see when it was last modified.  
 
