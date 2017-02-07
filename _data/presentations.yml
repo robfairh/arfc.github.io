@@ -1,4 +1,17 @@
 
+- title: "Innovation and Nuclear Energy: A Love Story"
+  event: "Nuclear, Plasma, and Radiological Engineering Undergraduate Seminar Series" 
+  type: Invited Seminar 
+  place: Talbot Laboratory, Urbana, IL
+  month: February
+  day: 14
+  year: 2017
+  time: 12:00pm
+  pic: '/img/pres/2017-02-14-npre.jpg'
+  slides: http://katyhuff.github.io/2017-02-14-npre
+  description: "This seminar will relate the epic 70-year romance between nuclear reactor design and nuclear reactor reality. It will recite the origins of the steamy long-term relationship between oxide fuel and light water, but will also shed light on both star-crossed and promising pairings between novel fuels, coolants, and moderators. Many strange sagas set in the Idaho desert will be told: tragic tales of youthful experiments (SL-1), hopeful meet-cutes (MSRE), and doomed couplings (ARE). The unique poetry of so-called 'paper reactors' will be touched upon, as will a tantalizing tale of promise: advanced nuclear reactors in the 21st century.
+<p class=text-muted> In all seriousness, this talk will discuss the history of advanced nuclear reactor design successes, failures, and possibilities from the 1940s to tomorrow. Nuclear power provides the majority of our nation's safe, reliable, carbon free energy. Advanced nuclear reactors and nuclear fuel cycles promise to further improve passive safety, fuel utilization, and environmental impacts of this key energy source. This talk gives a Valentine's-Day-themed history of those innovative advanced nuclear reactor designs as well as an overview of advanced reactor technologies today.</p>" 
+
 - title: "Advanced Nuclear Reactors and Fuel Cycles: Simulation of Multiple Physics at Disparate Scales"
   event: "Computational Science and Engineering Seminar Series" 
   type: Invited Seminar 
@@ -7,12 +20,12 @@
   day: 02
   year: 2017
   time: 12:00pm
-  pic: https://upload.wikimedia.org/wikipedia/en/thumb/1/18/UIUC_seal.svg/1024px-UIUC_seal.svg.png
+  pic: '/img/pres/2017-02-02-cse.png'
   vid: https://www.youtube.com/user/cseillinois
   slides: http://katyhuff.github.io/2017-02-02-cse
   description: "Nuclear power provides the majority of our nation's safe, reliable, carbon free energy. Advanced nuclear reactors and nuclear fuel cycles promise to further improve passive safety, fuel utilization, and environmental impacts of this key energy source. This seminar will discuss computational approaches to modeling and simulation of the multiple coupled physics and scales inherent to these system. Approaches will include (1) agent based modeling of future energy growth, reprocessing, and fuel management scenarios, (2) the interplay between probabilistic and deterministic neutron transport methods for design and safety analysis, and (3) development of reactor physics kernels for the MOOSE (multiphysics object oriented simulation environment) framework.
-
-  Additionally, to appropriately distress this audience, this talk will touch on the origin, evaluation, processing, and validation of data in nuclear engineering. In particular, it will highlight the challenges presented by the variability of cross section data, the nuclear structure they attempt to capture, and real simulation accuracy concerns related to compensating errors within current evaluated nuclear data sets."
+<p class=text-muted>
+Additionally, to appropriately distress this audience, this talk will touch on the origin, evaluation, processing, and validation of data in nuclear engineering. In particular, it will highlight the challenges presented by the variability of cross section data, the nuclear structure they attempt to capture, and real simulation accuracy concerns related to compensating errors within current evaluated nuclear data sets.</p>"
 
 - title: "Lessons Learned"
   event: "The Practice of Reproducible Research: Case Studies and Lessons from the Data-Intensive Sciences" 
