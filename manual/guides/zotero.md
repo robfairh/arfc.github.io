@@ -87,6 +87,8 @@ To see when a website was last modified, type the following in the address bar:
 
 ![alt text](/img/manual/guides/zot-webtime.png)
 
-Any other questions, look it up on google!
+#### The Zotero Forums
 
+Any other questions can be directed to the [Zotero 
+Forums.](https://forums.zotero.org/)
 
