@@ -53,24 +53,31 @@ Search for the article in [Google Scholar](scholar.google.com)
 This will most likely ensure that the browser plugin will have access to all
 the necessary information for proper citing.
 
-![alt text]({{site.url}}/manual/guides/images/zot-gs.png)
+![alt text](/img/manual/guides/zot-gs.png)
 
-You should aim to add the paper in the 'introduction page' of the paper, not the paper itself.
-The first picture is when you click 'save to Zotero', not the second.
+At this point, you can select one or multiple papers to add to Zotero. They 
+will end up in the Zotero standalone directory that is currently open.
 
-![alt text]({{site.url}}/manual/guides/images/zot-cite.png)
+#### Journal Sources
 
-![alt text]({{site.url}}/manual/guides/images/zot-pdf.png)
+If not in google scholar, you should aim to add the paper in the 'introduction 
+page' of the paper (Fig. 2), not the paper itself (Fig. 3).
+
+![alt text](/img/manual/guides/zot-cite.png)
+
+The above shows when you click 'save to Zotero', not below.
+
+![alt text](/img/manual/guides/zot-pdf.png)
 
 In the figure below, the results of clicking the icon in each case (Fig. 2 and Fig. 3) can be seen in the two entries. See that the entry from Fig. 3 does not contain the author and year created. However, the entry resulting from the Fig. 2 click does have all the information. If information is missing, Zotero will struggle to make a useful bibliography for you.
 
-![alt text]({{site.url}}/manual/guides/images/zot-comparison.png)
+![alt text](/img/manual/guides/zot-comparison.png)
 
 You can also try to maually get the data by right clicking the 'bad' reference and clicking on 
 'Retrieve Metadata for PDF'.  It can fail. In that case, you may just have to 
 enter the information manually.
 
-![alt text]({{site.url}}/manual/guides/images/zot-metadata.png)
+![alt text](/img/manual/guides/zot-metadata.png)
 
 For Web Pages, just click the 'Save to Zotero' icon.
 If any crucial item is missing, type it in yourself.
@@ -78,7 +85,7 @@ To see when a website was last modified, type the following in the address bar:
 
 ```javascript:(alert(document.lastModified)```
 
-![alt text]({{site.url}}/manual/guides/images/zot-webtime.png)
+![alt text](/img/manual/guides/zot-webtime.png)
 
 Any other questions, look it up on google!
 
