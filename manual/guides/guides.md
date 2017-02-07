@@ -27,8 +27,8 @@ you can really fly.
 - [Configure](http://swcarpentry.github.io/git-novice/02-setup.html) git.
 - Get a [Zotero account](https://www.zotero.org/user/register/).
 - Join the [ARFC Zotero group](https://www.zotero.org/groups/arfc).
-- [Learn how to use Zotero](/manual/guides/Zotero).
 - Install the [Zotero desktop application](https://www.zotero.org/download/).
+- [Learn how to use Zotero](/manual/guides/Zotero).
 - Add yourself to the [communication channels](/manual/guides/communication).
 - Add yourself to [this website.](/manual/guides/website)
 - Install other software you'll need.
