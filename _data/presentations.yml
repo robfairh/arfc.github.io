@@ -1,4 +1,18 @@
 
+- title: "Reduce Classroom Bias with a Random Name Picker"
+  event: "AE3 Lightning Symposium"
+  type: Invited Lightning Talk 
+  place: 233 Grainger Library, Urbana, IL
+  month: March
+  day: 02
+  year: 2017
+  time: 11:00am
+  pic: '/img/pres/2017-03-02-ae3.jpg'
+  slides: http://katyhuff.github.io/2017-02-14-npre
+  description: "To reduce implicit bias in the classroom, I use a random name picker. It's working."
+
+- title: "Advanced Nuclear Reactors and Fuel Cycles: Simulation of Multiple Physics at Disparate Scales"
+  event: "Computational Science and Engineering Seminar Series" 
 - title: "Innovation and Nuclear Energy: A Love Story"
   event: "Nuclear, Plasma, and Radiological Engineering Undergraduate Seminar Series" 
   type: Invited Seminar 
