@@ -72,12 +72,12 @@ You're in! :)
 ## Step 7. Module Loading
 Various modules can be loaded and the available modules can be listed using the following commands:
 
-| Command 			| 	Suffix 				|  Action 						|
-| ------------- 	| ----------------- 	| ----------------------------- |
-| module avail 		| 						| List all available modules 	|
-| module avail		|\|grep -r [keyword]	| Search module with keywords	|
-| module load 		|						| Load module onto environment	|
-| module swap 		| [original] [new]		| replace [orignal] with [new]	|
+ Command 			 	Suffix 						  Action 					
+ ------------- 	 	----------------- 	 	----------------------------- 
+ module avail 		 						 List all available modules
+ module avail		|grep -r [keyword]		 Search module with keywords	
+ module load 								 Load module onto environment	
+ module swap 		[original] [new]		 replace [orignal] with [new]	
 
 
 #### tip) ~/.bashrc
