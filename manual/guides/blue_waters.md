@@ -11,12 +11,16 @@ permalink: /manual/guides/bluewaters
 Have Prof Huff get you approved for Blue Waters!
 
 ## Step 2. Apply for Blue Waters
-Following the link and fill out the application
+Follow the link and fill out the application
 	You can either receive a virtual token or a physical token
-	Virutal token is done through your mobile device,
+	A Virutal token is done through your mobile device,
 	and a physical token looks like this:
  
 ![alt text](/img/manual/guides/bw-token.jpg)
+
+Or, if you chose a soft token, install the RSA SecurID app and 
+follow the instruction sent to you by email.
+
 
 ## Step 3. Wait
 Wait patiently for the token to arrive.
@@ -26,7 +30,7 @@ With your token, open the email 'Blue Waters Instructions'
 Click the [link](https://otp.ncsa.illinois.edu)
 and follow its directions, and activate your token.
 
-#### tip)  the pin must be 8 digits, letters and numbers, something that you'll never forget!
+**tip) the pin must be 8 digits, letters and numbers, something that you'll never forget!
 
 
 ## Step 5. Loggin In
@@ -64,6 +68,12 @@ Then you'd just have to type in
 $ssh [desired_name]
 ```
 
+For example, you might have named Blue Waters "bw".
+In that case, you simply type
+```
+$ssh bw
+```
+
 ## Step 6. Congratz!
 You're in! :)
 
@@ -81,7 +91,7 @@ Various modules can be loaded and the available modules can be listed using the 
 
 
 #### tip) ~/.bashrc
-If you don't want to load your modules everytime, edit ~/.bashrc 
+If you don't want to load your modules every time, edit ~/.bashrc 
 and have all your 'module load/swap' commands.
 ```
 $vim ~/.bashrc
@@ -97,7 +107,13 @@ $source ~/.bashrc
 ```
 
 ## How to Download Source Code
-Since we do not have sudo for BW, we must build from source (yay!)
+Because Blue Waters is an HPC machine, it does
+not have a package manager (like Ubuntu's apt-get).
+This is the reason why one has to build from source.
+
+Also, one does not have sudo, which means that
+the packages should be built either in your
+home directory(~) or in the group directory (bahg) 
 
 Get source codes by:
 1. Github
@@ -111,7 +127,7 @@ git clone [clone_link]
 
 ```
 wget [link to source code tar.xz or zip file]
-tar -xvf [tar.xz file]
 ```
+Expand the archive with the tar or the unzip command.
 
 
