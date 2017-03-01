@@ -71,7 +71,7 @@ twitter accounts, and whatnot that tie us together.
 - releases
 - data management
 - cloud computing
-- using Blue Waters
+- [using Blue Waters](/manual/guides/bluewaters)
 
 # Writing Papers
 
