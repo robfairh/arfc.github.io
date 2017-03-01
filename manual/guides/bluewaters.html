@@ -5,13 +5,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Mission</title>
+  <title>Blue Waters</title>
     <meta name="viewport" content="width=device-width">
   <meta name="description" content="Website for the Advanced Reactors and Fuel Cycles group">
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
   <link rel="stylesheet" href="/style.css">
-  <link rel="canonical" href="http://arfc.github.io/manual/mission">
+  <link rel="canonical" href="http://arfc.github.io/manual/guides/bluewaters">
   <link rel="alternate" type="application/rss+xml" title="ARFC" href="http://arfc.github.io/feed.xml">
   <link rel="shortcut icon" href="http://arfc.github.io/favicon.ico" />
     <!-- Custom Fonts -->
@@ -186,8 +186,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Mission</h2>
-                    <h3 class="section-subheading text-muted">The mission of the Advanced Reactors and Fuel Cyclus Group</h3>
+                    <h2 class="section-heading">Blue Waters</h2>
+                    <h3 class="section-subheading text-muted">Blue Waters - From Access to Utilization</h3>
                 </div>
             </div>
         </div>
@@ -197,28 +197,154 @@
                 <div class="col-md-3">
                 </div>
                 <div class="col-md-6">
-                        <h1 id="clean-energy-future">Clean Energy Future</h1>
+                        <p><a href="https://bluewaters.ncsa.illinois.edu/getting-started">Read this page first</a></p>
 
-<p>Nuclear power is a key part of the world’s clean energy future.</p>
+<h2 id="step-1-communication">Step 1. Communication</h2>
+<p>Have Prof Huff get you approved for Blue Waters!</p>
 
-<h1 id="advances-in-safety-and-sustainability">Advances in Safety and Sustainability</h1>
+<h2 id="step-2-apply-for-blue-waters">Step 2. Apply for Blue Waters</h2>
+<p>Follow the link and fill out the application
+        You can either receive a virtual token or a physical token
+        A Virutal token is done through your mobile device,
+        and a physical token looks like this:</p>
 
-<p>We seek to advance the safety and sustainability of nuclear energy production 
-through improved reactor designs, fuel cycle strategies, and waste management 
-techniques.</p>
+<p><img src="/img/manual/guides/bw-token.jpg" alt="alt text" /></p>
 
-<h1 id="insights-through-sophisticated-computing">Insights through Sophisticated Computing</h1>
+<p>Or, if you chose a soft token, install the RSA SecurID app and 
+follow the instruction sent to you by email.</p>
 
-<p>We choose to pursue these goals through crosscutting emphasis in sophisticated 
-computing. Through advanced methods and simulations at many scales, we hope to 
-gain novel insights into nuclear energy challenges.</p>
+<h2 id="step-3-wait">Step 3. Wait</h2>
+<p>Wait patiently for the token to arrive.</p>
 
-<h1 id="transparent-robust-extensible-science">Transparent, Robust, Extensible Science</h1>
+<h2 id="step-4-activating-token">Step 4. Activating Token</h2>
+<p>With your token, open the email ‘Blue Waters Instructions’
+Click the <a href="https://otp.ncsa.illinois.edu">link</a>
+and follow its directions, and activate your token.</p>
 
-<p>We strive to do science that advances the field. Fields advance through 
-extensible, robust, reproducible work and transparent communication. Our work 
-emphasizes software that is open, models that are well validated, and 
-simulations that are repeatable and extensible.</p>
+<p>** tip) the pin must be 8 digits, letters and numbers, something that you’ll never forget!</p>
+
+<h2 id="step-5-loggin-in">Step 5. Loggin In</h2>
+<p>Open terminal, type
+<code class="highlighter-rouge">
+$ssh [username]@h2ologin.ncsa.illinois.edu
+</code></p>
+
+<p>type in PIN+Token#</p>
+
+<h4 id="tip-you-can-shortname-your-ssh-command">tip) you can shortname your ssh command:</h4>
+<p>Open the terminal</p>
+
+<p><code class="highlighter-rouge">
+$cd
+$cd .ssh
+$vim config
+</code></p>
+
+<p>write:</p>
+
+<p><code class="highlighter-rouge">
+        Host [desired_name]
+        HostName h2ologin.ncsa.illinois.edu
+        User [Blue_Waters_User_Name] 
+</code></p>
+
+<p>Then you’d just have to type in
+<code class="highlighter-rouge">
+$ssh [desired_name]
+</code></p>
+
+<p>For example, you might have named Blue Waters “bw”.
+In that case, you simply type
+<code class="highlighter-rouge">
+$ssh bw
+</code></p>
+
+<h2 id="step-6-congratz">Step 6. Congratz!</h2>
+<p>You’re in! :)</p>
+
+<p><img src="/img/manual/guides/bw-welcome.png" alt="alt text" /></p>
+
+<h2 id="step-7-module-loading">Step 7. Module Loading</h2>
+<p>Various modules can be loaded and the available modules can be listed using the following commands:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Command</th>
+      <th style="text-align: left">Suffix</th>
+      <th style="text-align: right">Action</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><code class="highlighter-rouge">module avail </code></td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: right">List all available modules</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code class="highlighter-rouge">module avail </code></td>
+      <td style="text-align: left"><code class="highlighter-rouge"> |grep -r [keyword] </code></td>
+      <td style="text-align: right">Search module with keywords</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code class="highlighter-rouge">module load </code></td>
+      <td style="text-align: left"> </td>
+      <td style="text-align: right">Load module onto environment</td>
+    </tr>
+    <tr>
+      <td style="text-align: left"><code class="highlighter-rouge">module swap </code></td>
+      <td style="text-align: left"><code class="highlighter-rouge"> [original] [new] </code></td>
+      <td style="text-align: right">replace [orignal] with [new]</td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="tip-bashrc">tip) ~/.bashrc</h4>
+<p>If you don’t want to load your modules every time, edit ~/.bashrc 
+and have all your ‘module load/swap’ commands.
+<code class="highlighter-rouge">
+$vim ~/.bashrc
+</code>
+after editing the bashrc, you must source it:
+<code class="highlighter-rouge">
+$source ~/.bashrc
+</code></p>
+
+<h2 id="the-group-directory">The Group Directory</h2>
+<p><code class="highlighter-rouge">
+/projects/sciteam/bahg
+</code></p>
+
+<h2 id="how-to-download-source-code">How to Download Source Code</h2>
+<p>Because Blue Waters is an HPC machine, it does
+not have a package manager (like Ubuntu’s apt-get).
+This is the reason why one has to build from source.</p>
+
+<p>Also, one does not have sudo, which means that
+the packages should be built either in your
+home directory(~) or in the group directory (bahg)</p>
+
+<p>Get source codes by:</p>
+
+<ol>
+  <li>
+    <p>Github</p>
+
+    <p><code class="highlighter-rouge">
+git clone [clone_link]
+</code></p>
+  </li>
+  <li>
+    <p>wget</p>
+
+    <p><code class="highlighter-rouge">
+wget [link to source code tar.xz or zip file]
+</code></p>
+
+    <p>Expand the archive with the tar or the unzip command.</p>
+  </li>
+</ol>
+
 
                 </div>
                 <div class="col-md-3">
