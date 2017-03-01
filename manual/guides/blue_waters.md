@@ -12,9 +12,9 @@ Have Prof Huff get you approved for Blue Waters!
 
 ## Step 2. Apply for Blue Waters
 Follow the link and fill out the application
-	You can either receive a virtual token or a physical token
-	A Virutal token is done through your mobile device,
-	and a physical token looks like this:
+        You can either receive a virtual token or a physical token
+        A Virutal token is done through your mobile device,
+        and a physical token looks like this:
  
 ![alt text](/img/manual/guides/bw-token.jpg)
 
@@ -82,12 +82,12 @@ You're in! :)
 ## Step 7. Module Loading
 Various modules can be loaded and the available modules can be listed using the following commands:
 
-| Command 			| 	Suffix 				|  Action 						|
-| ------------- 	| ----------------- 	| ----------------------------- |
-| module avail 		| 						| List all available modules 	|
-| module avail		|\|grep -r [keyword]	| Search module with keywords	|
-| module load 		|						| Load module onto environment	|
-| module swap 		| [original] [new]		| replace [orignal] with [new]	|
+| Command               |   Suffix  |  Action                              |
+|:----------------------|:---------------------------|-----------------------------------:|
+| `module avail `          |                       | List all available modules    |
+| `module avail `          | ` \|grep -r [keyword] `   | Search module with keywords   |
+| `module load `           |                       | Load module onto environment  |
+| `module swap `           | ` [original] [new] `      | replace [orignal] with [new]  |
 
 
 #### tip) ~/.bashrc
