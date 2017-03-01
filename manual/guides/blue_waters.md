@@ -116,18 +116,20 @@ the packages should be built either in your
 home directory(~) or in the group directory (bahg) 
 
 Get source codes by:
+
 1. Github
 
-```
-git clone [clone_link]
-```
+   ```
+   git clone [clone_link]
+   ```
 
 
 2. wget
 
-```
-wget [link to source code tar.xz or zip file]
-```
-Expand the archive with the tar or the unzip command.
+   ```
+   wget [link to source code tar.xz or zip file]
+   ```
+
+   Expand the archive with the tar or the unzip command.
 
 
