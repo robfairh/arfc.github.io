@@ -30,7 +30,7 @@ With your token, open the email 'Blue Waters Instructions'
 Click the [link](https://otp.ncsa.illinois.edu)
 and follow its directions, and activate your token.
 
-**tip) the pin must be 8 digits, letters and numbers, something that you'll never forget!
+** tip) the pin must be 8 digits, letters and numbers, something that you'll never forget!
 
 
 ## Step 5. Loggin In
