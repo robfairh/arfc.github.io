@@ -128,6 +128,22 @@
       icon: linkedin
       name: Linkedin
 
+- name: Yukun Tan
+  pic: /img/people/yukunt.jpg
+  dates: 2017-present
+  role: NCSA SPIN intern
+  description: 'Yukun Tan is an undergraduate student interested in data scraping on nuclear reactors.'
+  social:
+    - url: ytan15@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/ytan15
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/yukun-tifa-tan-b21146a2/
+      icon: linkedin
+      name: Linkedin
+
 - name: You
   pic: /img/people/you.png
   dates: now
