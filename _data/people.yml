@@ -7,15 +7,9 @@
   url: http://kdhuff.web.engr.illinois.edu
   description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
   social:
-    - url: http://bit.ly/khuffcal
+    - url: http://katyhuff.youcanbook.me
       icon: calendar
       name: Calendar
-    - url: mailto:kdhuff@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
-      icon: map-marker
-      name: 118 Talbot Lab
     - url: https://github.com/katyhuff
       icon: github-alt
       name: Github
