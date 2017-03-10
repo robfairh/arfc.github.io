@@ -33,7 +33,7 @@
   year: 2017
   time: 12:00pm
   pic: '/img/pres/2017-02-02-cse.png'
-  vid: https://www.youtube.com/user/cseillinois
+  vid: https://www.youtube.com/watch?v=fWlUW_CFo3M
   slides: http://katyhuff.github.io/2017-02-02-cse
   description: "Nuclear power provides the majority of our nation's safe, reliable, carbon free energy. Advanced nuclear reactors and nuclear fuel cycles promise to further improve passive safety, fuel utilization, and environmental impacts of this key energy source. This seminar will discuss computational approaches to modeling and simulation of the multiple coupled physics and scales inherent to these system. Approaches will include (1) agent based modeling of future energy growth, reprocessing, and fuel management scenarios, (2) the interplay between probabilistic and deterministic neutron transport methods for design and safety analysis, and (3) development of reactor physics kernels for the MOOSE (multiphysics object oriented simulation environment) framework.
 <p class=text-muted>
