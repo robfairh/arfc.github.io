@@ -28,6 +28,7 @@ you can really fly.
 - Get a [Zotero account](https://www.zotero.org/user/register/).
 - Join the [ARFC Zotero group](https://www.zotero.org/groups/arfc).
 - Install the [Zotero desktop application](https://www.zotero.org/download/).
+- [Learn how to use Zotero](/manual/guides/zotero).
 - Add yourself to the [communication channels](/manual/guides/communication).
 - Add yourself to [this website.](/manual/guides/website)
 - Install other software you'll need.
@@ -70,7 +71,7 @@ twitter accounts, and whatnot that tie us together.
 - releases
 - data management
 - cloud computing
-- using Blue Waters
+- [using Blue Waters](/manual/guides/bluewaters)
 
 # Writing Papers
 

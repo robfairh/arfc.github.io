@@ -33,20 +33,20 @@ information:
 - Please make your request well in advance (at least a few weeks) before it will be due.
 - Please don't forget to [write a professional email](http://chrisblattman.com/2010/11/08/students-how-to-email-to-your-professor-employer-and-professional-peers/).
 
-I'm going to need some information. 
+I'm going to need some information. Most importantly, if I don't see you on a 
+daily basis, please remind me how we know one another. Please also provide:
 
-- If I don't see you on a daily basis, please remind me how we know one another.
-- Please provide
-- your up to date CV or resume,
+- your up-to-date CV or resume,
 - a list of where the letters will go,
 - ideally with links to descriptions of those positions,
 - and the due dates for the references.
-- Will they call me or ask for a letter?
+- Will they call me or ask for a letter via email?
 - Why do you think you are a good candidate?
 - Are there any specific guidelines for the letter?
 
-For grad school, scholarship, or academic job market applications, please send:
+For grad school, scholarship, or academic job market applications, in 
+particular, I could be helped by:
 
 - Any relevant application material (e.g. research statement, teaching statement, statement of intent)
-- Is there a particular feature of you or your work that I should address?
-
+- A reminder about any particular feature of you or your work that you are 
+  hoping I will address.
