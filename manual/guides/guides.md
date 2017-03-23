@@ -53,7 +53,7 @@ twitter accounts, and whatnot that tie us together.
 
 # Administrative
 
-- travel
+- [travel](/manual/guides/travel)
 - purchasing
 - printing
 - internet
