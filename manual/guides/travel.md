@@ -2,7 +2,7 @@
 layout: manual
 title: Travel
 subtitle: "Travel Logistics."
-permalink: /manual/guides/Travel
+permalink: /manual/guides/travel
 ---
 
 # Traveling
