@@ -21,7 +21,7 @@ layout: default
                         <div class="col-md-8"> <h3 class="text-muted text-left">{{ topic.month }}{% if topic.day %} {{ topic.day }},{% endif %} {{ topic.year }}{% if topic.time %} at {{ topic.time }}{% endif %}</h3>
                                 <h4>{{ topic.title }}</h4>
                                 <h5>{{ topic.event }}</h4>
-                                {% if topic.speaker %}<p><i class="fa fa-user"> {{ topic.speaker }}</i></p>{% endif %}
+                                {% if topic.presenter %}<p><i class="fa fa-user"> {{ topic.presenter }}</i></p>{% endif %}
                                 {% if topic.place %}<p><i class="fa fa-map-marker"> {{ topic.place }}</i></p>{% endif %}
                                 {% if topic.type %}<p><i class="fa fa-comment"> {{ topic.type }}</i></p>{% endif %}
                                 {% if topic.slides %}<p><i class="fa fa-image"></i> <a href="{{ topic.slides }}"> {{ topic.slides }}</a></p>{% endif %}
