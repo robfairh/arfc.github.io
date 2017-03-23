@@ -15,7 +15,7 @@ Traveling for ARFC purposes should be done in these steps:
 You will need :
 
 - **A duration.** For example, you may want to travel from April 9th to 13th.
-- **A destination.** For example, you might be traveling to Charlotte, NC
+- **A destination.** For example, you might be traveling to Charlotte, NC.
 - **A purpose for travel.** Perhaps you want to attend the International High Level Radioactive Waste Conference. 
 - **A justification for travel.** For example, you may want to present an 
   accepted paper. Prof. Huff is not likely to approve travel if the student has 
@@ -28,12 +28,12 @@ You will need :
 
 You will need to estimate the cost of the trip. Consider:
 
-- **Flights** (find an example itinerary)
-- **Hotel** (check if there is a discount provided by the conference)
-- **Registration Fee** (if this conference requires registration, how much?)
-- **Other items** (cabs, bus rides, per diem)
-- **Offsets** (can you apply for a travel grant? Is there a student program to 
-  reimburse costs?)
+- **Flights.** Find an example itinerary.
+- **Hotel.** Check if there is a discount provided by the conference.
+- **Registration Fee.** If this conference requires registration, how much?
+- **Other items.** Cabs, bus rides, per diem...
+- **Offsets.** Can you apply for a travel grant? Is there a student program to 
+  reimburse costs?
 
 ## 3. Decide : Pre-Paid or reimbursed?
 
