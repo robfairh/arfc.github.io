@@ -26,18 +26,19 @@
   url: '/positions/grad'
   description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
   available:
-    - title: "Graduate Research Assistant in Fuel Cycle Simulation"
-      description: 'The candidate will design and conduct validation cases, code-to-code comparison simulations and key transition scenarios in the Cyclus framework to demonstrate and improve upon predictive algorithms for deployment of nuclear facilities and materials. We will seek to improve upon and demonstrate the mathematical methods implemented by collaborators at the University of South Carolina in the context of advanced nuclear fuel cycle transitions.  Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
-      required: "acceptance into the NPRE graduate program, interest in fuel cycle analysis, competency in some programming language."
-      desired: "C++, python, git, statistics, machine learning"
-      pic: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nuclear_Fuel_Cycle.svg/820px-Nuclear_Fuel_Cycle.svg.png"
-      start: "August 16, 2016"
     - title: "Graduate Research Assistant - General"
       description: 'Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
       required: "TBD"
       desired: "TBD"
       pic: /img/positions/you.png
       start: "TBD"
+  closed:
+    - title: "Graduate Research Assistant in Fuel Cycle Simulation"
+      description: 'The candidate will design and conduct validation cases, code-to-code comparison simulations and key transition scenarios in the Cyclus framework to demonstrate and improve upon predictive algorithms for deployment of nuclear facilities and materials. We will seek to improve upon and demonstrate the mathematical methods implemented by collaborators at the University of South Carolina in the context of advanced nuclear fuel cycle transitions.  Graduate research assistants in ARFC are PhD or masters students enrolled at UofI, typically in the NPRE department. These students can be supported to conduct research that advances a dissertation or thesis project that is in synergy with the mission of the research group as a whole.'
+      required: "acceptance into the NPRE graduate program, interest in fuel cycle analysis, competency in some programming language."
+      desired: "C++, python, git, statistics, machine learning"
+      pic: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nuclear_Fuel_Cycle.svg/820px-Nuclear_Fuel_Cycle.svg.png"
+      start: "August 16, 2016"
  
 - role: ugrad
   title: Undergraduate Research Assistants
