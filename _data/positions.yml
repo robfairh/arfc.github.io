@@ -19,7 +19,7 @@
       pic: /img/research/multiphysics.png
       url: http://www.ncsa.illinois.edu/about/jobs/pd_huff_turk
       start: "September 2016"
-  
+
 - role: grad
   title: Graduate Research Assistants
   pic: /img/positions/grad.png
@@ -46,6 +46,12 @@
   url: '/positions/ugrad'
   description: 'Within ARFC, many projects appropriate for undergraduates require a significant dedication to learning software skills and best practices. Accordingly, we look for undergraduates who are available for at least 10 hours a week. We additionally invite undergraduates to join in our group meetings. In return for this higher level of participation, we will dedicate the time necessary to train you in high-utility computational skills.'
   available:
+    - title: "SPIN Intern: Machine Learning for Acceleration of Monte Carlo Transport"
+      description: 'The candidate will implement a proof-of-concept python package demonstrating acceleration of monte carlo methods (in particular, monte carlo for neutral particle transport) using machine learning techniques. First, a simple, threaded, monte carlo python package will be implemented and tested. Next, the student will implement a few potential acceleration methods inspired by machine learning and optimization techniques in the literature. Finally, these acceleration methods will be tested and compared to one another for simple problems. This work will emphasize implementation of best practices in scientific computing, including integrating documentation, implementing unit tests, investigating scalability, and developing demonstration jupyter notebooks. A strong interest in scientific computing combined with interest in data science and statistics will be required. Apply at spin.ncsa.illinois.edu .'
+      required: "C++, python, linux, Bash"
+      desired: "git, Doxygen, Sphinx, pytest"
+      pic: /img/research/zen.png
+      start: "August 28, 2017- May 2, 2018"
     - title: "Undergraduate Research Assistant in Scientific Computing"
       description: 'The candidate will improve research software maintained by the group through implementation of best practices in scientific computing. This essential role involves reviewing installation instructions, improving software documentation, testing tutorial materials, implementing unit tests, investigating scalability, and developing template input files. A strong interest in scientific computing combined with interest in nuclear engineering will be required.'
       required: "C++, python, linux, Bash"
