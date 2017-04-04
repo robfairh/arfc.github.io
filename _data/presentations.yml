@@ -24,7 +24,7 @@
   slides: http://katyhuff.github.io/2017-05-10-pycon
   description: "TBD"
 
-- title: "TBD"
+- title: "Modeling and Simulation of Advanced Reactors and Fuel Cycles"
   presenter: Kathryn Huff
   event: "UC Davis Mechanical and Aerospace Engineering Seminar"
   type: Invited Seminar
@@ -35,7 +35,7 @@
   time: 4:00pm
   pic: '/img/pres/2017-04-20-davis.jpg'
   slides: http://katyhuff.github.io/2017-04-20-davis
-  description: "TBD"
+  description: "Nuclear power provides the majority of our nation's safe, reliable, carbon free energy.  Advanced nuclear reactors and nuclear fuel cycles promise to further improve passive safety, fuel utilization, and environmental impacts of this key energy source. This seminar will discuss open, reproducible, computational approaches to modeling and simulation of the multiple coupled physics and scales inherent to these systems. Approaches will include (1) agent based modeling of future energy growth, reprocessing, and fuel management scenarios, (2) the interplay between probabilistic and deterministic neutron transport methods for design and safety analysis, and (3) development of reactor physics kernels for the MOOSE (multiphysics object oriented simulation environment) framework."
 
 - title: "Benefits of Siting a Borehole Repository at a Non-Operating Nuclear Facility"
   presenter: Jin Whan Bae
@@ -48,17 +48,7 @@
   time: 5:15pm
   pic: '/img/pres/2017-04-12-ihlrwm.png'
   slides: http://arfc.github.io/2017-04-12-ihlrwm
-  description: "This work evaluates a potential solution for two pressing
-matters in the viability of nuclear energy: spent fuel disposal
-and power plants that no longer operate. The potential benefits
-of siting a borehole repository at a shut down nuclear power
-plant facility are analyzed from the perspective of myriad stakeholders.
-This assessment indicates that integrated siting will
-make economic use of the shut down power plant, take advantage
-of spent fuel handling infrastructure at those sites, minimize
-transportation costs, expedite emptying the crowded spent
-fuel storage pools accross the country, and will do so at sites
-more likely to have consenting communities."
+  description: "This work evaluates a potential solution for two pressing matters in the viability of nuclear energy: spent fuel disposal and power plants that no longer operate. The potential benefits of siting a borehole repository at a shut down nuclear power plant facility are analyzed from the perspective of myriad stakeholders.  This assessment indicates that integrated siting will make economic use of the shut down power plant, take advantage of spent fuel handling infrastructure at those sites, minimize transportation costs, expedite emptying the crowded spent fuel storage pools accross the country, and will do so at sites more likely to have consenting communities."
 
 - title: "Benefits of Siting a Borehole Repository at a Non-Operating Nuclear Facility"
   presenter: Jin Whan Bae
@@ -122,7 +112,7 @@ more likely to have consenting communities."
   pic: '/img/pres/2017-02-02-cse.png'
   vid: https://www.youtube.com/watch?v=fWlUW_CFo3M
   slides: http://katyhuff.github.io/2017-02-02-cse
-  description: "Nuclear power provides the majority of our nation's safe, reliable, carbon free energy. Advanced nuclear reactors and nuclear fuel cycles promise to further improve passive safety, fuel utilization, and environmental impacts of this key energy source. This seminar will discuss computational approaches to modeling and simulation of the multiple coupled physics and scales inherent to these system. Approaches will include (1) agent based modeling of future energy growth, reprocessing, and fuel management scenarios, (2) the interplay between probabilistic and deterministic neutron transport methods for design and safety analysis, and (3) development of reactor physics kernels for the MOOSE (multiphysics object oriented simulation environment) framework.
+  description: "Nuclear power provides the majority of our nation's safe, reliable, carbon free energy. Advanced nuclear reactors and nuclear fuel cycles promise to further improve passive safety, fuel utilization, and environmental impacts of this key energy source. This seminar will discuss computational approaches to modeling and simulation of the multiple coupled physics and scales inherent to these systems. Approaches will include (1) agent based modeling of future energy growth, reprocessing, and fuel management scenarios, (2) the interplay between probabilistic and deterministic neutron transport methods for design and safety analysis, and (3) development of reactor physics kernels for the MOOSE (multiphysics object oriented simulation environment) framework.
 <p class=text-muted>
 Additionally, to appropriately distress this audience, this talk will touch on the origin, evaluation, processing, and validation of data in nuclear engineering. In particular, it will highlight the challenges presented by the variability of cross section data, the nuclear structure they attempt to capture, and real simulation accuracy concerns related to compensating errors within current evaluated nuclear data sets.</p>"
 
