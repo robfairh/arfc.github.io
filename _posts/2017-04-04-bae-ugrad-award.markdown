@@ -10,7 +10,7 @@ ARFC graduate student, **Jin Whan Bae**, Teddy for short, will be recognized thi
 month with the **2017 Nuclear, Plasma, and Radiological Engineering Outstanding 
 Undergraduate Research Award.**  Teddy has been invited to attend the Department 
 Honors and Awards Banquet on April 13th, where he will formally receive his 
-award.  This recognition consists of a monetary award a certificate, and a 
+award.  This recognition consists of a monetary award, a certificate, and a 
 listing on a plaque that is permanently displayed in Talbot Laboratory.  
 
 In Fall 2016, Teddy was an undergraduate researcher in ARFC. This semester he
