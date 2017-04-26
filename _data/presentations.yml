@@ -11,7 +11,7 @@
   slides: http://katyhuff.github.io/2017-07-12-scipy
   description: "TBD"
 
-- title: "TBD"
+- title: "Python For Science"
   presenter: Kathryn Huff
   event: "PyCon"
   type: Keynote
@@ -22,7 +22,7 @@
   time: 9:40am
   pic: '/img/pres/2017-05-20-pycon.png'
   slides: http://katyhuff.github.io/2017-05-10-pycon
-  description: "TBD"
+  description: "In this talk, I seek to inspire open source python programmers to leverage their considerable skills and will toward scientific research software."
 
 - title: "Modeling and Simulation of Advanced Reactors and Fuel Cycles"
   presenter: Kathryn Huff
@@ -34,6 +34,7 @@
   year: 2017
   time: 4:00pm
   pic: '/img/pres/2017-04-20-davis.jpg'
+  vid: 'https://www.youtube.com/watch?v=YqTxZC1i-B0#t=6m28s'
   slides: http://katyhuff.github.io/2017-04-20-davis
   description: "Nuclear power provides the majority of our nation's safe, reliable, carbon free energy.  Advanced nuclear reactors and nuclear fuel cycles promise to further improve passive safety, fuel utilization, and environmental impacts of this key energy source. This seminar will discuss open, reproducible, computational approaches to modeling and simulation of the multiple coupled physics and scales inherent to these systems. Approaches will include (1) agent based modeling of future energy growth, reprocessing, and fuel management scenarios, (2) the interplay between probabilistic and deterministic neutron transport methods for design and safety analysis, and (3) development of reactor physics kernels for the MOOSE (multiphysics object oriented simulation environment) framework."
 
