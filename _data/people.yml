@@ -7,15 +7,9 @@
   url: http://kdhuff.web.engr.illinois.edu
   description: 'Katy is the director of the Advanced Reactors and Fuel Cycles group at Illinois.'
   social:
-    - url: http://bit.ly/khuffcal
+    - url: http://katyhuff.youcanbook.me
       icon: calendar
       name: Calendar
-    - url: mailto:kdhuff@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
-      icon: map-marker
-      name: 118 Talbot Lab
     - url: https://github.com/katyhuff
       icon: github-alt
       name: Github
@@ -47,7 +41,7 @@
 - name: Andrei Rykhlevskii
   pic: /img/people/rykhlevskiia.jpg
   dates: 2016-present
-  role: PhD student
+  role: Graduate Research Assistant
   src: http://www.linkedin.com/in/andrei-rykhlevskii
   url: http://www.linkedin.com/in/andrei-rykhlevskii
   description: 'Andrei is a UIUC PhD student who interested in coupled neutronics/thermal-hydraulics modeling for advanced nuclear reactors.'
@@ -68,7 +62,7 @@
 - name: Jin Whan Bae
   pic: /img/people/baej.png
   dates: 2016-present
-  role: PhD student
+  role: Graduate Research Assistant
   description: 'Jin Whan Bae is a PhD student interested in fuel cycles and repository simulation.'
   social:
     - url: mailto:jbae11@illinois.edu
@@ -125,6 +119,22 @@
       icon: github-alt
       name: Github
     - url: https://www.linkedin.com/in/eric-riewski-857a1aaa
+      icon: linkedin
+      name: Linkedin
+
+- name: Yukun Tan
+  pic: /img/people/tany.jpg
+  dates: 2017-present
+  role: NCSA SPIN intern
+  description: 'Yukun Tan is an undergraduate student interested in data scraping on nuclear reactors.'
+  social:
+    - url: ytan15@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/ytan15
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/yukun-tifa-tan-b21146a2/
       icon: linkedin
       name: Linkedin
 
