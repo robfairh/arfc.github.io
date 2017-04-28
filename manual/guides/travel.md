@@ -76,37 +76,62 @@ Please note that even while on travel, students, staff, and faculty are
 representatives of the university and our ARFC research group.
 
 
-### 9. Go to the NPRE main office to pick up the Travel Itinerary Reimbursement Form.
-You have 60 days to complete  your Reimbursement Expense Report or it becomes taxable income.
+## 9. Acquire the Paper Travel Form 
 
-### 10. Fill out the Form, be very very detailed, I recommend using a following format:
-1. Write down the basic information (name, contact, account number etc)
+1. Go to the NPRE main office (Talbot 212) to pick up the Travel Itinerary 
+   Reimbursement Form. It will have an envelope attached to it.
+2. You have 60 days to complete  your Reimbursement Expense Report or it 
+   becomes taxable income.
+
+## 10. Fill out the Paper Travel Form
+
+You mus be very very detailed, consider using the following strategy:
+
+1. Write down your basic information (name, contact, account number etc)
 2. Print out a separate sheet for the descriptions
 and writing 'SEE ATTACHED' in the actual form [example](/img/manual/guides/tra-example.pdf)
-3. Print out all the receipts from the travel (airfare, lodging are major ones)
-4. The table is PER DAY, means that each row is a day
+3. Print out all the receipts from the travel (airfare, registration, lodging are major ones)
+4. The table is PER DAY, which means that each row is a day
 5. For the first and last day, you must state the day of departure and arrival of your mode of transportation
 6. `Per Diem - Circle meals requested` is where you circle meals that were NOT PROVIDED BY THE CONFERENCE, and the ones you had to pay for. The reimbursements are set as $6.50 for breakfast and lunch, and $19 for dinner, total up to $32 per day.
 7. Explain EVERYTHING at `Other details or further explanation`, and why it was of benefit to the University. 
 
-### 11. Recommendations and Tips:
+**Recommendations and Tips:**
 
-1. If you presented a paper (or a poster presentation), it is beneficial to attach a copy of your paper.
+1. If you presented a paper (or a poster presentation), it is beneficial to 
+   attach a copy of your paper.
 2. Always try to include Who, What, When, Where, Why.
-3. Be EXTREMELY detailed (if you think 'do I really need this?' - just attach it and write it)
+3. Be EXTREMELY detailed (if you think 'do I really need this?' - just attach 
+   it and write it)
 
-### 12. Get the form signed by your PI (sponsor of the trip)
+## 11. Get the form signed
 
-### 13. Organize everything, put it in an envelope and give it to Barbara Russell
+If Prof. Huff was the sponsor of the trip, she will need to sign the form.
 
-### 14. If you followed this guide, your submission will be pleasing to her eyes.
+## 13. Submit Paper Travel Form
 
-### 15. Later you will get an email from a staff member from EBSC who will fill out the actual online form for you,
-add that person as a 'proxy' by logging into TEM -> My info -> Creator Proxy
+1. Organize receipts and everything
+2. Put it in the manilla envelope 
+3. Give the form and the envelope to Barbara Russell
 
-### 16. Log in to the [Travel Expense Management (TEM) Services](https://www.obfs.uillinois.edu/tem-resources/) by clicking on the LOG IN button tomorrow. 
+**If you followed this guide, your submission will be pleasing to her eyes.**
 
-### 17. If you are not authorized to log in, you might have to contact Tessa M Hile (tmhile@illinois.edu) for authorization (She is our department USC)
+## 18. Wait
 
-### 18. Now the EBSC staff will complete your form for you, and let you know when it is ready for review and submission or if there is any error or if your submission needs revision. Please review the form
-for accuracy and that all the expenses are listed (print mode makes it easier to see).
+In a few days, you will get an email from a staff member from EBSC who will 
+fill out an online form for you.
+
+1. The EBSC staff will complete your TEM form for you, and let you know when it is 
+   ready for review and submission. If there is any error in your paper form, 
+   or if your submission needs revision, they will let you know. 
+2. Go to [Travel Expense Management (TEM) 
+   Services](https://www.obfs.uillinois.edu/tem-resources/).
+3. Click on the LOG IN button. 
+4. Note: If you are not authorized to log in, you might have to contact Tessa M 
+   Hile (tmhile@illinois.edu) for authorization (She is our department USC).
+5. The first time, you may need to add the EBSC person as a 'proxy' by logging 
+   into TEM -> My info -> Creator Proxy .
+6. Click on the pencil to the left of the listing to view the form they have 
+   prepared.
+7. Please review the form for accuracy and that all the expenses are listed 
+   (print mode makes it easier to see).
