@@ -122,6 +122,24 @@
       icon: linkedin
       name: Linkedin
 
+- name: Snehal Chandan
+  pic: /img/people/chandans.jpg
+  dates: 2017-present
+  role: Undergraduate Research Assistant
+  description: 'Snehal Chandan is an undergraduate student studying Computer Science
+   and Engineering at the Indian Institute of Technology, Bombay.'
+  social:
+    - url: mailto:snehalchandan25@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/skc222
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/snehal-chandan-562779120/
+      icon: linkedin
+      name: Linkedin
+
+
 - name: Yukun Tan
   pic: /img/people/tany.jpg
   dates: 2017-present
