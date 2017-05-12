@@ -34,7 +34,7 @@
   year: 2017
   time: 9:40am
   pic: '/img/pres/2017-05-20-pycon.png'
-  slides: http://katyhuff.github.io/2017-05-10-pycon
+  slides: http://katyhuff.github.io/2017-05-20-pycon
   description: "In this talk, I seek to inspire open source python programmers to leverage their considerable skills and will toward scientific research software."
 
 - title: "Modeling and Simulation of Advanced Reactors and Fuel Cycles"
