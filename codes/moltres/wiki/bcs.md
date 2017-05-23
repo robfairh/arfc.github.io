@@ -1,7 +1,7 @@
 ---
 layout: manual
 title: Boundary Conditions
-permalink: /moltres/wiki/bcs/
+permalink: /codes/moltres/wiki/bcs/
 ---
 
 This page shows the mathematical forms of the auxiliary equation pieces that

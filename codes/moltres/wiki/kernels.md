@@ -1,7 +1,7 @@
 ---
 layout: manual
 title: Kernels
-permalink: /moltres/wiki/kernels/
+permalink: /codes/moltres/wiki/kernels/
 ---
 
 This page shows the mathematical forms of the governing equation pieces that

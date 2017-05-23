@@ -2,7 +2,7 @@
 layout: manual
 title: Moltres
 subtitle: "Open Source Modeling of Molten Salt Reactors"
-permalink: /moltres/
+permalink: /codes/moltres/
 ---
 
 Moltres is a MOOSE-application code design for simulation of molten salt

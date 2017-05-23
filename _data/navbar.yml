@@ -40,3 +40,9 @@
       suburl: "/manual/coc"
     - subtitle: "Guides"
       suburl: "/manual/guides"
+
+- title: "Codes"
+  url: "/codes/"
+  subcategories:
+    - subtitle: "moltres"
+      suburl: "/codes/moltres"
