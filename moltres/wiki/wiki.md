@@ -10,4 +10,4 @@ used to construct the weak forms of the PDEs required for the finite element
 method:
 
 - [Kernels](./kernels/)
-- [BCs](./bcs.md)
+- [BCs](./bcs/)

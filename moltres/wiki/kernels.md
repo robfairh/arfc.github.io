@@ -1,7 +1,6 @@
 ---
 layout: manual
 title: Kernels
-subtitle: "Your mom"
 permalink: /moltres/wiki/kernels/
 ---
 
