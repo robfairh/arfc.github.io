@@ -2,7 +2,7 @@
 layout: manual
 title: Moltres
 subtitle: "Open Source Modeling of Molten Salt Reactors"
-permalink: /codes/moltres/
+permalink: /software/moltres/
 ---
 
 Moltres is a MOOSE-application code design for simulation of molten salt
@@ -30,7 +30,7 @@ You may also compile a debug version of Moltres by running `METHOD=dbg make
 
 For automated documentation of the code, see our doxygen pages:
 
-[Doxygen](/moltres/)
+[Doxygen](http://arfc.github.io/moltres)
 
 General user documentation can be found on our wiki:
 

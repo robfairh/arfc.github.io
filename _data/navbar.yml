@@ -6,10 +6,21 @@
     - subtitle: "Presentations"
       suburl: "/research/presentations"
     - subtitle: "Software"
-      suburl: "/research/software"
-    - subtitle: "Other"
-      suburl: "/research/other"
+      suburl: "/software"
 
+- title: "Software"
+  url: "/software"
+  subcategories:
+    - subtitle: "cyclus"
+      suburl: "https://fuelcycle.org"
+    - subtitle: "cyder"
+      suburl: "https://arfc.github.io/cyder"
+    - subtitle: "moltres"
+      suburl: "/software/moltres"
+    - subtitle: "pyne"
+      suburl: "https://pyne.io"
+    - subtitle: "pyrk"
+      suburl: "https://pyrk.github.io"
 
 - title: "People"
   url: "/people/"
@@ -41,8 +52,3 @@
     - subtitle: "Guides"
       suburl: "/manual/guides"
 
-- title: "Codes"
-  url: "/codes/"
-  subcategories:
-    - subtitle: "moltres"
-      suburl: "/codes/moltres"

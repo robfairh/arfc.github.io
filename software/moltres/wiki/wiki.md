@@ -2,7 +2,7 @@
 layout: manual
 title: Moltres Wiki
 subtitle: "User guide pages"
-permalink: /codes/moltres/wiki/
+permalink: /software/moltres/wiki/
 ---
 
 The following pages give the math behind the `Kernel` and `BC` classes that are
