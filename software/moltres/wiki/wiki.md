@@ -11,3 +11,8 @@ method:
 
 - [Kernels](./kernels/)
 - [BCs](./bcs/)
+
+The page below gives a detailed outline of a typical Moltres input file and
+should help the user prepare his/her own customized input:
+
+- [Example Input](./input_example/)
