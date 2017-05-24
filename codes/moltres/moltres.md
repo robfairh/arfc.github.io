@@ -30,7 +30,7 @@ You may also compile a debug version of Moltres by running `METHOD=dbg make
 
 For automated documentation of the code, see our doxygen pages:
 
-[Doxygen](./doxygen/)
+[Doxygen](/moltres/)
 
 General user documentation can be found on our wiki:
 
