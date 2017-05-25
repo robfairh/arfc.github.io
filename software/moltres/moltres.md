@@ -10,8 +10,7 @@ reactors.
 
 ## Use
 
-Moltres documentation can be found at
-http://arfc/github.io/software/moltres. Doxygen pages are
+Doxygen pages are
 [here](https://arfc.github.io/moltres/). Outlines of the kernels and boundary
 conditions used to construct the Moltres governing equations can be found on the
 [Moltres wiki](http://arfc.github.io/software/moltres/wiki/). Breakdown of a
