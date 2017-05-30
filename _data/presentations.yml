@@ -24,7 +24,7 @@
   slides: https://katyhuff.github.io/2017-06-29-ornl
   description: "The world's energy future depends on improved safety and sustainability of nuclear reactor designs and fuel cycle strategies. Insights can be drawn from numerical experiments that model and simulate these systems. Both reactor and nuclear fuel cycle dynamics are sufficiently complex that sophisticated scientific software methods, high-performance computing resources, and data analysis algorithms are essential to improving our understanding of them. Furthermore, improved reproducibility and verification in these numerical experiments can be achieved through judicious use of scientific computing best practices. This talk will touch on best practices approaches to building software and simulations for coupled physics analysis of reactor transients in molten salt reactors, software for data analysis in python (PyNE), and software related to the fuel cycle (using Cyclus, the agent-based nuclear fuel cycle simulation framework)."
 
-- title: "Python For Science"
+- title: "Do it For Science"
   presenter: Kathryn Huff
   event: "PyCon"
   type: Keynote
