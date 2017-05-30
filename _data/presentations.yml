@@ -1,3 +1,4 @@
+
 - title: "TBD"
   presenter: Kathryn Huff
   event: "SciPy"
@@ -16,13 +17,27 @@
   event: Reactor and Nuclear Systems Division
   type: Seminar
   place: Oak Ridge National Laboratory
-  month: June
-  day: 29
+  month: July
+  day: 6
   year: 2017
   time: 3:00pm
   pic: "https://www.ornl.gov/sites/default/files/ornl-logo249x60.png"
-  slides: https://katyhuff.github.io/2017-06-29-ornl
-  description: "The world's energy future depends on improved safety and sustainability of nuclear reactor designs and fuel cycle strategies. Insights can be drawn from numerical experiments that model and simulate these systems. Both reactor and nuclear fuel cycle dynamics are sufficiently complex that sophisticated scientific software methods, high-performance computing resources, and data analysis algorithms are essential to improving our understanding of them. Furthermore, improved reproducibility and verification in these numerical experiments can be achieved through judicious use of scientific computing best practices. This talk will touch on best practices approaches to building software and simulations for coupled physics analysis of reactor transients in molten salt reactors, software for data analysis in python (PyNE), and software related to the fuel cycle (using Cyclus, the agent-based nuclear fuel cycle simulation framework)."
+  slides: https://katyhuff.github.io/2017-07-06-ornl
+  description: "The world's energy future depends on improved safety and sustainability of nuclear energy. Insights can be drawn from numerical experiments that model and simulate nuclear energy systems, but computational nuclear engineering is sufficiently complex that sophisticated scientific software methods, high-performance computing resources, and data analysis algorithms are essential.  Furthermore, improved reproducibility and verification in these numerical experiments can be achieved only through judicious use of scientific computing best practices.
+          This talk will touch on best practices approaches to building software and simulations for computational nuclear engineering. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings.  None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions."
+
+- title: "Best Practices in Scientific Computing"
+  presenter: Kathryn Huff
+  event: "2017 PI4 Computational Bootcamp"
+  type: Guest Speaker
+  place: Urbana, IL
+  month: May
+  day: 31
+  year: 2017
+  time: 12:00 noon
+  pic: '/img/pres/2017-05-31-pi4.png'
+  slides: http://katyhuff.github.io/2017-05-31-pi4
+  description: "This talk covers a set of concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. Our recommendations are based on several decades of collective experience both building scientific software and teaching computing to scientists, reports from many other groups, guidelines for commercial and open source software development, and on empirical studies of scientific computing and software development in general. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions."
 
 - title: "Do it For Science"
   presenter: Kathryn Huff
@@ -34,7 +49,7 @@
   year: 2017
   time: 9:40am
   pic: '/img/pres/2017-05-20-pycon.png'
-  slides: http://katyhuff.github.io/2017-05-10-pycon
+  slides: http://katyhuff.github.io/2017-05-20-pycon
   description: "In this talk, I seek to inspire open source python programmers to leverage their considerable skills and will toward scientific research software."
 
 - title: "Modeling and Simulation of Advanced Reactors and Fuel Cycles"
