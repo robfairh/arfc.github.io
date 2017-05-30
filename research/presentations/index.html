@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 <html>
   <head>
   <meta charset="utf-8">
@@ -62,9 +65,25 @@
     
     <li><a class="page-scroll nounderline" href="/research/presentations">Presentations</a></li>
     
-    <li><a class="page-scroll nounderline" href="/research/software">Software</a></li>
+    <li><a class="page-scroll nounderline" href="/software">Software</a></li>
     
-    <li><a class="page-scroll nounderline" href="/research/other">Other</a></li>
+    </ul>
+    
+    </li>
+    
+    
+    <li><a class="page-scroll nounderline" href="/software" class="page-link">Software</a>
+    <ul class="sub-menu">
+    
+    <li><a class="page-scroll nounderline" href="https://fuelcycle.org">cyclus</a></li>
+    
+    <li><a class="page-scroll nounderline" href="https://arfc.github.io/cyder">cyder</a></li>
+    
+    <li><a class="page-scroll nounderline" href="/software/moltres">moltres</a></li>
+    
+    <li><a class="page-scroll nounderline" href="https://pyne.io">pyne</a></li>
+    
+    <li><a class="page-scroll nounderline" href="https://pyrk.github.io">pyrk</a></li>
     
     </ul>
     
@@ -131,6 +150,8 @@
         
           <a class="page-link" href="/people/alumni">Alumni</a>
         
+          <a class="page-link" href="/software/moltres/wiki/bcs/">Boundary Conditions</a>
+        
           <a class="page-link" href="/manual/guides/bluewaters">Blue Waters</a>
         
           <a class="page-link" href="/manual/coc">Code of Conduct</a>
@@ -151,11 +172,17 @@
         
           <a class="page-link" href="/">Advanced Reactors and Fuel Cycles</a>
         
+          <a class="page-link" href="/software/moltres/wiki/input_example/">Example Input File</a>
+        
+          <a class="page-link" href="/software/moltres/wiki/kernels/">Kernels</a>
+        
           <a class="page-link" href="/manual/">Laboratory Manual</a>
         
           <a class="page-link" href="/manual/guides/katy/meeting">Meeting with Katy</a>
         
           <a class="page-link" href="/manual/mission">Mission</a>
+        
+          <a class="page-link" href="/software/moltres/">Moltres</a>
         
           <a class="page-link" href="/research/other/">Other Stuff</a>
         
@@ -175,7 +202,7 @@
         
           <a class="page-link" href="/manual/guides/katy/revreq">Requesting a Review of Something</a>
         
-          <a class="page-link" href="/research/software/">Software</a>
+          <a class="page-link" href="/software/">Software</a>
         
           
         
@@ -184,6 +211,8 @@
           <a class="page-link" href="/positions/ugrad/">Undergraduate Research Assistant Openings</a>
         
           <a class="page-link" href="/manual/guides/website">Website</a>
+        
+          <a class="page-link" href="/software/moltres/wiki/">Moltres Wiki</a>
         
           <a class="page-link" href="/manual/guides/zotero">Zotero</a>
         
@@ -225,17 +254,17 @@
         <div class="container">
                 <div class="row project">
                         <div class="col-md-4">
-                                <a href="https://katyhuff.github.io/2017-06-29-ornl"><img src="https://www.ornl.gov/sites/default/files/ornl-logo249x60.png" class="img-responsive" alt=""></a>
+                                <a href="https://katyhuff.github.io/2017-07-06-ornl"><img src="https://www.ornl.gov/sites/default/files/ornl-logo249x60.png" class="img-responsive" alt=""></a>
                         </div>
-                        <div class="col-md-8"> <h3 class="text-muted text-left">June 29, 2017 at 3:00pm</h3>
+                        <div class="col-md-8"> <h3 class="text-muted text-left">July 6, 2017 at 3:00pm</h3>
                                 <h4>Best Practices in Computational Nuclear Engineering</h4>
                                 <h5>Reactor and Nuclear Systems Division</h4>
                                 <p><i class="fa fa-user"> Kathryn Huff</i></p>
                                 <p><i class="fa fa-map-marker"> Oak Ridge National Laboratory</i></p>
                                 <p><i class="fa fa-comment"> Seminar</i></p>
-                                <p><i class="fa fa-image"></i> <a href="https://katyhuff.github.io/2017-06-29-ornl"> https://katyhuff.github.io/2017-06-29-ornl</a></p>
+                                <p><i class="fa fa-image"></i> <a href="https://katyhuff.github.io/2017-07-06-ornl"> https://katyhuff.github.io/2017-07-06-ornl</a></p>
                                 
-                                <p class="text-muted">The world's energy future depends on improved safety and sustainability of nuclear reactor designs and fuel cycle strategies. Insights can be drawn from numerical experiments that model and simulate these systems. Both reactor and nuclear fuel cycle dynamics are sufficiently complex that sophisticated scientific software methods, high-performance computing resources, and data analysis algorithms are essential to improving our understanding of them. Furthermore, improved reproducibility and verification in these numerical experiments can be achieved through judicious use of scientific computing best practices. This talk will touch on best practices approaches to building software and simulations for coupled physics analysis of reactor transients in molten salt reactors, software for data analysis in python (PyNE), and software related to the fuel cycle (using Cyclus, the agent-based nuclear fuel cycle simulation framework).</p>
+                                <p class="text-muted">The world's energy future depends on improved safety and sustainability of nuclear energy. Insights can be drawn from numerical experiments that model and simulate nuclear energy systems, but computational nuclear engineering is sufficiently complex that sophisticated scientific software methods, high-performance computing resources, and data analysis algorithms are essential.  Furthermore, improved reproducibility and verification in these numerical experiments can be achieved only through judicious use of scientific computing best practices. This talk will touch on best practices approaches to building software and simulations for computational nuclear engineering. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings.  None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions.</p>
                         </div>
                 </div>
         </div>
@@ -243,15 +272,33 @@
         <div class="container">
                 <div class="row project">
                         <div class="col-md-4">
-                                <a href="http://katyhuff.github.io/2017-05-10-pycon"><img src="/img/pres/2017-05-20-pycon.png" class="img-responsive" alt=""></a>
+                                <a href="http://katyhuff.github.io/2017-05-31-pi4"><img src="/img/pres/2017-05-31-pi4.png" class="img-responsive" alt=""></a>
+                        </div>
+                        <div class="col-md-8"> <h3 class="text-muted text-left">May 31, 2017 at 12:00 noon</h3>
+                                <h4>Best Practices in Scientific Computing</h4>
+                                <h5>2017 PI4 Computational Bootcamp</h4>
+                                <p><i class="fa fa-user"> Kathryn Huff</i></p>
+                                <p><i class="fa fa-map-marker"> Urbana, IL</i></p>
+                                <p><i class="fa fa-comment"> Guest Speaker</i></p>
+                                <p><i class="fa fa-image"></i> <a href="http://katyhuff.github.io/2017-05-31-pi4"> http://katyhuff.github.io/2017-05-31-pi4</a></p>
+                                
+                                <p class="text-muted">This talk covers a set of concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. Our recommendations are based on several decades of collective experience both building scientific software and teaching computing to scientists, reports from many other groups, guidelines for commercial and open source software development, and on empirical studies of scientific computing and software development in general. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions.</p>
+                        </div>
+                </div>
+        </div>
+        
+        <div class="container">
+                <div class="row project">
+                        <div class="col-md-4">
+                                <a href="http://katyhuff.github.io/2017-05-20-pycon"><img src="/img/pres/2017-05-20-pycon.png" class="img-responsive" alt=""></a>
                         </div>
                         <div class="col-md-8"> <h3 class="text-muted text-left">May 20, 2017 at 9:40am</h3>
-                                <h4>Python For Science</h4>
+                                <h4>Do it For Science</h4>
                                 <h5>PyCon</h4>
                                 <p><i class="fa fa-user"> Kathryn Huff</i></p>
                                 <p><i class="fa fa-map-marker"> Portland, OR</i></p>
                                 <p><i class="fa fa-comment"> Keynote</i></p>
-                                <p><i class="fa fa-image"></i> <a href="http://katyhuff.github.io/2017-05-10-pycon"> http://katyhuff.github.io/2017-05-10-pycon</a></p>
+                                <p><i class="fa fa-image"></i> <a href="http://katyhuff.github.io/2017-05-20-pycon"> http://katyhuff.github.io/2017-05-20-pycon</a></p>
                                 
                                 <p class="text-muted">In this talk, I seek to inspire open source python programmers to leverage their considerable skills and will toward scientific research software.</p>
                         </div>
