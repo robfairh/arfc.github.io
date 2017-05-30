@@ -76,7 +76,7 @@
   pic: /img/people/parkg.jpg
   dates: 2016-present
   role: Undergraduate Research Assistant
-  description: 'Gyu Tae Park is an Undergarduate Student in UIUC, interested in fuel cycle simulations.'
+  description: 'Gyu Tae Park is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
   social:
     - url: mailto:gpark29@illinois.edu
       icon: envelope-o
@@ -118,6 +118,24 @@
     - url: https://bitbucket.org/adityapb/
       icon: bitbucket
       name: Bitbucket
+
+- name: Gavin Ridley
+  pic: /img/people/ridleyg.png
+  dates: Summer 2017
+  role: Undergraduate Research Assistant
+  description: 'Gavin Ridley is an undergraduate at UTK looking to make better
+      nuclear power through HPC.'
+  social:
+      - url: mailto:gridley@vols.utk.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/gridley
+        icon: github-alt
+        name: Github
+      - url: https://twitter.com/g_kridley
+        icon: twitter
+        name: Twitter
+
 
 - name: You
   pic: /img/people/you.png
