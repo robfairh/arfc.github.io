@@ -24,9 +24,9 @@ you can really fly.
 - Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
 - Tell Katy your username so she can add you to the [ARFC github organization.](https://github.com/arfc)
-- [Configure](http://swcarpentry.github.io/git-novice/02-setup.html) git.
+- [Configure](http://swcarpentry.github.io/git-novice/02-setup/) git.
 - Get a [Zotero account](https://www.zotero.org/user/register/).
-- Join the [ARFC Zotero group](https://www.zotero.org/groups/arfc).
+- Join the [ARFC Zotero group](https://www.zotero.org/groups/498713/arfc).
 - Install the [Zotero desktop application](https://www.zotero.org/download/).
 - [Learn how to use Zotero](/manual/guides/zotero).
 - Add yourself to the [communication channels](/manual/guides/communication).
