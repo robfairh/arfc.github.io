@@ -1,6 +1,41 @@
+- name: Snehal Chandan
+  pic: /img/people/chandans.jpg
+  dates: "summer 2017"
+  role: Undergraduate Research Assistant
+  description: 'Snehal Chandan is an undergraduate student studying Computer Science
+   and Engineering.'
+  social:
+    - url: mailto:snehalchandan25@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/skc222
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/snehal-chandan-562779120/
+      icon: linkedin
+      name: Linkedin
+
+- name: Aditya Bhosale
+  pic: /img/people/bhosalea.png
+  dates: "summer 2017"
+  role: Undergraduate Research Assistant
+  description: 'Aditya Bhosale is an undergraduate studying Aerospace
+    Engineering, interested in HPC'
+  social:
+    - url: mailto:adityapb1546@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/adityapb
+      icon: github-alt
+      name: Github
+    - url: https://bitbucket.org/adityapb/
+      icon: bitbucket
+      name: Bitbucket
+
+
 - name: Katie Mummah
   pic: /img/people/mummahk.png
-  dates: 2016-present
+  dates: 2016-2017
   role: Undergraduate Research Assistant
   src: nuclearkatie.com
   url: nuclearkatie.com
@@ -21,7 +56,7 @@
 
 - name: Eric Riewski
   pic: /img/people/riewskie.jpg
-  dates: 2016-present
+  dates: 2016-2017
   role: Undergraduate Research Assistant
   description: 'Eric Riewski is pursuing his PhD at the University of Wisconsin - Madiscon.' 
   social:
@@ -37,7 +72,7 @@
 
 - name: Yukun Tan
   pic: /img/people/tany.jpg
-  dates: 2017-present
+  dates: 2017-2017
   role: NCSA SPIN intern
   description: 'Yukun Tan is continuing her undergraduate degree in CS at the University of Illinois.'
   social:
@@ -50,3 +85,4 @@
     - url: https://www.linkedin.com/in/yukun-tifa-tan-b21146a2/
       icon: linkedin
       name: Linkedin
+

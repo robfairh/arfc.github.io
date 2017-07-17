@@ -85,40 +85,6 @@
       icon: github-alt
       name: Github
 
-- name: Snehal Chandan
-  pic: /img/people/chandans.jpg
-  dates: 2017-present
-  role: Undergraduate Research Assistant
-  description: 'Snehal Chandan is an undergraduate student studying Computer Science
-   and Engineering.'
-  social:
-    - url: mailto:snehalchandan25@gmail.com
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/skc222
-      icon: github-alt
-      name: Github
-    - url: https://www.linkedin.com/in/snehal-chandan-562779120/
-      icon: linkedin
-      name: Linkedin
-
-- name: Aditya Bhosale
-  pic: /img/people/bhosalea.png
-  dates: 2017-present
-  role: Undergraduate Research Assistant
-  description: 'Aditya Bhosale is an undergraduate studying Aerospace
-    Engineering, interested in HPC'
-  social:
-    - url: mailto:adityapb1546@gmail.com
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/adityapb
-      icon: github-alt
-      name: Github
-    - url: https://bitbucket.org/adityapb/
-      icon: bitbucket
-      name: Bitbucket
-
 - name: You
   pic: /img/people/you.png
   dates: now
