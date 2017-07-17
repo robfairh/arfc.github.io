@@ -39,7 +39,7 @@
   slides: http://katyhuff.github.io/2017-05-31-pi4
   description: "This talk covers a set of concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. Our recommendations are based on several decades of collective experience both building scientific software and teaching computing to scientists, reports from many other groups, guidelines for commercial and open source software development, and on empirical studies of scientific computing and software development in general. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions."
 
-- title: "Python For Science"
+- title: "Do it For Science"
   presenter: Kathryn Huff
   event: "PyCon"
   type: Keynote
