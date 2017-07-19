@@ -50,7 +50,7 @@
   year: 2017
   time: 9:00am
   pic: '/img/pres/2017-06-15-msr.png'
-  slides: 'img/pres/2017-06-15-msr-pres.pdf'
+  slides: '/pres/2017-06-15-msr-pres.pdf'
   description: "This work introduces Moltres, a new physics application for multiphysics modeling of fluid-fuelled molten salt reactors. The neutronics model, thermal hydraulics model, and their coupling in the MOOSE framework are described. Neutron and precursor equations are implemented using an Action system that allows use of an arbitrary number of groups with no change in the input card. Results for many-channel configurations in 2D-axisymmetric and 3D coordinates are presented. These are compared against other coupled models as well as the Molten Salt Reactor Experiment."
 
 
