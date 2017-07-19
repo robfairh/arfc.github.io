@@ -10,7 +10,7 @@
   time: 10:00am
   pic: '/img/pres/2017-07-19-twofcs.png'
   slides: 'http://goo.gl/6aGJd8'
-  description: "This presentation, was presented by Kathryn Huff, but was the collective work of Kathryn Huff, Anthony Scopatz, Jin Whan Bae, and Anthony Scopatz. It seeks to stimulate discussion about algorithms for driving deployment based on demand (not just of power, but of fuel materials, reprocessing capacity, etc) in each of the existing simulators. This discussion is tightly in line with the Demand Driven Cycamore Archetypes NEUP proposal."
+  description: "This presentation was presented by Kathryn Huff, but was the collective work of Kathryn Huff, Anthony Scopatz, Jin Whan Bae, and Anthony Scopatz. It seeks to stimulate discussion about algorithms for driving deployment based on demand (not just of power, but of fuel materials, reprocessing capacity, etc) in each of the existing simulators. This discussion is tightly in line with the Demand Driven Cycamore Archetypes NEUP proposal."
 
 - title: "Academic Open Source"
   presenter: Kathryn Huff
