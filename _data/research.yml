@@ -10,6 +10,6 @@
 
 - name: Software
   pic: research/zen.png
-  url: research/software
+  url: /software
   description: 'ARFC has a strong focus on creating high quality scientific software. Discover it here.'
 
