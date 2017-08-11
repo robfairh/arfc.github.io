@@ -36,6 +36,17 @@ you can really fly.
 - Register for [classes](/manual/guides/classes).
 - Explore [Chambana](https://localwiki.org/cu/).
 
+# Dealing with Katy
+
+Here are some ways to interact with me that will make my life (and sometimes 
+yours) easier. 
+
+- [Scheduling to meet with Katy](/manual/guides/katy/meeting)
+- [Requesting a recommendation letter](/manual/guides/katy/recreq)
+- [Requesting comments on a document](/manual/guides/katy/revreq)
+- [Requesting help with software](/manual/guides/katy/codereq)
+- [Asking Katy to be on your PhD committee](/manual/guides/katy/commreq)
+
 # Communication
 
 We communicate through many channels. Use the 
@@ -87,13 +98,3 @@ twitter accounts, and whatnot that tie us together.
 - where to present
 - paper templates
 
-# Dealing with Katy
-
-There are ways I like certain things done. I gently recommend you do them that 
-way.
-
-- [Scheduling to meet with Katy](/manual/guides/katy/meeting)
-- [Requesting a recommendation letter](/manual/guides/katy/recreq)
-- [Requesting comments on a document](/manual/guides/katy/revreq)
-- [Requesting help with software](/manual/guides/katy/codereq)
-- [Asking Katy to be on your PhD committee](/manual/guides/katy/commreq)
