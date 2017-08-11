@@ -19,7 +19,7 @@ You're new to the research group. There are a lot of tasks to get done before
 you can really fly. 
 
 - Read the [Code of Conduct](/manual/coc).
-- Read the [book](https://physics.codes). Ask Katy if she has a copy lying around.
+- Read the [book](http://physics.codes). Ask Katy if she has a copy lying around.
 - Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
 - Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
