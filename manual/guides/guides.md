@@ -19,7 +19,7 @@ You're new to the research group. There are a lot of tasks to get done before
 you can really fly. 
 
 - Read the [Code of Conduct](/manual/coc).
-- Read the [book](https://physics.codes). Ask Katy if she has a copy lying around.
+- Read the [book](http://physics.codes). Ask Katy if she has a copy lying around.
 - Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
 - Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
@@ -35,6 +35,17 @@ you can really fly.
 - Handle HR stuff.
 - Register for [classes](/manual/guides/classes).
 - Explore [Chambana](https://localwiki.org/cu/).
+
+# Dealing with Katy
+
+Here are some ways to interact with me that will make my life (and sometimes 
+yours) easier. 
+
+- [Scheduling to meet with Katy](/manual/guides/katy/meeting)
+- [Requesting a recommendation letter](/manual/guides/katy/recreq)
+- [Requesting comments on a document](/manual/guides/katy/revreq)
+- [Requesting help with software](/manual/guides/katy/codereq)
+- [Asking Katy to be on your PhD committee](/manual/guides/katy/commreq)
 
 # Communication
 
@@ -87,13 +98,3 @@ twitter accounts, and whatnot that tie us together.
 - where to present
 - paper templates
 
-# Dealing with Katy
-
-There are ways I like certain things done. I gently recommend you do them that 
-way.
-
-- [Scheduling to meet with Katy](/manual/guides/katy/meeting)
-- [Requesting a recommendation letter](/manual/guides/katy/recreq)
-- [Requesting comments on a document](/manual/guides/katy/revreq)
-- [Requesting help with software](/manual/guides/katy/codereq)
-- [Asking Katy to be on your PhD committee](/manual/guides/katy/commreq)
