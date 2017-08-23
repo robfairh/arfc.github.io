@@ -29,6 +29,7 @@ you can really fly.
 - Join the [ARFC Zotero group](https://www.zotero.org/groups/498713/arfc).
 - Install the [Zotero desktop application](https://www.zotero.org/download/).
 - [Learn how to use Zotero](/manual/guides/zotero).
+- [Learn how to access articles through the university library](http://www.library.illinois.edu/library-technology/proxy-bookmarklet/).
 - Add yourself to the [communication channels](/manual/guides/communication).
 - Add yourself to [this website.](/manual/guides/website)
 - Install other software you'll need.
