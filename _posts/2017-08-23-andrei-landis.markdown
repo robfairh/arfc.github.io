@@ -32,7 +32,7 @@ future multi-physics and fuel cycle analysis of molten salt breeder
 reactor designs more broadly. This work culminated in two conference paper 
 submissions to the 2017 American Nuclear Society Winter Meeting. 
 
-ARFC is lucky to have an accomplished group of students and are particularly 
+ARFC is lucky to have an accomplished group of students and we are particularly 
 delighted to congratulate Andrei on this award. It recognizes something of 
 great importance to our mission : the humanity and dedication required to 
 pursue an advanced degree in nuclear engineering. 
