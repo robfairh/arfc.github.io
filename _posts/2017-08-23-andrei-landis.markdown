@@ -21,7 +21,7 @@ financial constraints. We applaud the committee's selection of Andrei, who is
 simultaneously an exceptionally promising graduate student, a husband, and a 
 father of two.  
 
-Andrei joined ARFC in Fall 2016, and has already make significant achievements 
+Andrei joined ARFC in Fall 2016, and has already made significant achievements 
 in graduate research.  In particular, Andrei has completed a full 
 core neutronic model of the Molten Salt Breeder Reactor with unprecedented 
 geometric detail. Additionally, he conducted an accompanying online fuel 
