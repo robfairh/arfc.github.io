@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Andrei Rykhlevskii Recognized with ANS Scholarship"
-date:   2017-08-24 12:00:00 -0800
+date:   2017-08-23 12:00:00 -0800
 author: Katy Huff
 categories: jekyll update
 ---
