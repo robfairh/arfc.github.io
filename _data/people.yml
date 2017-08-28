@@ -75,8 +75,8 @@
 - name: Hengquan Zhang
   pic: /img/people/zhangh.png
   dates: 2017-present
-  role: Graduate Teaching Assistant
-  description: 'Hengquan Zhang is a PhD student at UIUC interested in multiphysics simulation of advanced reactors.'
+  role: Graduate Researcher
+  description: 'Hengquan Zhang is a PhD student and teaching assistant at UIUC interested in multiphysics simulation of advanced reactors.'
   social:
     - url: mailto:hz14@illinois.edu
       icon: envelope-o
