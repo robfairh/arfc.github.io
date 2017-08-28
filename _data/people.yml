@@ -72,6 +72,19 @@
       icon: github-alt
       name: Github
 
+- name: Hengquan Zhang
+  pic: /img/people/zhangh.png
+  dates: 2017-present
+  role: Graduate Teaching Assistant
+  description: 'Hengquan Zhang is a PhD student at UIUC interested in multiphysics simulation of advanced reactors.'
+  social:
+    - url: mailto:hz14@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/hzhang21
+      icon: github-alt
+      name: Github
+
 - name: Gyu Tae Park
   pic: /img/people/parkg.jpg
   dates: 2016-present
@@ -101,19 +114,6 @@
       - url: https://twitter.com/g_kridley
         icon: twitter
         name: Twitter
-
-- name: Hengquan Zhang
-  pic: /img/people/zhangh.png
-  dates: 2017-present
-  role: Graduate Teach Assistant
-  description: 'Hengquan Zhang is a PhD student at UIUC interested in multiphysics simulation of advanced reactors.'
-  social:
-    - url: mailto:hz14@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/hzhang21
-      icon: github-alt
-      name: Github
 
 - name: You
   pic: /img/people/you.png
