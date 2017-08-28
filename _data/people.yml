@@ -85,23 +85,6 @@
       icon: github-alt
       name: Github
 
-- name: Gavin Ridley
-  pic: /img/people/ridleyg.png
-  dates: Summer 2017
-  role: Undergraduate Research Assistant
-  description: 'Gavin Ridley is an undergraduate at UTK looking to help molten salt reactors
-      come to fruition through HPC.'
-  social:
-      - url: mailto:gridley@vols.utk.edu
-        icon: envelope-o
-        name: email
-      - url: https://github.com/gridley
-        icon: github-alt
-        name: Github
-      - url: https://twitter.com/g_kridley
-        icon: twitter
-        name: Twitter
-
 - name: Sun Myung Park
   pic: /img/people/smpark.jpg
   dates: 2017-present
