@@ -102,6 +102,20 @@
         icon: twitter
         name: Twitter
 
+- name: Gwendolyn Chee
+  pic: /img/people/Gwenpic.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Gwendolyn Chee is a Masters Student interested in fuel cycle simulations.'
+  social:
+    - url: mailto:gchee2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: http://github.com/gwenchee
+      icon: github-alt
+      name: Github
+
+
 - name: You
   pic: /img/people/you.png
   dates: now
