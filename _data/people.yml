@@ -67,6 +67,19 @@
       icon: github-alt
       name: Github
 
+- name: Sun Myung Park
+  pic: /img/people/smpark.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Sun Myung Park is a new PhD student embarking on his nuclear engineering journey.'
+  social:
+      - url: mailto:smpark3@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/smpark7
+        icon: github-alt
+        name: Github
+
 - name: Gyu Tae Park
   pic: /img/people/parkg.jpg
   dates: 2016-present
