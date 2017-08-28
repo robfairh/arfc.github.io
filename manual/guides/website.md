@@ -18,7 +18,7 @@ the website, including blog posts and comments.
    and your username is USERNAME, the command is `git clone 
    git@github.com:USERNAME/arfc.github.io`
 4. Add the group fork as a remote. `cd arfc.github.io && git remote add 
-   git@github.com:arfc/arfc.github.io`
+   upstream git@github.com:arfc/arfc.github.io`
 
 Now, you're ready to make changes to the website. There are a few types of 
 changes that are common:
