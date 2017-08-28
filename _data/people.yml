@@ -102,6 +102,16 @@
         icon: twitter
         name: Twitter
 
+- name: Sun Myung Park
+  pic: /img/people/smpark.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Sun Myung Park is a new PhD student embarking on his nuclear engineering journey.'
+  social:
+      - url: mailto:smpark3@illinois.edu
+        icon: envelope-o
+        name: email
+
 - name: You
   pic: /img/people/you.png
   dates: now
