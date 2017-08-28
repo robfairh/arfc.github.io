@@ -102,6 +102,19 @@
         icon: twitter
         name: Twitter
 
+- name: Hengquan Zhang
+  pic: /img/people/zhangh.png
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Hengquan Zhang is a PhD student interested in multiphysics simulation of advanced reactors.'
+  social:
+    - url: mailto:hz14@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/hzhang21
+      icon: github-alt
+      name: Github
+
 - name: You
   pic: /img/people/you.png
   dates: now
