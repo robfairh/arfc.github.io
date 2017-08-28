@@ -111,6 +111,9 @@
       - url: mailto:smpark3@illinois.edu
         icon: envelope-o
         name: email
+      - url: https://github.com/smpark7
+        icon: github-alt
+        name: Github
 
 - name: You
   pic: /img/people/you.png
