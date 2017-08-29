@@ -102,6 +102,20 @@
         icon: twitter
         name: Twitter
 
+- name: Mark Kamuda
+  pic: /img/people/kamudam.png
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Mark Kamuda is a PhD student working on machine learning applications to automate isotope identification.'
+  social:
+      - url: mailto:kamuda1@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/kamuda1
+        icon: github-alt
+        name: Github
+
+
 - name: You
   pic: /img/people/you.png
   dates: now
