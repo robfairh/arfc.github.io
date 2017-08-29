@@ -1,5 +1,5 @@
 - name: Katy Huff
-  pic: /img/people/huffk.png
+  pic: /img/people/huffk.jpg
   dates: 2016-present
   status: PI
   role: Assistant Professor
@@ -17,24 +17,6 @@
       icon: graduation-cap
       name: Google Scholar
     - url: https://twitter.com/katyhuff
-      icon: twitter
-      name: Twitter
-
-- name: Alex Lindsay
-  pic: /img/people/lindsaya.jpg
-  dates: 2016-present
-  role: Postdoctoral Researcher
-  src: http://alexlindsay.info
-  url: http://alexlindsay.info
-  description: 'Alex is a postdoctoral researcher dedicated to a reasonable marriage between openness and nuclear energy research.'
-  social:
-    - url: mailto:lindsayad@diyplasma.org
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/lindsayad
-      icon: github-alt
-      name: Github
-    - url: https://twitter.com/AlexTFXC
       icon: twitter
       name: Twitter
 
@@ -72,36 +54,32 @@
       icon: github-alt
       name: Github
 
-- name: Gyu Tae Park
-  pic: /img/people/parkg.jpg
-  dates: 2016-present
-  role: Undergraduate Research Assistant
-  description: 'Gyu Tae Park is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
+- name: Hengquan Zhang
+  pic: /img/people/zhangh.png
+  dates: 2017-present
+  role: Graduate Researcher
+  description: 'Hengquan Zhang is a PhD student and teaching assistant at UIUC interested in multiphysics simulation of advanced reactors.'
   social:
-    - url: mailto:gpark29@illinois.edu
+    - url: mailto:hz14@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/gyutaepark
+    - url: https://github.com/hzhang21
       icon: github-alt
       name: Github
 
-- name: Gavin Ridley
-  pic: /img/people/ridleyg.png
-  dates: Summer 2017
-  role: Undergraduate Research Assistant
-  description: 'Gavin Ridley is an undergraduate at UTK looking to help molten salt reactors
-      come to fruition through HPC.'
+- name: Sun Myung Park
+  pic: /img/people/smpark.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Sun Myung Park is a new PhD student embarking on his nuclear engineering journey.'
   social:
-      - url: mailto:gridley@vols.utk.edu
+      - url: mailto:smpark3@illinois.edu
         icon: envelope-o
         name: email
-      - url: https://github.com/gridley
+      - url: https://github.com/smpark7
         icon: github-alt
         name: Github
-      - url: https://twitter.com/g_kridley
-        icon: twitter
-        name: Twitter
-
+                
 - name: Gwendolyn Chee
   pic: /img/people/Gwenpic.jpg
   dates: 2017-present
@@ -115,6 +93,19 @@
       icon: github-alt
       name: Github
 
+
+- name: Gyu Tae Park
+  pic: /img/people/parkg.jpg
+  dates: 2016-present
+  role: Undergraduate Research Assistant
+  description: 'Gyu Tae Park is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
+  social:
+    - url: mailto:gpark29@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/gyutaepark
+      icon: github-alt
+      name: Github
 
 - name: You
   pic: /img/people/you.png
