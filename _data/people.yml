@@ -106,6 +106,18 @@
       icon: github-alt
       name: Github
 
+name: Anshuman Chaube
+  pic: /img/people/chaubea.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Ansh is a graduate student interested in mutiphysics simulations of advanced fission reactors.'
+  social:
+    - url: mailto:achaube2@illinois.edu
+      icon: envelope-o
+      name: Email
+    -url: https://github.com/achubbz
+      icon: github-alt
+      name: Github
 
 - name: Gyu Tae Park
   pic: /img/people/parkg.jpg
