@@ -115,7 +115,7 @@
     - url: mailto:achaube2@illinois.edu
       icon: envelope-o
       name: Email
-    -url: https://github.com/achubbz
+    - url: https://github.com/achubbz
       icon: github-alt
       name: Github
 
