@@ -5,9 +5,38 @@ permalink: /software/moltres/wiki/input_example/
 ---
 
 The input file example used here is taken from
-`moltres/problems/MooseGold/033117_nts_temp_pre_parsed_mat/auto_diff_rho.i`. Before
-delving into the file, we note that all the parameter options for different
-input blocks can be seen by executing `moltres-opt --dump`.
+`moltres/problems/MooseGold/033117_nts_temp_pre_parsed_mat/auto_diff_rho.i`. To
+run this input file, from the command line run (substituting the path to the
+moltres root directory for `$moltres_root`):
+
+```bash
+cd $moltres_root/problems/MooseGold/033117_nts_temp_pre_parsed_mat
+$moltres_root/moltres-opt -i auto_diff_rho.i
+```
+
+In serial, this job takes four minutes on a 2.7 GHz machine. To run the job in
+parallel, execute:
+
+```bash
+mpirun -np 2 $moltres_root/moltres-opt -i auto_diff_rho.i
+```
+
+where the number of processors can be changed from 2 to however many processes
+you want to run. The parallel performance of the job depends on the number of
+degrees of freedom in the problem and the preconditioner used. A general rule of
+thumb for optimal scaling is not to go below 20k degrees of freedom per
+processor, otherwise communication becomes a performance drag. Additionally many
+preconditioners do not perform as well when spread over multiple processes as
+they lose access to "new" information. (See
+http://www.mcs.anl.gov/petsc/documentation/faq.html#slowerparallel for more
+discussion of this). This particular input file (`auto_diff_rho.i`) only has
+8,697 degrees of freedom and the preconditioner used does not scale very
+well. Consequently, increasing from one to two processes only speeds up the
+solution time from 4 to 3.5 minutes.
+
+Before delving into a description of the input file, we note that all the
+parameter options for different input blocks can be seen by executing
+`moltres-opt --dump`.
 
 Ok, from the top:
 
