@@ -5,11 +5,45 @@ permalink: /software/moltres/wiki/input_example/
 ---
 
 The input file example used here is taken from
-`moltres/problems/MooseGold/033117_nts_temp_pre_parsed_mat/auto_diff_rho.i`. Before
-delving into the file, we note that all the parameter options for different
-input blocks can be seen by executing `moltres-opt --dump`.
+`moltres/tests/twod_axi_coupled/auto_diff_rho.i`. To run this input file from
+the command line, run (substituting the path to the moltres root directory for
+`$moltres_root`):
 
-Ok, from the top:
+```bash
+cd $moltres_root/tests/twod_axi_coupled
+$moltres_root/moltres-opt -i auto_diff_rho.i
+```
+
+In serial, this job takes around 90 seconds on a 2.7 GHz machine. To run the job in
+parallel, execute:
+
+```bash
+mpirun -np 2 $moltres_root/moltres-opt -i auto_diff_rho.i
+```
+
+where the number of processors can be changed from 2 to however many processes
+you want to run. The parallel performance of the job depends on the number of
+degrees of freedom in the problem and the preconditioner used. A general rule of
+thumb for optimal scaling is not to go below 20k degrees of freedom per
+processor, otherwise communication becomes a performance drag. Additionally many
+preconditioners do not perform as well when spread over multiple processes as
+they lose access to "new" information. (See
+http://www.mcs.anl.gov/petsc/documentation/faq.html#slowerparallel for more
+discussion of this). This particular input file (`auto_diff_rho.i`) only has
+8,697 degrees of freedom so communication is a factor; however, the executioner
+used is a direct solver which scales well. On the same 2.7 GHz machine, the
+solution times for 1-4 processors are given below.
+
+- Single processor solution time: 90 seconds
+- Two processors: 50 seconds
+- Three: 35 seconds
+- Four: 30 seconds
+
+Before delving into a description of the input file, we note that all the
+parameter options for different input blocks can be seen by executing
+`moltres-opt --dump`.
+
+Ok, running through the input file from the top:
 
 ```
 flow_velocity=21.7 # cm/s. See MSRE-properties.ods
@@ -141,23 +175,25 @@ residual of the corresponding variable; this is usually done when different
 variables have residuals of different orders of magnitude.
 
 ```
-[PrecursorKernel]
-  var_name_base = pre
-  block = 'fuel'
-  outlet_boundaries = 'fuel_tops'
-  u_def = 0
-  v_def = ${flow_velocity}
-  w_def = 0
-  nt_exp_form = false
-  family = MONOMIAL
-  order = CONSTANT
-  # jac_test = true
+[Precursors]
+  [./pres]
+    var_name_base = pre
+    block = 'fuel'
+    outlet_boundaries = 'fuel_tops'
+    u_def = 0
+    v_def = ${flow_velocity}
+    w_def = 0
+    nt_exp_form = false
+    family = MONOMIAL
+    order = CONSTANT
+    # jac_test = true
+  [../]
 []
 ```
 
 Whereas all the other blocks that have been introduced are standard MOOSE
-blocks, `PrecursorKernel` is a custom input file block unique to Moltres. The
-`PrecursorKernel` action creates all the precursor variables, kernels, and
+blocks, `Precursors` is a custom input file block unique to Moltres. The
+`Precursors` action creates all the precursor variables, kernels, and
 boundary conditions necessary for solving the precursor governing
 equations. Parameter descriptions:
 
@@ -200,10 +236,12 @@ equations. Parameter descriptions:
     type = CoupledFissionKernel
     variable = group1
     group_number = 1
+    block = 'fuel'
   [../]
   [./delayed_group1]
     type = DelayedNeutronSource
     variable = group1
+    block = 'fuel'
   [../]
   [./inscatter_group1]
     type = InScatter
@@ -229,6 +267,7 @@ equations. Parameter descriptions:
     type = CoupledFissionKernel
     variable = group2
     group_number = 2
+    block = 'fuel'
   [../]
   [./inscatter_group2]
     type = InScatter
@@ -403,9 +442,10 @@ description of the material along with its relatives is given
 
   solve_type = 'NEWTON'
   petsc_options = '-snes_converged_reason -ksp_converged_reason -snes_linesearch_monitor'
-  petsc_options_iname = '-pc_type -sub_pc_type -pc_asm_overlap -sub_ksp_type -snes_linesearch_minlambda'
-  petsc_options_value = 'asm	  lu	       1	       preonly	     1e-3'
-  # petsc_options_iname = '-snes_type'
+  petsc_options_iname = '-pc_type -pc_factor_shift_type -pc_factor_shift_amount -ksp_type -snes_linesearch_minlambda'
+  petsc_options_value = 'lu       NONZERO               1e-10                   preonly   1e-3'
+  line_search = 'none'
+   # petsc_options_iname = '-snes_type'
   # petsc_options_value = 'test'
 
   nl_max_its = 30
@@ -427,6 +467,7 @@ description of the material along with its relatives is given
   [./SMP]
     type = SMP
     full = true
+	ksp_norm = none
   [../]
 []
 ```
@@ -444,30 +485,30 @@ respectively.
   [./group1_current]
     type = IntegralNewVariablePostprocessor
     variable = group1
-    outputs = 'console csv'
+    outputs = 'console exodus'
   [../]
   [./group1_old]
     type = IntegralOldVariablePostprocessor
     variable = group1
-    outputs = 'console csv'
+    outputs = 'console exodus'
   [../]
   [./multiplication]
     type = DivisionPostprocessor
     value1 = group1_current
     value2 = group1_old
-    outputs = 'console csv'
+    outputs = 'console exodus'
   [../]
   [./temp_fuel]
     type = ElementAverageValue
     variable = temp
     block = 'fuel'
-    outputs = 'csv console'
+    outputs = 'exodus console'
   [../]
   [./temp_moder]
     type = ElementAverageValue
     variable = temp
     block = 'moder'
-    outputs = 'csv console'
+    outputs = 'exodus console'
   [../]
   # [./average_fission_heat]
   #   type = AverageFissionHeat
@@ -497,9 +538,10 @@ moderator as some fraction of the average fission heat produced in the fuel.
 [Outputs]
   print_perf_log = true
   print_linear_residuals = true
-  csv = true
-  [./out]
+  [./exodus]
     type = Exodus
+    file_base = 'auto_diff_rho'
+    execute_on = 'final'
   [../]
 []
 ```
