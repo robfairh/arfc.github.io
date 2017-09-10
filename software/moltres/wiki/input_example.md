@@ -43,6 +43,13 @@ Before delving into a description of the input file, we note that all the
 parameter options for different input blocks can be seen by executing
 `moltres-opt --dump`.
 
+Example output corresponding to the input file under discussion can be found in
+`$moltres_root/tests/twod_axi_coupled/gold/auto_diff_rho.e`. The most common
+application for visualizing output files is
+[ParaView](https://www.paraview.org/), although
+[VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/) or
+[yt](http://yt-project.org/) may also be used.
+
 Ok, running through the input file from the top:
 
 ```
@@ -55,8 +62,17 @@ diri_temp=922
 Variables defined at the top of an input file can be used throughout the
 remainder of the file with
 [GetPot](https://sourceforge.net/p/getpot/bugs/markdown_syntax) syntax. We will
-show later in the input file an example of the GetPot syntax. Following the
-GetPot variables definitions, we have the `GlobalParams` block:
+show later in the input file an example of the GetPot syntax. `flow_velocity`
+may be modified to affect our primary variables, temperature, neutron fluxes,
+and precursor concentrations. Decreasing flow velocity will increase the
+temperature increase through the reactor. Because of the negative feedback
+cofficients of fuel and moderator for this reactor composition (modeled after
+Oak Ridge's MSRE), the increase in average reactor temperature decreases the
+total reactor power and consequently the neutrons fluxes and precursor
+concentrations. Similarly, increasing the inlet temperature, controlled through
+`diri_temp`, decreases reactor power.
+
+Following the GetPot variables definitions, we have the `GlobalParams` block:
 
 ```
 [GlobalParams]
@@ -407,7 +423,17 @@ subdomain. Any given subdomain can have as many materials as desired. An
 important material in Moltres is `GenericMoltresMaterial`. Its parameters:
 
 - `property_tables_root`: The path and prefix of the files that contain the
-  macroscopic group constants that define neutron reaction rates
+  macroscopic group constants that define neutron reaction rates. The suffix of
+  these files identifies the property that each conveys. For example the file
+  containing the fuel fission cross sections is in this example
+  `newt_msre_fuel_FISSXS.txt`. Each of these files contains an interpolation
+  table. The left column (column 1) is temperatures. The remaining columns
+  contain the macroscopic constants for different energy groups corresponding to
+  the tabulated temperatures, e.g. column 2 contains the constants for energy
+  group 1, column 3 contains the constants for energy group 2, etc. The set of
+  tables used in this example were generated with Newt, part of the SCALE code
+  system. Serpent, OpenMC, or any other macroscopic cross section generator may
+  be used to create these simple input tables.
 - `interp_type`: The type of fitting/interpolation to be carried out on the
   temperature grid. Options are:
     - `bicubic_spline`: Done when macroscopic constants are a function of the
@@ -431,6 +457,17 @@ functions of solution variables and for coupling the dependency of the property
 on the variable back into the Jacobian used for Newton-Raphson. A more in-depth
 description of the material along with its relatives is given
 [here](http://mooseframework.org/wiki/PhysicsModules/PhaseField/DevelopingModels/FunctionMaterials/).
+
+The user can exert his/her greatest influence on the calculations through the
+`Materials` block. Increasing values of `rho` or `cp` will increase materials
+ability to store heat, enabling a greater reactor power. Because of application
+of an insulating boundary condition at the outer reactor wall in this example,
+modifying the thermal conductivity `k` has only a small impact on the
+simulation. However, if the conductivity is lowered by several orders of
+magnitude, the user will observe increases in radial gradients between the fuel
+channels and graphite and a decrease in reactor power. Use of different
+macroscopic group constant tables or direct modification of the current set
+would also influence simulation results.
 
 ```
 [Executioner]
