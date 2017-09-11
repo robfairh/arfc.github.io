@@ -68,7 +68,7 @@ and precursor concentrations. Decreasing flow velocity will increase the
 temperature increase through the reactor. Because of the negative feedback
 cofficients of fuel and moderator for this reactor composition (modeled after
 Oak Ridge's MSRE), the increase in average reactor temperature decreases the
-total reactor power and consequently the neutrons fluxes and precursor
+total reactor power and consequently the neutron fluxes and precursor
 concentrations. Similarly, increasing the inlet temperature, controlled through
 `diri_temp`, decreases reactor power.
 
@@ -427,11 +427,11 @@ important material in Moltres is `GenericMoltresMaterial`. Its parameters:
   these files identifies the property that each conveys. For example the file
   containing the fuel fission cross sections is in this example
   `newt_msre_fuel_FISSXS.txt`. Each of these files contains an interpolation
-  table. The left column (column 1) is temperatures. The remaining columns
+  table. The left column (column 1) is temperature. The remaining columns
   contain the macroscopic constants for different energy groups corresponding to
-  the tabulated temperatures, e.g. column 2 contains the constants for energy
+  the tabulated temperature, e.g. column 2 contains the constants for energy
   group 1, column 3 contains the constants for energy group 2, etc. The set of
-  tables used in this example were generated with Newt, part of the SCALE code
+  tables used in this example were generated with NEWT, part of the SCALE code
   system. Serpent, OpenMC, or any other macroscopic cross section generator may
   be used to create these simple input tables.
 - `interp_type`: The type of fitting/interpolation to be carried out on the
@@ -458,14 +458,14 @@ on the variable back into the Jacobian used for Newton-Raphson. A more in-depth
 description of the material along with its relatives is given
 [here](http://mooseframework.org/wiki/PhysicsModules/PhaseField/DevelopingModels/FunctionMaterials/).
 
-The user can exert his/her greatest influence on the calculations through the
+Users can exert their greatest influence on the calculations through the
 `Materials` block. Increasing values of `rho` or `cp` will increase materials
 ability to store heat, enabling a greater reactor power. Because of application
 of an insulating boundary condition at the outer reactor wall in this example,
 modifying the thermal conductivity `k` has only a small impact on the
 simulation. However, if the conductivity is lowered by several orders of
 magnitude, the user will observe increases in radial gradients between the fuel
-channels and graphite and a decrease in reactor power. Use of different
+channels and graphite as well as a decrease in reactor power. Use of different
 macroscopic group constant tables or direct modification of the current set
 would also influence simulation results.
 
