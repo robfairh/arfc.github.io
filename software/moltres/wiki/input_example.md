@@ -9,7 +9,7 @@ The input file example used here is taken from
 the command line, run (substituting the path to the moltres root directory for
 `$moltres_root`):
 
-```bash
+```
 cd $moltres_root/tests/twod_axi_coupled
 $moltres_root/moltres-opt -i auto_diff_rho.i
 ```
@@ -17,7 +17,7 @@ $moltres_root/moltres-opt -i auto_diff_rho.i
 In serial, this job takes around 90 seconds on a 2.7 GHz machine. To run the job in
 parallel, execute:
 
-```bash
+```
 mpirun -np 2 $moltres_root/moltres-opt -i auto_diff_rho.i
 ```
 
