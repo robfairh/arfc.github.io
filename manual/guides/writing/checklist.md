@@ -2,7 +2,7 @@
   layout: manual
   title: Writing Checklist
   subtitle: "Reduce clutter and increase clarity of any document with these rules."
-  permalink: /manual/guides/writing/checklist
+  permalink: /manual/guides/writing/checklist/
 ---
 
 

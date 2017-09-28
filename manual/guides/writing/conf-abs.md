@@ -2,7 +2,7 @@
 layout: manual
 title: Conference Abstract
 subtitle: "The most concrete of abstracts."
-permalink: /manual/guides/conf-abs
+permalink: /manual/guides/conf-abs/
 ---
 
 

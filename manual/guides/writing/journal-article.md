@@ -29,5 +29,7 @@ The review process is quite a thing.
 
 ## After Publication
 
-
+- [ ] Put it in the ARFC Zotero
+- [ ] Put it on the ARFC website
 - [ ] Put it on your CV
+- [ ] Write a blog post on the ARFC website
