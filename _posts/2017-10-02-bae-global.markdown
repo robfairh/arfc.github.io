@@ -15,9 +15,11 @@ Cycle Simulation," was accompanied by a conference paper of the same name. It
 established the state of the art of predictive fuel cycle facility deployment 
 in exising nuclear fuel cycle simulators.
 
-"Thanks to ARFC, I was able to network with professionals and academics
-worldwide in my field. I think the experience and things I learned in the
-coference will help me greatly in my research and my career. 
+Bae said:
+
+> "Thanks to ARFC, I was able to network with professionals and academics
+> worldwide in my field. I think the experience and things I learned in the
+> conference will help me greatly in my research and my career." 
 
 
 ![bae-global-2017.jpg](/img/pres/bae-global-2017.jpg){:class="img-responsive"}
