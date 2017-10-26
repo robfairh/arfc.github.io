@@ -67,19 +67,6 @@
         icon: github-alt
         name: Github
 
-- name: Hengquan Zhang
-  pic: /img/people/zhangh.png
-  dates: 2017-present
-  role: Graduate Researcher
-  description: 'Hengquan Zhang is a PhD student and teaching assistant at UIUC interested in multiphysics simulation of advanced reactors.'
-  social:
-    - url: mailto:hz14@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/hzhang21
-      icon: github-alt
-      name: Github
-
 - name: Sun Myung Park
   pic: /img/people/smpark.jpg
   dates: 2017-present
