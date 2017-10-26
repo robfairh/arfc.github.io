@@ -5,11 +5,52 @@ permalink: /software/moltres/wiki/input_example/
 ---
 
 The input file example used here is taken from
-`moltres/problems/MooseGold/033117_nts_temp_pre_parsed_mat/auto_diff_rho.i`. Before
-delving into the file, we note that all the parameter options for different
-input blocks can be seen by executing `moltres-opt --dump`.
+`moltres/tests/twod_axi_coupled/auto_diff_rho.i`. To run this input file from
+the command line, run (substituting the path to the moltres root directory for
+`$moltres_root`):
 
-Ok, from the top:
+```
+cd $moltres_root/tests/twod_axi_coupled
+$moltres_root/moltres-opt -i auto_diff_rho.i
+```
+
+In serial, this job takes around 90 seconds on a 2.7 GHz machine. To run the job in
+parallel, execute:
+
+```
+mpirun -np 2 $moltres_root/moltres-opt -i auto_diff_rho.i
+```
+
+where the number of processors can be changed from 2 to however many processes
+you want to run. The parallel performance of the job depends on the number of
+degrees of freedom in the problem and the preconditioner used. A general rule of
+thumb for optimal scaling is not to go below 20k degrees of freedom per
+processor, otherwise communication becomes a performance drag. Additionally many
+preconditioners do not perform as well when spread over multiple processes as
+they lose access to "new" information. (See
+http://www.mcs.anl.gov/petsc/documentation/faq.html#slowerparallel for more
+discussion of this). This particular input file (`auto_diff_rho.i`) only has
+8,697 degrees of freedom so communication is a factor; however, the executioner
+used is a direct solver which scales well. On the same 2.7 GHz machine, the
+solution times for 1-4 processors are given below.
+
+- Single processor solution time: 90 seconds
+- Two processors: 50 seconds
+- Three: 35 seconds
+- Four: 30 seconds
+
+Before delving into a description of the input file, we note that all the
+parameter options for different input blocks can be seen by executing
+`moltres-opt --dump`.
+
+Example output corresponding to the input file under discussion can be found in
+`$moltres_root/tests/twod_axi_coupled/gold/auto_diff_rho.e`. The most common
+application for visualizing output files is
+[ParaView](https://www.paraview.org/), although
+[VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/) or
+[yt](http://yt-project.org/) may also be used.
+
+Ok, running through the input file from the top:
 
 ```
 flow_velocity=21.7 # cm/s. See MSRE-properties.ods
@@ -21,8 +62,17 @@ diri_temp=922
 Variables defined at the top of an input file can be used throughout the
 remainder of the file with
 [GetPot](https://sourceforge.net/p/getpot/bugs/markdown_syntax) syntax. We will
-show later in the input file an example of the GetPot syntax. Following the
-GetPot variables definitions, we have the `GlobalParams` block:
+show later in the input file an example of the GetPot syntax. `flow_velocity`
+may be modified to affect our primary variables, temperature, neutron fluxes,
+and precursor concentrations. Decreasing flow velocity will increase the
+temperature increase through the reactor. Because of the negative feedback
+cofficients of fuel and moderator for this reactor composition (modeled after
+Oak Ridge's MSRE), the increase in average reactor temperature decreases the
+total reactor power and consequently the neutron fluxes and precursor
+concentrations. Similarly, increasing the inlet temperature, controlled through
+`diri_temp`, decreases reactor power.
+
+Following the GetPot variables definitions, we have the `GlobalParams` block:
 
 ```
 [GlobalParams]
@@ -141,23 +191,25 @@ residual of the corresponding variable; this is usually done when different
 variables have residuals of different orders of magnitude.
 
 ```
-[PrecursorKernel]
-  var_name_base = pre
-  block = 'fuel'
-  outlet_boundaries = 'fuel_tops'
-  u_def = 0
-  v_def = ${flow_velocity}
-  w_def = 0
-  nt_exp_form = false
-  family = MONOMIAL
-  order = CONSTANT
-  # jac_test = true
+[Precursors]
+  [./pres]
+    var_name_base = pre
+    block = 'fuel'
+    outlet_boundaries = 'fuel_tops'
+    u_def = 0
+    v_def = ${flow_velocity}
+    w_def = 0
+    nt_exp_form = false
+    family = MONOMIAL
+    order = CONSTANT
+    # jac_test = true
+  [../]
 []
 ```
 
 Whereas all the other blocks that have been introduced are standard MOOSE
-blocks, `PrecursorKernel` is a custom input file block unique to Moltres. The
-`PrecursorKernel` action creates all the precursor variables, kernels, and
+blocks, `Precursors` is a custom input file block unique to Moltres. The
+`Precursors` action creates all the precursor variables, kernels, and
 boundary conditions necessary for solving the precursor governing
 equations. Parameter descriptions:
 
@@ -200,10 +252,12 @@ equations. Parameter descriptions:
     type = CoupledFissionKernel
     variable = group1
     group_number = 1
+    block = 'fuel'
   [../]
   [./delayed_group1]
     type = DelayedNeutronSource
     variable = group1
+    block = 'fuel'
   [../]
   [./inscatter_group1]
     type = InScatter
@@ -229,6 +283,7 @@ equations. Parameter descriptions:
     type = CoupledFissionKernel
     variable = group2
     group_number = 2
+    block = 'fuel'
   [../]
   [./inscatter_group2]
     type = InScatter
@@ -368,7 +423,17 @@ subdomain. Any given subdomain can have as many materials as desired. An
 important material in Moltres is `GenericMoltresMaterial`. Its parameters:
 
 - `property_tables_root`: The path and prefix of the files that contain the
-  macroscopic group constants that define neutron reaction rates
+  macroscopic group constants that define neutron reaction rates. The suffix of
+  these files identifies the property that each conveys. For example the file
+  containing the fuel fission cross sections is in this example
+  `newt_msre_fuel_FISSXS.txt`. Each of these files contains an interpolation
+  table. The left column (column 1) is temperature. The remaining columns
+  contain the macroscopic constants for different energy groups corresponding to
+  the tabulated temperature, e.g. column 2 contains the constants for energy
+  group 1, column 3 contains the constants for energy group 2, etc. The set of
+  tables used in this example were generated with NEWT, part of the SCALE code
+  system. Serpent, OpenMC, or any other macroscopic cross section generator may
+  be used to create these simple input tables.
 - `interp_type`: The type of fitting/interpolation to be carried out on the
   temperature grid. Options are:
     - `bicubic_spline`: Done when macroscopic constants are a function of the
@@ -393,6 +458,17 @@ on the variable back into the Jacobian used for Newton-Raphson. A more in-depth
 description of the material along with its relatives is given
 [here](http://mooseframework.org/wiki/PhysicsModules/PhaseField/DevelopingModels/FunctionMaterials/).
 
+Users can exert their greatest influence on the calculations through the
+`Materials` block. Increasing values of `rho` or `cp` will increase materials
+ability to store heat, enabling a greater reactor power. Because of application
+of an insulating boundary condition at the outer reactor wall in this example,
+modifying the thermal conductivity `k` has only a small impact on the
+simulation. However, if the conductivity is lowered by several orders of
+magnitude, the user will observe increases in radial gradients between the fuel
+channels and graphite as well as a decrease in reactor power. Use of different
+macroscopic group constant tables or direct modification of the current set
+would also influence simulation results.
+
 ```
 [Executioner]
   type = Transient
@@ -403,9 +479,10 @@ description of the material along with its relatives is given
 
   solve_type = 'NEWTON'
   petsc_options = '-snes_converged_reason -ksp_converged_reason -snes_linesearch_monitor'
-  petsc_options_iname = '-pc_type -sub_pc_type -pc_asm_overlap -sub_ksp_type -snes_linesearch_minlambda'
-  petsc_options_value = 'asm	  lu	       1	       preonly	     1e-3'
-  # petsc_options_iname = '-snes_type'
+  petsc_options_iname = '-pc_type -pc_factor_shift_type -pc_factor_shift_amount -ksp_type -snes_linesearch_minlambda'
+  petsc_options_value = 'lu       NONZERO               1e-10                   preonly   1e-3'
+  line_search = 'none'
+   # petsc_options_iname = '-snes_type'
   # petsc_options_value = 'test'
 
   nl_max_its = 30
@@ -427,6 +504,7 @@ description of the material along with its relatives is given
   [./SMP]
     type = SMP
     full = true
+	ksp_norm = none
   [../]
 []
 ```
@@ -444,30 +522,30 @@ respectively.
   [./group1_current]
     type = IntegralNewVariablePostprocessor
     variable = group1
-    outputs = 'console csv'
+    outputs = 'console exodus'
   [../]
   [./group1_old]
     type = IntegralOldVariablePostprocessor
     variable = group1
-    outputs = 'console csv'
+    outputs = 'console exodus'
   [../]
   [./multiplication]
     type = DivisionPostprocessor
     value1 = group1_current
     value2 = group1_old
-    outputs = 'console csv'
+    outputs = 'console exodus'
   [../]
   [./temp_fuel]
     type = ElementAverageValue
     variable = temp
     block = 'fuel'
-    outputs = 'csv console'
+    outputs = 'exodus console'
   [../]
   [./temp_moder]
     type = ElementAverageValue
     variable = temp
     block = 'moder'
-    outputs = 'csv console'
+    outputs = 'exodus console'
   [../]
   # [./average_fission_heat]
   #   type = AverageFissionHeat
@@ -497,9 +575,10 @@ moderator as some fraction of the average fission heat produced in the fuel.
 [Outputs]
   print_perf_log = true
   print_linear_residuals = true
-  csv = true
-  [./out]
+  [./exodus]
     type = Exodus
+    file_base = 'auto_diff_rho'
+    execute_on = 'final'
   [../]
 []
 ```
