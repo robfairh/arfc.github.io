@@ -14,7 +14,7 @@
 - title: "Why Nuclear"
   presenter: Kathryn Huff
   event: "Olin College Lunch Seminar"
-  type: AMA
+  type: Invited AMA
   place: Needham, MA
   month: October
   day: 31
@@ -36,6 +36,32 @@
   pic: '/img/pres/2017-10-31-moltres.png'
   slides: '/pres/2017-10-31-moltres.pdf'
   description: "This poster was presented by Gavin Ridley, who spent summer 2017 at UIUC with the ARFC group. It gives an introduction to the Moltres application, a MOOSE-based code for multiphysics simulation of molten salt reactors which was developed primarily by ARFC postdoctoral scholar, Alexander Lindsay."
+
+- title: "Spent Nuclear Fuel Options"
+  presenter: Kathryn Huff
+  event: "Nuclear Nonproliferation Seminar Reactor Course"
+  type: Invited Seminar
+  place: Urbana, IL
+  month: September
+  day: 21
+  year: 2017
+  time: 10:00am
+  pic: 
+  slides: https://github.com/katyhuff/2017-09-21-anl
+  description: "This presentation covers some key topics regarding nuclear spent fuel options, particularly in the context of nonproliferation."
+
+- title: "Techniques and Tools for Software Engineering"
+  presenter: Kathryn Huff
+  event: "Blue Waters Graduate Fellows Symposium"
+  type: Technical Presentation
+  place: Urbana, IL
+  month: September
+  day: 20
+  year: 2017
+  time: 8:30am
+  pic: https://bluewaters.ncsa.illinois.edu/bwup-vertical-theme/images/primary_blue/blue_waters_logo.png
+  slides: https://katyhuff.github.io/2017-09-20-ncsa
+  description: "This presentation was presented by Kathryn Huff, but was the collective work of Kathryn Huff, Anthony Scopatz, Jin Whan Bae, and Robert Flanagan. It seeks to stimulate discussion about algorithms for driving deployment based on demand (not just of power, but of fuel materials, reprocessing capacity, etc) in each of the existing simulators. This discussion is tightly in line with the Demand Driven Cycamore Archetypes NEUP proposal."
 
 - title: "Driving Deployment with Demand"
   presenter: Kathryn Huff
