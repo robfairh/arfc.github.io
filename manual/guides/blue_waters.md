@@ -7,6 +7,10 @@ permalink: /manual/guides/bluewaters
 
 [Read this page first](https://bluewaters.ncsa.illinois.edu/getting-started)
 
+## Step 0. Get a license for Serpent
+Register for Serpent through RSICC and deposit your license documentation in 
+the Google Drive software licenses directory.
+
 ## Step 1. Communication
 Have Prof Huff get you approved for Blue Waters!
 

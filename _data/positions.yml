@@ -39,20 +39,25 @@
       desired: "C++, python, git, statistics, machine learning"
       pic: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Nuclear_Fuel_Cycle.svg/820px-Nuclear_Fuel_Cycle.svg.png"
       start: "August 16, 2016"
- 
 - role: ugrad
   title: Undergraduate Research Assistants
   pic: /img/positions/ugrad.png
   url: '/positions/ugrad'
   description: 'Within ARFC, many projects appropriate for undergraduates require a significant dedication to learning software skills and best practices. Accordingly, we look for undergraduates who are available for at least 10 hours a week. We additionally invite undergraduates to join in our group meetings. In return for this higher level of participation, we will dedicate the time necessary to train you in high-utility computational skills.'
   available:
+    - title: "Undergraduate Hourly: Nuclear Fuel Cycle Modeling"
+      description: 'The candidate will implement medium fidelity models of multicomponent enrichment, aqueous separations, pyroprocessing, and penetrable storage facilities. These implementations will be compatible with nonproliferation analysis in the Cyclus fuel cycle simulator. The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy and nuclear nonproliferaion will be required. Apply by sending an up-to-date resume by email to Prof. Huff.'
+      required: "C++, python, linux, Bash"
+      desired: "git, Doxygen, Sphinx, pytest"
+      pic: /img/research/cyclus.gif
+      start: "2017-2018"
+  closed:
     - title: "SPIN Intern: Machine Learning for Acceleration of Monte Carlo Transport"
       description: 'The candidate will implement a proof-of-concept python package demonstrating acceleration of monte carlo methods (in particular, monte carlo for neutral particle transport) using machine learning techniques. First, a simple, threaded, monte carlo python package will be implemented and tested. Next, the student will implement a few potential acceleration methods inspired by machine learning and optimization techniques in the literature. Finally, these acceleration methods will be tested and compared to one another for simple problems. This work will emphasize implementation of best practices in scientific computing, including integrating documentation, implementing unit tests, investigating scalability, and developing demonstration jupyter notebooks. A strong interest in scientific computing combined with interest in data science and statistics will be required. Apply at spin.ncsa.illinois.edu .'
       required: "C++, python, linux, Bash"
       desired: "git, Doxygen, Sphinx, pytest"
       pic: /img/research/zen.png
       start: "August 28, 2017- May 2, 2018"
-  closed:
     - title: "Undergraduate Research Assistant in Scientific Computing"
       description: 'The candidate will improve research software maintained by the group through implementation of best practices in scientific computing. This essential role involves reviewing installation instructions, improving software documentation, testing tutorial materials, implementing unit tests, investigating scalability, and developing template input files. A strong interest in scientific computing combined with interest in nuclear engineering will be required.'
       required: "C++, python, linux, Bash"
