@@ -11,6 +11,19 @@
   slides: '/pres/2017-10-31-synergistic.pdf'
   description: "This presentation was presented by Jin Whan Bae, on a collaborative approach to reprocess used nuclear fuel from other EU nations for France to transition into a closed fuel cycle without the additional construction of LWRs."
 
+- title: "Why Nuclear"
+  presenter: Kathryn Huff
+  event: "Olin College Lunch Seminar"
+  type: AMA
+  place: Needham, MA
+  month: October
+  day: 31
+  year: 2017
+  time: 12:30 pm
+  pic: '/img/pres/2017-10-31-olin.png'
+  slides: http://katyhuff.github.io/2017-10-31-olin
+  description: "Nuclear fission is a safe, reliable, efficient, emissions-free source of plentiful energy. It must accordingly play an essential role in a carbon-reduced sustainable future for our planet. However, it is also somewhat curious, contentious, and complex. This discussion will begin with a brief explanation of the basic physics behind nuclear fission power systems, a synopsis of current and advanced reactor types, and some compelling facts. The remaining majority of the hour will be devoted to an open, ask-me-anything discussion which will thrive on your curiosity, concerns, confusions, and creativity. FAQ include: What about the waste? Can we recycle it? What about meltdowns? Can a reactor become a bomb? Where does plutonium come from? Is radiation natural?  Is thorium magic? When will fusion happen?"
+
 - title: "Driving Deployment with Demand"
   presenter: Kathryn Huff
   event: "Technical Workshop on Fuel Cycle Simulation"
