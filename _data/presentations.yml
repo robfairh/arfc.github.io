@@ -10,6 +10,19 @@
   pic: '/img/pres/2017-10-31-synergistic.png'
   slides: '/pres/2017-10-31-synergistic.pdf'
   description: "This presentation was presented by Jin Whan Bae, on a collaborative approach to reprocess used nuclear fuel from other EU nations for France to transition into a closed fuel cycle without the additional construction of LWRs."
+  
+- title: "Full-Core Analysis of Thorium-Fueled Molten Salt Breeder Reactor Using the SERPENT 2 Monte Carlo Code"
+  presenter: Andrei Rykhlevskii
+  event: "American Nuclear Society Winter Meeting 2017"
+  type: Technical Presentation
+  place: Washington, DC
+  month: October
+  day: 31
+  year: 2017
+  time: 1:55 pm
+  pic: '/img/pres/2017-10-31-full-core.png'
+  slides: '/pres/2017-10-31-full-core.pdff'
+  description: "This talk introduces recently developed full-core 3-D high-fidelity model of Molten Salt Breeder Reactor (MSBR) for SERPENT 2 Monte Carlo code.  Effective multiplication factor, neutron energy spectrum and temperature coefficients were determined in steady state criticality simulation and then compared against J. Park (MCNP6) model and Oak Ridge National Laboratory technical report."
 
 - title: "Why Nuclear?"
   presenter: Kathryn Huff
@@ -23,6 +36,19 @@
   pic: '/img/pres/2017-10-31-olin.png'
   slides: http://katyhuff.github.io/2017-10-31-olin
   description: "Nuclear fission is a safe, reliable, efficient, emissions-free source of plentiful energy. It must accordingly play an essential role in a carbon-reduced sustainable future for our planet. However, it is also somewhat curious, contentious, and complex. This discussion will begin with a brief explanation of the basic physics behind nuclear fission power systems, a synopsis of current and advanced reactor types, and some compelling facts. The remaining majority of the hour will be devoted to an open, ask-me-anything discussion which will thrive on your curiosity, concerns, confusions, and creativity. FAQ include: What about the waste? Can we recycle it? What about meltdowns? Can a reactor become a bomb? Where does plutonium come from? Is radiation natural?  Is thorium magic? When will fusion happen?"
+
+- title: "Online Reprocessing Simulation for Thorium-Fueled Molten Salt Breeder Reactor"
+  presenter: Andrei Rykhlevskii
+  event: "American Nuclear Society Winter Meeting 2017"
+  type: Technical Presentation
+  place: Washington, DC
+  month: October
+  day: 30
+  year: 2017
+  time: 2:55 pm
+  pic: '/img/pres/2017-10-30-online.png'
+  slides: '/pres/2017-10-30-online.pdf'
+  description: "This work describes online reprocessing modeling approach of Molten Salt Breeder Reactor (MSBR). MSBR unit cell online reprocessing simulation was performed using the SERPENT 2 Monte Carlo code to find equilibrium fuel composition. The neutron energy spectrum for initial and equilibrium composition was calculated. The approach will be using for full-core 3-D model of the reactor and fuel cycle parameters optimization."
 
 - title: "An Intro to Moltres, an MSR Multiphysics Code"
   presenter: Gavin Ridley
@@ -46,8 +72,8 @@
   day: 27
   year: 2017
   time: 4:00pm
-  pic: 'img/pres/2017-09-27-eng-471.png'
-  slides: 'pres/2017-09-27.eng471'
+  pic: '/img/pres/2017-09-27-eng471.png'
+  slides: 'pres/2017-09-27-eng471'
   description: "This presentation covers some key topics regarding nuclear power, particularly in the context of economics and policy."
 
 
@@ -60,7 +86,7 @@
   day: 21
   year: 2017
   time: 10:00am
-  pic: 
+  pic: '/img/pres/2017-09-21-anl.png' 
   slides: https://github.com/katyhuff/2017-09-21-anl
   description: "This presentation covers some key topics regarding nuclear spent fuel options, particularly in the context of nonproliferation."
 
