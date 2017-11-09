@@ -21,7 +21,7 @@
   year: 2017
   time: 1:55 pm
   pic: '/img/pres/2017-10-31-full-core.png'
-  slides: '/pres/2017-10-31-full-core.pdff'
+  slides: '/pres/2017-10-31-full-core.pdf'
   description: "This talk introduces recently developed full-core 3-D high-fidelity model of Molten Salt Breeder Reactor (MSBR) for SERPENT 2 Monte Carlo code.  Effective multiplication factor, neutron energy spectrum and temperature coefficients were determined in steady state criticality simulation and then compared against J. Park (MCNP6) model and Oak Ridge National Laboratory technical report."
 
 - title: "Why Nuclear?"
