@@ -1,3 +1,16 @@
+- title: "Advanced Reactors and Fuel Cycles Group"
+  presenter: Kathryn Huff
+  event: "NPRE 100: Introduction to NPRE"
+  type: Guest Lecture
+  place: Urbana, IL
+  month: November
+  day: 16
+  year: 2017
+  time: 3:30 pm
+  pic: '/img/pres/arfc-logo.png'
+  slides: 'https://katyhuff.github.io/2017-11-16-npre100'
+  description: "This presentation gives an overview of the research group appropriate for undergraduates in NPRE"
+  
 - title: "Synergistic Spent Nuclear Fuel Dynamics Within the European Union"
   presenter: Jin Whan Bae
   event: "American Nuclear Society Winter Meeting 2017"
