@@ -5,9 +5,42 @@
     <description>Website for the Advanced Reactors and Fuel Cycles group</description>
     <link>http://arfc.github.io/</link>
     <atom:link href="http://arfc.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 21 Sep 2017 09:05:07 -0500</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2017 09:05:07 -0500</lastBuildDate>
+    <pubDate>Sun, 26 Nov 2017 15:06:13 -0600</pubDate>
+    <lastBuildDate>Sun, 26 Nov 2017 15:06:13 -0600</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Bae Presents Poster at GLOBAL 2017</title>
+        <description>&lt;p&gt;ARFC graduate student, &lt;strong&gt;Jin Whan Bae&lt;/strong&gt;, Teddy for short, travelled to Seoul, 
+South Korea in September to present a poster at the &lt;a href=&quot;http://www.global2017.org/&quot;&gt;GLOBAL 2017 Nuclear Fuel 
+cycle Conference.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;His poster, titled “Current Status of Predictive Transition Capability in Fuel 
+Cycle Simulation,” was accompanied by a conference paper of the same name. It 
+established the state of the art of predictive fuel cycle facility deployment 
+in exising nuclear fuel cycle simulators.&lt;/p&gt;
+
+&lt;p&gt;Bae said:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Thanks to ARFC, I was able to network with professionals and academics
+worldwide in my field. I think the experience and things I learned in the
+conference will help me greatly in my research and my career.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/pres/bae-global-2017.jpg&quot; alt=&quot;bae-global-2017.jpg&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 02 Oct 2017 15:00:00 -0500</pubDate>
+        <link>http://arfc.github.io/jekyll/update/2017/10/02/bae-global/</link>
+        <guid isPermaLink="true">http://arfc.github.io/jekyll/update/2017/10/02/bae-global/</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Andrei Rykhlevskii Recognized with ANS Scholarship</title>
