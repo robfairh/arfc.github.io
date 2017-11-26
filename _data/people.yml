@@ -106,6 +106,19 @@
       icon: github-alt
       name: Github
 
+- name: Greg Westphal
+  pic: /img/people/westphalg.png
+  dates: 2017-present
+  role: Graduate Researcher
+  description: 'Greg is a Master's Student and Teaching Assistant interested in simulating fuel cycles.'
+  social:
+    - url: mailto:gtw2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/gtw2
+      icon: github-alt
+      name: Github
+
 - name: Gyu Tae Park
   pic: /img/people/parkg.jpg
   dates: 2016-present
