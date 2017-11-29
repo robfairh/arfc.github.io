@@ -132,6 +132,19 @@
       icon: github-alt
       name: Github
 
+- name: Daniel Chiu
+  pic: /img/people/chiud.jpg
+  dates: 2017-present
+  role: Undergraduate Research Assistant
+  description: 'Daniel Chiu is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
+  social:
+    - url: mailto:dschiu2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/chiudaniels
+      icon: github-alt
+      name: Github
+
 - name: You
   pic: /img/people/you.png
   dates: now
