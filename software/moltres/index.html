@@ -288,13 +288,13 @@ instructions at http://mooseframework.org/getting-started/. After installing
 MOOSE, you can install Moltres by running the following commands in a shell
 after changing into the directory holding your MOOSE directory (perhaps <code class="highlighter-rouge">~/projects</code>):</p>
 
-<p><code class="highlighter-rouge">bash
-git clone https://github.com/arfc/moltres
-cd moltres
+<div class="language-bash highlighter-rouge"><pre class="highlight"><code>git clone https://github.com/arfc/moltres
+<span class="nb">cd </span>moltres
 git submodule init
 git submodule update
 make -j8
-</code></p>
+</code></pre>
+</div>
 
 <p>You may also compile a debug version of Moltres by running <code class="highlighter-rouge">METHOD=dbg make
 -j8</code>. Note that you should replace <code class="highlighter-rouge">8</code> with the number of processors available

@@ -296,40 +296,40 @@ and follow its directions, and activate your token.</p>
 <p>** tip) the pin must be 8 digits, letters and numbers, something that you’ll never forget!</p>
 
 <h2 id="step-5-loggin-in">Step 5. Loggin In</h2>
-<p>Open terminal, type
-<code class="highlighter-rouge">
-$ssh [username]@h2ologin.ncsa.illinois.edu
-</code></p>
+<p>Open terminal, type</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>$ssh [username]@h2ologin.ncsa.illinois.edu
+</code></pre>
+</div>
 
 <p>type in PIN+Token#</p>
 
 <h4 id="tip-you-can-shortname-your-ssh-command">tip) you can shortname your ssh command:</h4>
 <p>Open the terminal</p>
 
-<p><code class="highlighter-rouge">
-$cd
+<div class="highlighter-rouge"><pre class="highlight"><code>$cd
 $cd .ssh
 $vim config
-</code></p>
+</code></pre>
+</div>
 
 <p>write:</p>
 
-<p><code class="highlighter-rouge">
-        Host [desired_name]
+<div class="highlighter-rouge"><pre class="highlight"><code>        Host [desired_name]
         HostName h2ologin.ncsa.illinois.edu
         User [Blue_Waters_User_Name] 
-</code></p>
+</code></pre>
+</div>
 
-<p>Then you’d just have to type in
-<code class="highlighter-rouge">
-$ssh [desired_name]
-</code></p>
+<p>Then you’d just have to type in</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>$ssh [desired_name]
+</code></pre>
+</div>
 
 <p>For example, you might have named Blue Waters “bw”.
-In that case, you simply type
-<code class="highlighter-rouge">
-$ssh bw
-</code></p>
+In that case, you simply type</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>$ssh bw
+</code></pre>
+</div>
 
 <h2 id="step-6-congratz">Step 6. Congratz!</h2>
 <p>You’re in! :)</p>
@@ -373,19 +373,19 @@ $ssh bw
 
 <h4 id="tip-bashrc">tip) ~/.bashrc</h4>
 <p>If you don’t want to load your modules every time, edit ~/.bashrc 
-and have all your ‘module load/swap’ commands.
-<code class="highlighter-rouge">
-$vim ~/.bashrc
-</code>
-after editing the bashrc, you must source it:
-<code class="highlighter-rouge">
-$source ~/.bashrc
-</code></p>
+and have all your ‘module load/swap’ commands.</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>$vim ~/.bashrc
+</code></pre>
+</div>
+<p>after editing the bashrc, you must source it:</p>
+<div class="highlighter-rouge"><pre class="highlight"><code>$source ~/.bashrc
+</code></pre>
+</div>
 
 <h2 id="the-group-directory">The Group Directory</h2>
-<p><code class="highlighter-rouge">
-/projects/sciteam/bahg
-</code></p>
+<div class="highlighter-rouge"><pre class="highlight"><code>/projects/sciteam/bahg
+</code></pre>
+</div>
 
 <h2 id="how-to-download-source-code">How to Download Source Code</h2>
 <p>Because Blue Waters is an HPC machine, it does
@@ -402,16 +402,16 @@ home directory(~) or in the group directory (bahg)</p>
   <li>
     <p>Github</p>
 
-    <p><code class="highlighter-rouge">
-git clone [clone_link]
-</code></p>
+    <div class="highlighter-rouge"><pre class="highlight"><code>git clone [clone_link]
+</code></pre>
+    </div>
   </li>
   <li>
     <p>wget</p>
 
-    <p><code class="highlighter-rouge">
-wget [link to source code tar.xz or zip file]
-</code></p>
+    <div class="highlighter-rouge"><pre class="highlight"><code>wget [link to source code tar.xz or zip file]
+</code></pre>
+    </div>
 
     <p>Expand the archive with the tar or the unzip command.</p>
   </li>
