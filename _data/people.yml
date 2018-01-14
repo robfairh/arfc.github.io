@@ -1,5 +1,5 @@
 - name: Katy Huff
-  pic: /img/people/huffk.png
+  pic: /img/people/huffk.jpg
   dates: 2016-present
   status: PI
   role: Assistant Professor
@@ -17,24 +17,6 @@
       icon: graduation-cap
       name: Google Scholar
     - url: https://twitter.com/katyhuff
-      icon: twitter
-      name: Twitter
-
-- name: Alex Lindsay
-  pic: /img/people/lindsaya.jpg
-  dates: 2016-present
-  role: Postdoctoral Researcher
-  src: http://alexlindsay.info
-  url: http://alexlindsay.info
-  description: 'Alex is a postdoctoral researcher dedicated to a reasonable marriage between openness and nuclear energy research.'
-  social:
-    - url: mailto:lindsayad@diyplasma.org
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/lindsayad
-      icon: github-alt
-      name: Github
-    - url: https://twitter.com/AlexTFXC
       icon: twitter
       name: Twitter
 
@@ -72,32 +54,76 @@
       icon: github-alt
       name: Github
 
-- name: Katie Mummah
-  pic: /img/people/mummahk.png
-  dates: 2016-present
-  role: Undergraduate Research Assistant
-  src: nuclearkatie.com
-  url: nuclearkatie.com
-  description: 'Katie is an undergraduate student interested in modeling the nuclear fuel cycle'
+- name: Mark Kamuda
+  pic: /img/people/kamudam.png
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Mark Kamuda is a PhD student working on machine learning applications to automate isotope identification.'
   social:
-    - url: mailto:mummah2@illinois.edu
+      - url: mailto:kamuda1@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/kamuda1
+        icon: github-alt
+        name: Github
+
+- name: Sun Myung Park
+  pic: /img/people/smpark.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Sun Myung Park is a new PhD student embarking on his nuclear engineering journey.'
+  social:
+      - url: mailto:smpark3@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/smpark7
+        icon: github-alt
+        name: Github
+                
+- name: Gwendolyn Chee
+  pic: /img/people/Gwenpic.jpg
+  dates: 2017-present
+  role: Graduate Research Assistant
+  description: 'Gwendolyn Chee is a Masters Student interested in fuel cycle simulations.'
+  social:
+    - url: mailto:gchee2@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/nuclearkatie
+    - url: http://github.com/gwenchee
       icon: github-alt
       name: Github
-    - url: https://www.linkedin.com/in/nuclearkatie
-      icon: linkedin
-      name: Linkedin
-    - url: https://twitter.com/nuclearkatie
-      icon: twitter
-      name: Twitter
+
+- name: Anshuman Chaube
+  pic: /img/people/chaubea.jpg
+  dates: 2017-present
+  role: Graduate Researcher
+  description: 'Ansh is a graduate student and NPRE Teaching Assistant interested in mutiphysics simulations of advanced fission reactors.'
+  social:
+    - url: mailto:achaube2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/achubbz
+      icon: github-alt
+      name: Github
+
+- name: Greg Westphal
+  pic: /img/people/westphalg.png
+  dates: 2017-present
+  role: Graduate Researcher
+  description: 'Greg is a Masters Student and Teaching Assistant interested in simulating fuel cycles.'
+  social:
+    - url: mailto:gtw2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/gtw2
+      icon: github-alt
+      name: Github
 
 - name: Gyu Tae Park
   pic: /img/people/parkg.jpg
   dates: 2016-present
   role: Undergraduate Research Assistant
-  description: 'Gyu Tae Park is an Undergarduate Student in UIUC, interested in fuel cycle simulations.'
+  description: 'Gyu Tae Park is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
   social:
     - url: mailto:gpark29@illinois.edu
       icon: envelope-o
@@ -106,37 +132,18 @@
       icon: github-alt
       name: Github
 
-- name: Eric Riewski
-  pic: /img/people/riewskie.jpg
-  dates: 2016-present
-  role: Undergraduate Research Assistant
-  description: 'Eric Riewski is an undergraduate student studying nuclear engineering at the University of Illinois Urbana-Champaign.'
-  social:
-    - url: mailto:riewski2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/eriewski
-      icon: github-alt
-      name: Github
-    - url: https://www.linkedin.com/in/eric-riewski-857a1aaa
-      icon: linkedin
-      name: Linkedin
-
-- name: Yukun Tan
-  pic: /img/people/tany.jpg
+- name: Daniel Chiu
+  pic: /img/people/chiud.jpg
   dates: 2017-present
-  role: NCSA SPIN intern
-  description: 'Yukun Tan is an undergraduate student interested in data scraping on nuclear reactors.'
+  role: Undergraduate Research Assistant
+  description: 'Daniel Chiu is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
   social:
-    - url: ytan15@illinois.edu
+    - url: mailto:dschiu2@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/ytan15
+    - url: https://github.com/chiudaniels
       icon: github-alt
       name: Github
-    - url: https://www.linkedin.com/in/yukun-tifa-tan-b21146a2/
-      icon: linkedin
-      name: Linkedin
 
 - name: Louis Kissinger
   pic: /img/people/kissingerl.png

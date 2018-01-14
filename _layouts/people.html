@@ -3,7 +3,14 @@ layout: page
 ---
 <div class="container">
         <div class="row">
+                {% assign counter = 0 %}
                 {% for person in site.data.people %}
+                        {% assign counter = counter | plus: 1 %}
+                        {% if counter == 5 %}
+                                </div>
+                                <div class="row">
+                                {% assign counter = 1 %}
+                        {% endif %}
                 <div class="col-md-3 col-sm-3 portfolio-item">
                         <a href="{{ person.url }}" class="portfolio-link" data-toggle="modal">
                                 <div class="portfolio-hover">
@@ -15,8 +22,8 @@ layout: page
                         </a>
                         <div class="portfolio-caption">
                                 <p class="text-muted">{{ role.description }}</p>
-                                <h1>{{ person.name }}</h1>
-                                <h3 class="job-title">{{ person.role }}</h3>
+                                <h3>{{ person.name }}</h3>
+                                <h6 class="job-title">{{ person.role }}</h6>
                                 <p class="email">{{ person.email }}</p>
                                 <ul class="list-inline social-buttons">
                                         {% for network in person.social %}

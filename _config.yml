@@ -18,6 +18,10 @@ color:
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
 permalink: pretty
 
 # Jekyll Scholar
@@ -38,7 +42,7 @@ scholar:
   replace_strings: true
   join_strings:    true
 
-  use_raw_bibtex_entry: false
+  use_raw_bibtex_entry: true
 
   details_dir:    bibliography
   details_layout: bibtex.html
