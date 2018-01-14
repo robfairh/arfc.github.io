@@ -141,7 +141,7 @@
 - name: Louis Kissinger
   pic: /img/people/kissingerl.png
   dates: 2017-present
-  role:Undergraduate Research Assistant
+  role: Undergraduate Research Assistant
   description: 'Louis Kissinger is an undergraduate student interested in fuel cycles and repository simulation.'
   social:
     - url: mailto:lkissin2@illinois.edu
