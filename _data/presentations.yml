@@ -1,4 +1,69 @@
 
+- title: "Modeling and Simulation at Disparate Scales: Molten Salt Reactor Multiphysics and International Fuel Cycle Transitions"
+  presenter: Kathryn Huff
+  event: "NERS Colloquium"
+  type: Invited Seminar
+  place: Ann Arbor, MI
+  month: February
+  day: 16
+  year: 2018
+  time: 4:00 pm
+  pic: '/img/pres/2018-02-16-ners.jpg'
+  slides: '/pres/2018-02-16-ners.pdf'
+  description: "The world's energy future depends on improved safety and sustainability of nuclear reactor designs and fuel cycle strategies. Insights can be drawn from numerical experiments that model and simulate these systems. Both reactor and nuclear fuel cycle dynamics are sufficiently complex that sophisticated scientific software methods and high-performance computing resources are essential to understanding them. Furthermore, improved reproducibility and verification in these numerical experiments can be achieved through judicious use of scientific computing best practices.  Using examples drawn from spent nuclear fuel management and advanced reactor design,  this talk will describe the role and benefits of modeling and simulation combining insights from multiple scales in nuclear engineering challenges. The talk will introduce Moltres, a new physics application for multiphysics modeling of liquid-fueled molten salt reactors. The neutronics model, thermal hydraulics model, and their coupling in the MOOSE framework will be described. Results for many-channel configurations in 2D-axisymmetric and 3D coordinates will be presented and compared against other coupled models as well as the Molten Salt Reactor Experiment. This talk will also touch on isotope identification with neural networks and recent transition analyses using Cyclus, an agent-based nuclear fuel cycle simulation framework."
+
+- title: "Doing Our Best: Practices in Open, Reproducible Scientific Computing"
+  presenter: Kathryn Huff
+  event: "PyData Ann Arbor"
+  type: Invited Tech. Talk
+  place: Ann Arbor, MI
+  month: February
+  day: 15
+  year: 2018
+  time: 6pm
+  pic: '/img/pres/2018-02-15-pydata.jpg'
+  slides: '/pres/2018-02-15-pydata.pdf'
+  description: "This talk will touch on best practices approaches to building software and simulations for scientific computation. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions. This talk will also touch on pain points and lessons learned from a series of case studies of real scientists doing their best, recently published in 'The Practice of Reproducible Research' (Kitzes, Deniz, Turek editors)."
+
+- title: "Signatures and Observables Thrust Area Summary"
+  presenter: Kathryn Huff
+  event: "Consortium for Nonproliferation Enabling Capabilities Annual Workshop"
+  type: Podium Presentation
+  place: Raleigh, NC
+  month: February
+  day: 8
+  year: 2018
+  time: 8:50 am
+  pic: '/img/pres/2018-02-08-cnec-so.jpg'
+  slides: '/pres/2018-03-08-cnec-so.pdf'
+  description: "This presentation gives an overview of the research taking place in the Signatures and Observables thrust area within the Consortium for Nonproliferation Enabling Capabilities."
+
+- title: "Signatures and Observables in the Nuclear Fuel Cycle"
+  presenter: Gregory Westphal
+  event: "Consortium for Nonproliferation Enabling Capabilities Annual Workshop"
+  type: Poster Presentation
+  place: Raleigh, NC
+  month: February
+  day: 8
+  year: 2018
+  time: 12:30 pm
+  pic: '/img/pres/2018-02-08-cnec.jpg'
+  slides: '/pres/2018-03-08-cnec.pdf'
+  description: "This presentation gives an overview of the research planned for collaboration with the Consortium for Nonproliferation Enabling Capabilities."
+
+- title: "Dynamic Transition Analysis with TIMES"
+  presenter: Kathryn Huff
+  event: "i2cner Annual Symposium"
+  type: Poster Presentation
+  place: Fukuoka, Japan
+  month: January
+  day: 31
+  year: 2018
+  time: 12:30 pm
+  pic: '/img/pres/2018-01-31-i2cner.png'
+  slides: '/pres/2018-01-31-i2cner.pdf'
+  description: "This presentation gives an overview of the research planned for collaboration with the Energy Analysis Division of the International Institute for Carbon-Neutral Energy Research."
+
 - title: "Machine Learning for Acceleration of Monte Carlo Transport"
   presenter: Xin Wen
   event: "SPIN Lightning Talks"
