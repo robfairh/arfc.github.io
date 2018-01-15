@@ -1,4 +1,17 @@
 
+- title: "TBD"
+  presenter: Kathryn Huff
+  event: "Hack Illinois"
+  type: Keynote
+  place: Urbana, IL
+  month: February
+  day: 23-25
+  year: 2018
+  time: TBD
+  pic: '/img/pres/2018-02-23-hackillinois.png'
+  slides: '/pres/2018-02-23-hackillinois.pdf'
+  description: "TBD"
+
 - title: "Modeling and Simulation at Disparate Scales: Molten Salt Reactor Multiphysics and International Fuel Cycle Transitions"
   presenter: Kathryn Huff
   event: "NERS Colloquium"
