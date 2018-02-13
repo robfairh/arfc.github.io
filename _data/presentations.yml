@@ -48,7 +48,7 @@
   year: 2018
   time: 8:50 am
   pic: '/img/pres/2018-02-08-cnec-so.jpg'
-  slides: '/pres/2018-03-08-cnec-so.pdf'
+  slides: '/pres/2018-02-08-cnec-so.pdf'
   description: "This presentation gives an overview of the research taking place in the Signatures and Observables thrust area within the Consortium for Nonproliferation Enabling Capabilities."
 
 - title: "Signatures and Observables in the Nuclear Fuel Cycle"
@@ -61,7 +61,7 @@
   year: 2018
   time: 12:30 pm
   pic: '/img/pres/2018-02-08-cnec.jpg'
-  slides: '/pres/2018-03-08-cnec.pdf'
+  slides: '/pres/2018-02-08-cnec.pdf'
   description: "This presentation gives an overview of the research planned for collaboration with the Consortium for Nonproliferation Enabling Capabilities."
 
 - title: "Dynamic Transition Analysis with TIMES"
