@@ -13,19 +13,19 @@ document types which ARFC students might produce as part of their work. Each
 description links to more details and resources specific to that particular
 genre of writing.
 
-- **[Conference Abstract](./writing/conf-abs):** <500 words, accompanies a conference presentation.
-- **[Conference Paper](./writing/conf-paper):** >500 words, accompanies a conference presentation.
-- **[Poster](./writing/poster):** a single pdf page accompanying a poster session.
-- **[Presentation](./writing/presentation):** slides or other digital media which accompany a talk.
-- **[Report](./writing/report):** details a process, literature review, or result.
-- **[White Paper](./writing/white-paper):** conveys the perspective of a group of people, such as a 
+- **[Conference Abstract](./conf-abs):** <500 words, accompanies a conference presentation.
+- **[Conference Paper](./conf-paper):** >500 words, accompanies a conference presentation.
+- **[Poster](./poster):** a single pdf page accompanying a poster session.
+- **[Presentation](./presentation):** slides or other digital media which accompany a talk.
+- **[Report](./report):** details a process, literature review, or result.
+- **[White Paper](./white-paper):** conveys the perspective of a group of people, such as a 
   workshop. 
-- **[Pre-print](./writing/pre-print):** this is a copy of a journal article awaiting publication.
-- **[Journal Article](./writing/journal-article):** between 5 and 50 pages, submitted to an archival journal.
-- **[Masters Thesis](./writing/ms-thesis):** describes a cohesive research effort.
-- **[Preliminary Exam](./writing/prelim):** <20 pages, proposes the scope of a dissertation.
-- **[PhD Dissertation](./writing/dissertation):** the ultimate document. 
-- **[Research Proposal](./writing/proposal):** describes future research for the purpose of receiving funding.
+- **[Pre-print](./pre-print):** this is a copy of a journal article awaiting publication.
+- **[Journal Article](./journal-article):** between 5 and 50 pages, submitted to an archival journal.
+- **[Masters Thesis](./ms-thesis):** describes a cohesive research effort.
+- **[Preliminary Exam](./prelim):** <20 pages, proposes the scope of a dissertation.
+- **[PhD Dissertation](./dissertation):** the ultimate document. 
+- **[Research Proposal](./proposal):** describes future research for the purpose of receiving funding.
 
 
 ## Advice on Writing
