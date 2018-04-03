@@ -158,6 +158,32 @@
       icon: github-alt
       name: Github
 
+-name: Tyler Kennelly
+  pic: /img/people/kennellyt.jpg
+  dates: 2018-present
+  role: Undergraduate Research Assistant
+  description: 'Tyler is an undergraduate student interested in nuclear reactor physics computation.'
+  social:
+    - url: mailto:kennlly2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/KennellyT
+      icon: github-alt
+      name: Github
+
+-name: Brad Ellis
+  pic: /img/people/EllisB.jpg
+  dates: 2018-present
+  role: Undergraduate Research Assistant
+  description: 'Brad is an undergraduate student interested in fuel cycle analysis and repository simulation.'
+  social:
+    - url: mailto:Ellis6@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/KennellyT
+      icon: github-alt
+      name: Github
+
 - name: You
   pic: /img/people/you.png
   dates: now
