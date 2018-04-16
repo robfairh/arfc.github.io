@@ -1,4 +1,226 @@
 
+- title: "TBD"
+  presenter: Kathryn Huff
+  event: "Hack Illinois"
+  type: Keynote
+  place: Urbana, IL
+  month: February
+  day: 23-25
+  year: 2018
+  time: TBD
+  pic: '/img/pres/2018-02-23-hackillinois.png'
+  slides: 'https://katyhuff.github.io/2018-02-23-hackillinois'
+  description: "TBD"
+
+- title: "Modeling and Simulation at Disparate Scales: Molten Salt Reactor Multiphysics and International Fuel Cycle Transitions"
+  presenter: Kathryn Huff
+  event: "NERS Colloquium"
+  type: Invited Seminar
+  place: Ann Arbor, MI
+  month: February
+  day: 16
+  year: 2018
+  time: 4:00 pm
+  pic: '/img/pres/2018-02-16-ners.jpg'
+  slides: 'https://katyhuff.github.io/2018-02-16-ners'
+  description: "The world's energy future depends on improved safety and sustainability of nuclear reactor designs and fuel cycle strategies. Insights can be drawn from numerical experiments that model and simulate these systems. Both reactor and nuclear fuel cycle dynamics are sufficiently complex that sophisticated scientific software methods and high-performance computing resources are essential to understanding them. Furthermore, improved reproducibility and verification in these numerical experiments can be achieved through judicious use of scientific computing best practices.  Using examples drawn from spent nuclear fuel management and advanced reactor design,  this talk will describe the role and benefits of modeling and simulation combining insights from multiple scales in nuclear engineering challenges. The talk will introduce Moltres, a new physics application for multiphysics modeling of liquid-fueled molten salt reactors. The neutronics model, thermal hydraulics model, and their coupling in the MOOSE framework will be described. Results for many-channel configurations in 2D-axisymmetric and 3D coordinates will be presented and compared against other coupled models as well as the Molten Salt Reactor Experiment. This talk will also touch on isotope identification with neural networks and recent transition analyses using Cyclus, an agent-based nuclear fuel cycle simulation framework."
+
+- title: "Doing Our Best: Practices in Open, Reproducible Scientific Computing"
+  presenter: Kathryn Huff
+  event: "PyData Ann Arbor"
+  type: Invited Tech. Talk
+  place: Ann Arbor, MI
+  month: February
+  day: 15
+  year: 2018
+  time: 6pm
+  pic: '/img/pres/2018-02-15-pydata.jpg'
+  slides: 'https://katyhuff.github.io/2018-02-15-pydata'
+  description: "This talk will touch on best practices approaches to building software and simulations for scientific computation. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions. This talk will also touch on pain points and lessons learned from a series of case studies of real scientists doing their best, recently published in 'The Practice of Reproducible Research' (Kitzes, Deniz, Turek editors)."
+
+- title: "Signatures and Observables Thrust Area Summary"
+  presenter: Kathryn Huff
+  event: "Consortium for Nonproliferation Enabling Capabilities Annual Workshop"
+  type: Podium Presentation
+  place: Raleigh, NC
+  month: February
+  day: 8
+  year: 2018
+  time: 8:50 am
+  pic: '/img/pres/2018-02-08-cnec-so.jpg'
+  slides: '/pres/2018-02-08-cnec-so.pdf'
+  description: "This presentation gives an overview of the research taking place in the Signatures and Observables thrust area within the Consortium for Nonproliferation Enabling Capabilities."
+
+- title: "Signatures and Observables in the Nuclear Fuel Cycle"
+  presenter: Gregory Westphal
+  event: "Consortium for Nonproliferation Enabling Capabilities Annual Workshop"
+  type: Poster Presentation
+  place: Raleigh, NC
+  month: February
+  day: 8
+  year: 2018
+  time: 12:30 pm
+  pic: '/img/pres/2018-02-08-cnec.jpg'
+  slides: '/pres/2018-02-08-cnec.pdf'
+  description: "This presentation gives an overview of the research planned for collaboration with the Consortium for Nonproliferation Enabling Capabilities."
+
+- title: "Dynamic Transition Analysis with TIMES"
+  presenter: Kathryn Huff
+  event: "i2cner Annual Symposium"
+  type: Poster Presentation
+  place: Fukuoka, Japan
+  month: January
+  day: 31
+  year: 2018
+  time: 12:30 pm
+  pic: '/img/pres/2018-01-31-i2cner.png'
+  slides: '/pres/2018-01-31-i2cner.pdf'
+  description: "This presentation gives an overview of the research planned for collaboration with the Energy Analysis Division of the International Institute for Carbon-Neutral Energy Research."
+
+- title: "Machine Learning for Acceleration of Monte Carlo Transport"
+  presenter: Xin Wen
+  event: "SPIN Lightning Talks"
+  type: Lightning Talk
+  place: Urbana, IL
+  month: December
+  day: 8
+  year: 2017
+  time: 3:30 pm
+  pic: '/img/pres/2017-12-08-mlmc.png'
+  slides: '/pres/2017-12-08-mlmc.pdf'
+  description: "This presentation gives an overview of the research conducted so far toward machine learning acceleration of monte carlo transport."
+
+- title: "Uranium Enrichment Measurements Using an Artificial Neural Network"
+  presenter: Mark Kamuda
+  event: "Consortium for Verification Technology Workshop"
+  type: Technical Presentation
+  place: Ann Arbor, MI
+  month: November
+  day: 29
+  year: 2017
+  time: 2:15 pm
+  pic: 'https://dnng.engin.umich.edu/wp-content/uploads/sites/101/2013/09/CVT-logo-250pix1.png'
+  slides: '/pres/2017-11-29-cvt.pdf'
+  description: "A report on progress toward uranium enrichment isotope identification with Artificial Neural Networks."
+
+- title: "Advanced Reactors and Fuel Cycles Group"
+  presenter: Kathryn Huff
+  event: "NPRE 100: Introduction to NPRE"
+  type: Guest Lecture
+  place: Urbana, IL
+  month: November
+  day: 16
+  year: 2017
+  time: 3:30 pm
+  pic: '/img/pres/arfc-logo.png'
+  slides: 'https://katyhuff.github.io/2017-11-16-npre100'
+  description: "This presentation gives an overview of the research group appropriate for undergraduates in NPRE"
+  
+- title: "Synergistic Spent Nuclear Fuel Dynamics Within the European Union"
+  presenter: Jin Whan Bae
+  event: "American Nuclear Society Winter Meeting 2017"
+  type: Technical Presentation
+  place: Washington, DC
+  month: October
+  day: 31
+  year: 2017
+  time: 3:30 pm
+  pic: '/img/pres/2017-10-31-synergistic.png'
+  slides: '/pres/2017-10-31-synergistic.pdf'
+  description: "This presentation was presented by Jin Whan Bae, on a collaborative approach to reprocess used nuclear fuel from other EU nations for France to transition into a closed fuel cycle without the additional construction of LWRs."
+  
+- title: "Full-Core Analysis of Thorium-Fueled Molten Salt Breeder Reactor Using the SERPENT 2 Monte Carlo Code"
+  presenter: Andrei Rykhlevskii
+  event: "American Nuclear Society Winter Meeting 2017"
+  type: Technical Presentation
+  place: Washington, DC
+  month: October
+  day: 31
+  year: 2017
+  time: 1:55 pm
+  pic: '/img/pres/2017-10-31-full-core.png'
+  slides: '/pres/2017-10-31-full-core.pdf'
+  description: "This talk introduces recently developed full-core 3-D high-fidelity model of Molten Salt Breeder Reactor (MSBR) for SERPENT 2 Monte Carlo code.  Effective multiplication factor, neutron energy spectrum and temperature coefficients were determined in steady state criticality simulation and then compared against J. Park (MCNP6) model and Oak Ridge National Laboratory technical report."
+
+- title: "Why Nuclear?"
+  presenter: Kathryn Huff
+  event: "Olin College Lunch Seminar"
+  type: Invited AMA
+  place: Needham, MA
+  month: October
+  day: 31
+  year: 2017
+  time: 12:30 pm
+  pic: '/img/pres/2017-10-31-olin.png'
+  slides: http://katyhuff.github.io/2017-10-31-olin
+  description: "Nuclear fission is a safe, reliable, efficient, emissions-free source of plentiful energy. It must accordingly play an essential role in a carbon-reduced sustainable future for our planet. However, it is also somewhat curious, contentious, and complex. This discussion will begin with a brief explanation of the basic physics behind nuclear fission power systems, a synopsis of current and advanced reactor types, and some compelling facts. The remaining majority of the hour will be devoted to an open, ask-me-anything discussion which will thrive on your curiosity, concerns, confusions, and creativity. FAQ include: What about the waste? Can we recycle it? What about meltdowns? Can a reactor become a bomb? Where does plutonium come from? Is radiation natural?  Is thorium magic? When will fusion happen?"
+
+- title: "Online Reprocessing Simulation for Thorium-Fueled Molten Salt Breeder Reactor"
+  presenter: Andrei Rykhlevskii
+  event: "American Nuclear Society Winter Meeting 2017"
+  type: Technical Presentation
+  place: Washington, DC
+  month: October
+  day: 30
+  year: 2017
+  time: 2:55 pm
+  pic: '/img/pres/2017-10-30-online.png'
+  slides: '/pres/2017-10-30-online.pdf'
+  description: "This work describes online reprocessing modeling approach of Molten Salt Breeder Reactor (MSBR). MSBR unit cell online reprocessing simulation was performed using the SERPENT 2 Monte Carlo code to find equilibrium fuel composition. The neutron energy spectrum for initial and equilibrium composition was calculated. The approach will be using for full-core 3-D model of the reactor and fuel cycle parameters optimization."
+
+- title: "An Intro to Moltres, an MSR Multiphysics Code"
+  presenter: Gavin Ridley
+  event: "American Nuclear Society Winter Meeting 2017"
+  type: Poster Presentation
+  place: Washington, DC
+  month: October
+  day: 31
+  year: 2017
+  time: 11:00 am
+  pic: '/img/pres/2017-10-31-moltres.png'
+  slides: '/pres/2017-10-31-moltres.pdf'
+  description: "This poster was presented by Gavin Ridley, who spent summer 2017 at UIUC with the ARFC group. It gives an introduction to the Moltres application, a MOOSE-based code for multiphysics simulation of molten salt reactors which was developed primarily by ARFC postdoctoral scholar, Alexander Lindsay."
+
+- title: "Nuclear Power"
+  presenter: Kathryn Huff
+  event: "Engineering 471: Seminar on Energy and Sustainability Engineering"
+  type: Invited Guest Lecture
+  place: Urbana, IL
+  month: September
+  day: 27
+  year: 2017
+  time: 4:00pm
+  pic: '/img/pres/2017-09-27-eng471.png'
+  slides: 'pres/2017-09-27-eng471'
+  description: "This presentation covers some key topics regarding nuclear power, particularly in the context of economics and policy."
+
+
+- title: "Spent Nuclear Fuel Options"
+  presenter: Kathryn Huff
+  event: "Nuclear Nonproliferation Seminar Reactor Course"
+  type: Invited Seminar
+  place: Urbana, IL
+  month: September
+  day: 21
+  year: 2017
+  time: 10:00am
+  pic: '/img/pres/2017-09-21-anl.png' 
+  slides: https://github.com/katyhuff/2017-09-21-anl
+  description: "This presentation covers some key topics regarding nuclear spent fuel options, particularly in the context of nonproliferation."
+
+- title: "Techniques and Tools for Software Engineering"
+  presenter: Kathryn Huff
+  event: "Blue Waters Graduate Fellows Symposium"
+  type: Technical Presentation
+  place: Urbana, IL
+  month: September
+  day: 20
+  year: 2017
+  time: 8:30am
+  pic: https://bluewaters.ncsa.illinois.edu/bwup-vertical-theme/images/primary_blue/blue_waters_logo.png
+  slides: https://katyhuff.github.io/2017-09-20-ncsa
+  description: "This presentation was presented by Kathryn Huff, but was the collective work of Kathryn Huff, Anthony Scopatz, Jin Whan Bae, and Robert Flanagan. It seeks to stimulate discussion about algorithms for driving deployment based on demand (not just of power, but of fuel materials, reprocessing capacity, etc) in each of the existing simulators. This discussion is tightly in line with the Demand Driven Cycamore Archetypes NEUP proposal."
+
 - title: "Driving Deployment with Demand"
   presenter: Kathryn Huff
   event: "Technical Workshop on Fuel Cycle Simulation"

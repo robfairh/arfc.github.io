@@ -55,13 +55,10 @@ We communicate through many channels. Use the
 prepared to make use of the various meetings, listhosts, chat media, calendars, 
 twitter accounts, and whatnot that tie us together.
 
+# Writing
 
-# Installation 
+- [how to write](/manual/guides/writing/)
 
-- install git
-- install python
-- install pyne
-- install moose
 
 # Administrative
 
@@ -74,6 +71,14 @@ twitter accounts, and whatnot that tie us together.
 - thesis proposal
 - editing this website 
 
+# Installation 
+
+- install git
+- install python
+- install pyne
+- install moose
+
+
 # Software
 
 - prototyping
@@ -85,17 +90,10 @@ twitter accounts, and whatnot that tie us together.
 - cloud computing
 - [using Blue Waters](/manual/guides/bluewaters)
 
-# Writing Papers
-
-- how to write
-- what to write
-- where to submit
-- paper templates
 
 # Presenting Work
 
 - how to present
 - what to present
 - where to present
-- paper templates
 

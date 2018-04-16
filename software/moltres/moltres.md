@@ -10,8 +10,7 @@ reactors.
 
 ## Use
 
-Doxygen pages are
-[here](https://arfc.github.io/moltres/). Outlines of the kernels and boundary
+Outlines of the kernels and boundary
 conditions used to construct the Moltres governing equations can be found on the
 [Moltres wiki](http://arfc.github.io/software/moltres/wiki/). Breakdown of a
 full-fledged Moltres input file can be found
@@ -48,12 +47,14 @@ root of the Moltres directory.
 
 ## Development
 
-If you ever want to contribute changes to the Moltres repository, make sure you
-run `scripts/install-format-hook.sh` before making any commits. This will
-ensure that any commits you make adhere to the MOOSE/Moltres C++ style. Pull
-requests should be submitted to the `devel` branch of the `arfc/moltres`
-repository. Each pull request is automatically tested for style and for whether
-it breaks any of the core Moltres physics capabilities.
+API documentation for those interested in understanding or developing Moltres
+can be found [here](https://arfc.github.io/moltres/). If you ever want to
+contribute changes to the Moltres repository, make sure you run
+`scripts/install-format-hook.sh` before making any commits. This will ensure
+that any commits you make adhere to the MOOSE/Moltres C++ style. Pull requests
+should be submitted to the `devel` branch of the `arfc/moltres` repository. Each
+pull request is automatically tested for style and for whether it breaks any of
+the core Moltres physics capabilities.
 
 ## Contact
 
