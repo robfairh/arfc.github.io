@@ -4,25 +4,38 @@
   type: Technical Presentation
   place: Gainesville, FL
   month: April
-  day: 5-7
+  day: 7
   year: 2018
   time: 4:10 pm
   pic: '/img/pres/2018-04-07-cheeansstuconf.png'
   slides: '/pres/2018-04-07-chee-stuconf.pdf'
   description: "This presentation discusses the numerical experiments used to test demand driven deployment algorithms designed for Cyclus. This work is funded by Demand Driven Cycamore Archetypes NEUP proposal."
 
-- title: "TBD"
+- title: "Simulating the Spent Fuel Recipe of a Sodium-Cooled Fast Reactor"
+  presenter: Louis Kissinger
+  event: "American Nuclear Society Student Conference 2018"
+  type: Technical Presentation
+  place: Gainesville, FL
+  month: April
+  day: 7
+  year: 2018
+  time: 3:30 pm
+  pic: '/img/pres/2018-04-07-kissinger-stuconf.png'
+  slides: '/pres/2018-04-07-kissinger-stuconf.pdf'
+  description: "This presentation discusses the a depletion calculation conducted by Louis Kissinger in an independent study project with Prof. Huff. This work focused on the SFR-UAM benchmark core and evaluated a depleted fuel recipe for the core."
+
+- title: "Doing Our Best"
   presenter: Kathryn Huff
   event: "Hack Illinois"
   type: Keynote
   place: Urbana, IL
   month: February
-  day: 23-25
+  day: 24
   year: 2018
-  time: TBD
+  time: 1:00 pm
   pic: '/img/pres/2018-02-23-hackillinois.png'
-  slides: 'https://katyhuff.github.io/2018-02-23-hackillinois'
-  description: "TBD"
+  slides: 'https://katyhuff.github.io/2018-02-24-hackillinois'
+  description: "This talk will touch on best practices approaches to building software and simulations for scientific computation. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions. This talk will also touch on pain points and lessons learned from a series of case studies of real scientists doing their best, recently published in 'The Practice of Reproducible Research' (Kitzes, Deniz, Turek editors)."
 
 - title: "Modeling and Simulation at Disparate Scales: Molten Salt Reactor Multiphysics and International Fuel Cycle Transitions"
   presenter: Kathryn Huff
