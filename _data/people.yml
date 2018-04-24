@@ -71,7 +71,7 @@
   pic: /img/people/smpark.jpg
   dates: 2017-present
   role: Graduate Research Assistant
-  description: 'Sun Myung Park is a new PhD student embarking on his nuclear engineering journey.'
+  description: 'Sun Myung Park is a PhD student embarking on his nuclear engineering journey.'
   social:
       - url: mailto:smpark3@illinois.edu
         icon: envelope-o
@@ -97,7 +97,7 @@
   pic: /img/people/chaubea.jpg
   dates: 2017-present
   role: Graduate Researcher
-  description: 'Ansh is a graduate student and NPRE Teaching Assistant interested in mutiphysics simulations of advanced fission reactors.'
+  description: 'Ansh is a graduate student interested in mutiphysics simulations of advanced fission reactors.'
   social:
     - url: mailto:achaube2@illinois.edu
       icon: envelope-o
@@ -110,7 +110,7 @@
   pic: /img/people/westphalg.png
   dates: 2017-present
   role: Graduate Researcher
-  description: 'Greg is a Masters Student and Teaching Assistant interested in simulating fuel cycles.'
+  description: 'Greg is a Masters Student interested in signatures and observables in the nuclear fuel cycle.'
   social:
     - url: mailto:gtw2@illinois.edu
       icon: envelope-o
@@ -118,6 +118,24 @@
     - url: https://github.com/gtw2
       icon: github-alt
       name: Github
+
+
+
+- name: Gavin Ridley
+  pic: /img/people/ridleyg.png
+  dates: 2018-present
+  role: Graduate Research Assistant
+  description: 'Gavin Ridley is a graduate student interested in bringing molten salt reactors to fruition through HPC.'
+  social:
+      - url: mailto:gridley@vols.utk.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/gridley
+        icon: github-alt
+        name: Github
+      - url: https://twitter.com/g_kridley
+        icon: twitter
+        name: Twitter
 
 - name: Gyu Tae Park
   pic: /img/people/parkg.jpg
