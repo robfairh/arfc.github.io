@@ -6,9 +6,14 @@ author: Katy Huff
 categories: jekyll update
 ---
 
+![Gyu Tae Park](/img/people/parkg.jpg){:class="img-responsive" style="width: 200px;"}
+
 ARFC undergraduate student, **Gyu Tae Park**, Jack for short, was recognized this 
 month with the **2018 Nuclear, Plasma, and Radiological Engineering Outstanding 
-Undergraduate Research Award.**  Gyu Tae accepted the award at the NPRE Department 
+Undergraduate Research Award.**  
+
+
+Gyu Tae accepted the award at the NPRE Department 
 Honors and Awards Banquet on April 19th.
 This recognition consists of a monetary award, a certificate, and a 
 listing on a plaque that is permanently displayed in Talbot Laboratory.  
