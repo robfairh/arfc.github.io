@@ -26,7 +26,7 @@ will return to Illinois some time in the future!
 Gyu Tae is being recognized for his significant achievements in research as an 
 undergraduate. In particular, he led a project to incorporate geospatial 
 information into the Cyclus nuclear fuel cycle simulator. This work resulted in 
-results mapping capabilities which will be very valuable in years to come.  
+analytical mapping capabilities which will be very valuable in years to come.  
 Additionally, Gyu Tae collaborated with other students in incorporating a 
 wealth of data from the IAEA PRIS database into formats appropriate for use in 
 the Cyclus simulator.
