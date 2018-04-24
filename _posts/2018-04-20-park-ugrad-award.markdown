@@ -23,7 +23,7 @@ This semester he is completing his undergraduate degree. Upon graduation, he
 will return to South Korea to complete his military obligation. We hope he 
 will return to Illinois some time in the future!
 
-Gyu ae is being recognized for his significant achievements in research as an 
+Gyu Tae is being recognized for his significant achievements in research as an 
 undergraduate. In particular, he led a project to incorporate geospatial 
 information into the Cyclus nuclear fuel cycle simulator. This work resulted in 
 results mapping capabilities which will be very valuable in years to come.  
