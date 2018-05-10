@@ -1,3 +1,16 @@
+- title: "Advanced Online Reprocessing Simulation of Thorium-Fueled Molten Salt Breeder Reactor"
+  presenter: Andrei Rykhlevskii
+  event: "NPRE496: Seminar in Nuclear Science and Engineering"
+  type: Technical Presentation
+  place: Urbana, IL
+  month: April
+  day: 10
+  year: 2018
+  time: 4:00 pm
+  pic: '/img/pres/2018-04-10-saltproc.png'
+  slides: '/pres/2018-04-07-saltproc.pdf'
+  description: "Current interest in advanced nuclear energy and Molten Salt Reactor (MSR) concept has enhanced demand in building the tools to analyze these systems. A Python script SaltProc has been developed to simulate MSR online reprocessing by modeling the changing isotopic composition of an irradiated fuel salt using Monte Carlo code SERPENT 2 for neutron transport and depletion calculations. This presentation introduces SaltProc code and first simulation results for Molten Salt Breeder Reactor (MSBR)."
+
 - title: "Numerical Experiments for Testing Demand-Driven Deployment Algorithms "
   presenter: Gwendolyn Chee
   event: "American Nuclear Society Student Conference 2018"
