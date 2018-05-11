@@ -8,7 +8,7 @@ categories: jekyll update
 
 Two ARFC graduate students, **Andrei Rykhlevskii** and **Anshuman Chaube** were 
 recognized this year by the American Nuclear Society at the national level with 
-a **2018 John and Muriel Landis Scholarship.** This award, given by the ANS 
+the **2018 John and Muriel Landis Scholarship.** This award, given by the ANS 
 NEED Committee, consists of a monetary award, a certificate, and placement in 
 the online archive of recipients on the [ANS honors and awards 
 website](http://www.ans.org/honors/scholarships/recipients/).
