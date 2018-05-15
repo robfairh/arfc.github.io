@@ -118,3 +118,17 @@
       icon: linkedin
       name: Linkedin
 
+- name: Gyutae Park
+  pic: /img/people/parkg.jpg
+  dates: 2016-2018
+  role: Undergraduate Research Assistant
+  description: 'Gyutae Park was an Undergraduate Student at UIUC interested in fuel cycle simulations.'
+  social:
+    - url: mailto:gpark29@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/gyutaepark
+      icon: github-alt
+      name: Github
+
+
