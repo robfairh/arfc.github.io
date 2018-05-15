@@ -23,7 +23,7 @@ you can really fly.
 - If you have an ARFC computer, work with Katy to get a login name.
 - Get a [Zotero account](https://www.zotero.org/user/register/).
 - Join the [ARFC Zotero group](https://www.zotero.org/groups/498713/arfc).
-- [Request licenses](https://www.ornl.gov/division/rnsd/radiation-safety-information-computational-center) for export controlled software. (Ask Katy if any are needed for your project.)
+- [Request licenses](https://rsicc.ornl.gov) for export controlled software. (Ask Katy if any are needed for your project.)
 - Read the [Code of Conduct](/manual/coc).
 - Download the [book](http://proquest.safaribooksonline.com/9781491901564). Browse it now and use it as a reference when you are lost.
 - Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
