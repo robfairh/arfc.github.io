@@ -189,6 +189,19 @@
       icon: github-alt
       name: Github
 
+- name: Zoe Richter
+  pic: /img/people/richterz.png
+  dates: 2018-present
+  role: Undergraduate Research Assistant
+  description: 'Zoe is an undergraduate student with an interest in fuel cycles and nonproliferation.'
+  social:
+    - url: mailto:zrichte2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/ZoeRichter
+      icon: github-alt
+      name: Github
+
 - name: You
   pic: /img/people/you.png
   dates: now
