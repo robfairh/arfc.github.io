@@ -177,7 +177,7 @@
       name: Github
 
 - name: Brad Ellis
-  pic: /img/people/EllisB.jpg
+  pic: /img/people/ellisb.jpg
   dates: 2018-present
   role: Undergraduate Research Assistant
   description: 'Brad is an undergraduate student interested in fuel cycle analysis and repository simulation.'
@@ -185,7 +185,7 @@
     - url: mailto:Ellis6@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/KennellyT
+    - url: https://github.com/bellis6
       icon: github-alt
       name: Github
 
