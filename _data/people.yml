@@ -79,7 +79,7 @@
       - url: https://github.com/smpark7
         icon: github-alt
         name: Github
-                
+
 - name: Gwendolyn Chee
   pic: /img/people/cheeg.jpg
   dates: 2017-present
@@ -202,18 +202,15 @@
       icon: github-alt
       name: Github
 
-- name: You
-  pic: /img/people/you.png
-  dates: now
-  status: PI
-  role: Group Member
-  src: /positions
-  url: /positions
-  description: 'Ideal ARFC group members seek to advance nuclear energy challenges through advanced computing, physics-informed modeling, and sophisticated simulation'
+- name: Adam Pichman
+  pic: /img/people/pichmana.jpeg
+  dates: 2018-present
+  role: Undergraduate Research Assistant
+  description: 'Adam is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear fuel cycles.'
   social:
-    - url: mailto:katyhuff@gmail.com
+    - url: mailto:pichman2@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
-      icon: map-marker
-      name: 118 Talbot Lab
+    - url: https://github.com/pichman2
+      icon: github-alt
+      name: GitHub
