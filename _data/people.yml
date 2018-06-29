@@ -119,37 +119,6 @@
       icon: github-alt
       name: Github
 
-
-
-- name: Gavin Ridley
-  pic: /img/people/ridleyg.png
-  dates: 2018-present
-  role: Graduate Research Assistant
-  description: 'Gavin Ridley is a graduate student interested in bringing molten salt reactors to fruition through HPC.'
-  social:
-      - url: mailto:gridley@vols.utk.edu
-        icon: envelope-o
-        name: email
-      - url: https://github.com/gridley
-        icon: github-alt
-        name: Github
-      - url: https://twitter.com/g_kridley
-        icon: twitter
-        name: Twitter
-
-- name: Daniel Chiu
-  pic: /img/people/chiud.jpg
-  dates: 2017-present
-  role: Undergraduate Research Assistant
-  description: 'Daniel Chiu is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
-  social:
-    - url: mailto:dschiu2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/chiudaniels
-      icon: github-alt
-      name: Github
-
 - name: Louis Kissinger
   pic: /img/people/kissingerl.png
   dates: 2017-present
