@@ -1,3 +1,16 @@
+- title: "A Comparison of Machine Learning Methods for Automated Gamma-ray Spectroscopy"
+  presenter: Mark Kamuda
+  event: "Symposium on Radiation Measurements and Applications 2018"
+  type: Poster Presentation
+  place: Ann Arbor, MI
+  month: June
+  day: 13
+  year: 2018
+  time: 9:30 am
+  pic: '/img/pres/2018-06-13-SORMA.jpg'
+  slides: '/pres/2018-06-13-SORMA.pdf'
+  description: "This poster outlines progress made comparing fully connected neural networks and convolution neural networks for isotope quantification in NaI gamma-ray spectra."
+
 - title: "Computational Tools for Advanced Molten Salt Reactors Simulation"
   presenter: Andrei Rykhlevskii
   event: "Blue Waters Symposium 2018"
