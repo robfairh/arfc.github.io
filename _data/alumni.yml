@@ -1,9 +1,42 @@
+- name: Alex Lindsay
+  pic: /img/people/lindsaya.jpg
+  dates: 2016-2017
+  role: Postdoctoral Researcher
+  src: http://alexlindsay.info
+  url: http://alexlindsay.info
+  description: 'Alex was a postdoctoral researcher with ARFC. He is dedicated to a reasonable marriage between openness and nuclear energy research. He is now a staff scientist at INL.'
+  social:
+    - url: mailto:lindsayad@diyplasma.org
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/lindsayad
+      icon: github-alt
+      name: Github
+    - url: https://twitter.com/AlexTFXC
+      icon: twitter
+      name: Twitter
+
+- name: Gavin Ridley
+  pic: /img/people/ridleyg.png
+  dates: Summer 2017
+  role: Undergraduate Research Assistant
+  description: 'Gavin Ridley was an undergraduate researcher with ARFC. He is an undergraduate at UTK looking to help molten salt reactors come to fruition through HPC.'
+  social:
+      - url: mailto:gridley@vols.utk.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/gridley
+        icon: github-alt
+        name: Github
+      - url: https://twitter.com/g_kridley
+        icon: twitter
+        name: Twitter
+
 - name: Snehal Chandan
   pic: /img/people/chandans.jpg
   dates: "summer 2017"
   role: Undergraduate Research Assistant
-  description: 'Snehal Chandan is an undergraduate student studying Computer Science
-   and Engineering.'
+  description: 'Snehal Chandan was an undergraduate researcher with ARFC. She is an undergraduate student studying Computer Science and Engineering at IIT Bombay.'
   social:
     - url: mailto:snehalchandan25@gmail.com
       icon: envelope-o
@@ -19,8 +52,7 @@
   pic: /img/people/bhosalea.png
   dates: "summer 2017"
   role: Undergraduate Research Assistant
-  description: 'Aditya Bhosale is an undergraduate studying Aerospace
-    Engineering, interested in HPC'
+  description: 'Aditya Bhosale was an undergraduate researcher with ARFC. He is an undergraduate studying Aerospace Engineering at IIT Bombay, interested in HPC.'
   social:
     - url: mailto:adityapb1546@gmail.com
       icon: envelope-o
@@ -39,7 +71,7 @@
   role: Undergraduate Research Assistant
   src: nuclearkatie.com
   url: nuclearkatie.com
-  description: 'Katie is pursuing her PhD at the University of Wisconsin Madson'
+  description: 'Katie was an undergraduate researcher with ARFC. She is pursuing her PhD at the University of Wisconsin Madson'
   social:
     - url: mailto:mummah2@illinois.edu
       icon: envelope-o
@@ -58,7 +90,7 @@
   pic: /img/people/riewskie.jpg
   dates: 2016-2017
   role: Undergraduate Research Assistant
-  description: 'Eric Riewski is pursuing his PhD at the University of Wisconsin - Madiscon.' 
+  description: 'Eric Riewski was an undergraduate researcher with ARFC. He is pursuing his PhD at the University of Wisconsin - Madiscon.' 
   social:
     - url: mailto:riewski2@illinois.edu
       icon: envelope-o
@@ -85,4 +117,31 @@
     - url: https://www.linkedin.com/in/yukun-tifa-tan-b21146a2/
       icon: linkedin
       name: Linkedin
+
+- name: Gyutae Park
+  pic: /img/people/parkg.jpg
+  dates: 2016-2018
+  role: Undergraduate Research Assistant
+  description: 'Gyutae Park was an Undergraduate Student at UIUC interested in fuel cycle simulations.'
+  social:
+    - url: mailto:gpark29@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/gyutaepark
+      icon: github-alt
+      name: Github
+
+
+- name: Daniel Chiu
+  pic: /img/people/chiud.jpg
+  dates: 2017-present
+  role: Undergraduate Research Assistant
+  description: 'Daniel Chiu was an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
+  social:
+    - url: mailto:dschiu2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/chiudaniels
+      icon: github-alt
+      name: Github
 

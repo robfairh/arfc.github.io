@@ -18,7 +18,7 @@ the website, including blog posts and comments.
    and your username is USERNAME, the command is `git clone 
    git@github.com:USERNAME/arfc.github.io`
 4. Add the group fork as a remote. `cd arfc.github.io && git remote add 
-   git@github.com:arfc/arfc.github.io`
+   upstream git@github.com:arfc/arfc.github.io`
 
 Now, you're ready to make changes to the website. There are a few types of 
 changes that are common:
@@ -40,7 +40,8 @@ See below for directions on all of these.
    level directory of the website repository. Then, open a browser to 
    `localhost:4000`.
 7. When you're satisfied, push your changes to your own fork. 
-8. Finally make a pull request from your source directory to mine. 
+8. Finally make a pull request from your source branch to the arfc source 
+   branch. 
 
 If you're feeling confident, you can skip the pull request. Instead, you can 
 just push changes to the website directly with the command `rake publish`. Only 

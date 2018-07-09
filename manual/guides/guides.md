@@ -18,22 +18,30 @@ that can be captured in one.
 You're new to the research group. There are a lot of tasks to get done before 
 you can really fly. 
 
-- Read the [Code of Conduct](/manual/coc).
-- Read the [book](http://physics.codes). Ask Katy if she has a copy lying around.
-- Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
-- Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
-- Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
-- Tell Katy your username so she can add you to the [ARFC github organization.](https://github.com/arfc)
-- [Configure](http://swcarpentry.github.io/git-novice/02-setup/) git.
+- Handle HR stuff.
+- If you have an office, work with Katy and the NPRE Department office to get a key.
+- If you have an ARFC computer, work with Katy to get a login name.
 - Get a [Zotero account](https://www.zotero.org/user/register/).
 - Join the [ARFC Zotero group](https://www.zotero.org/groups/498713/arfc).
+- [Request licenses](https://rsicc.ornl.gov) for export controlled software. (Ask Katy if any are needed for your project.)
+- Read the [Code of Conduct](/manual/coc).
+- Download the [book](http://proquest.safaribooksonline.com/9781491901564). Browse it now and use it as a reference when you are lost.
+- Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
+- Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
+- Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
+- [Configure](http://swcarpentry.github.io/git-novice/02-setup/) git.
 - Install the [Zotero desktop application](https://www.zotero.org/download/).
 - [Learn how to use Zotero](/manual/guides/zotero).
 - [Learn how to access articles through the university library](http://www.library.illinois.edu/library-technology/proxy-bookmarklet/).
 - Add yourself to the [communication channels](/manual/guides/communication).
 - Add yourself to [this website.](/manual/guides/website)
-- Install other software you'll need.
-- Handle HR stuff.
+- Email Katy to include your:
+  - GitHub username (Katy will add you to the [ARFC github organization.](https://github.com/arfc))
+  - Email address(es) to invite to the group:
+    - Google Drive directory.
+    - Box Directory
+    - Email List
+    - Slack
 - Register for [classes](/manual/guides/classes).
 - Explore [Chambana](https://localwiki.org/cu/).
 
@@ -55,13 +63,10 @@ We communicate through many channels. Use the
 prepared to make use of the various meetings, listhosts, chat media, calendars, 
 twitter accounts, and whatnot that tie us together.
 
+# Writing
 
-# Installation 
+- [how to write](/manual/guides/writing/)
 
-- install git
-- install python
-- install pyne
-- install moose
 
 # Administrative
 
@@ -74,6 +79,14 @@ twitter accounts, and whatnot that tie us together.
 - thesis proposal
 - editing this website 
 
+# Installation 
+
+- install git
+- install python
+- install pyne
+- install moose
+
+
 # Software
 
 - prototyping
@@ -85,17 +98,10 @@ twitter accounts, and whatnot that tie us together.
 - cloud computing
 - [using Blue Waters](/manual/guides/bluewaters)
 
-# Writing Papers
-
-- how to write
-- what to write
-- where to submit
-- paper templates
 
 # Presenting Work
 
 - how to present
 - what to present
 - where to present
-- paper templates
 

@@ -25,7 +25,8 @@ layout: default
                         </div>
                         <div class="col-lg-12">
                                 <h3>Journal Articles</h3>
-                                {% bibliography --query @article[journal!=Submitted] %}
+                                {% bibliography --query 
+                                @article[journal!=Submitted,journal!=Zenodo,journal!=Figshare] %}
                         </div>
                 </div>
                 <div class="row">

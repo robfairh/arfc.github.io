@@ -5,6 +5,8 @@
       suburl: "/research/publications/"
     - subtitle: "Presentations"
       suburl: "/research/presentations"
+    - subtitle: "Reports"
+      suburl: "/research/reports/"
     - subtitle: "Software"
       suburl: "/software"
 
