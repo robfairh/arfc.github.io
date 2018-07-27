@@ -21,8 +21,8 @@
   network: github
   dates: 2011-2013
   role: Huff, original creator and continued contributor.
-  src: https://github.com/katyhuff/cyder
-  url: https://katyhuff.github.io/cyder
+  src: https://github.com/arfc/cyder
+  url: https://arfc.github.io/cyder
   description: 'Cyder is an integrated used fuel disposition and generic repository model for fuel cycle analysis. (C++) This was Prof. Huffs ph.d. dissertation work.'
 
 - name: pyne
