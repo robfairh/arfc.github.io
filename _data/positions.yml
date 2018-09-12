@@ -65,7 +65,7 @@
       description: 'The candidate will address open issues in the PyNE toolkit as they arise. This will include quality assurance efforts, assessment of documentation clarity, and development of software tests. The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy will be required. Apply by sending an up-to-date resume by email to Prof. Huff by September 20, 2018.'
       required: "C++, python, linux, Bash"
       desired: "git, Doxygen, Sphinx, pytest"
-      pic: /img/research/cyclus.gif
+      pic: /img/research/zen.png
       start: "October 2018"
   closed:
     - title: "Undergraduate Hourly: Nuclear Fuel Cycle Modeling"
