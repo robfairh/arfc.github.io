@@ -11,6 +11,19 @@
   slides: '/pres/2019-02-25-siam'
   description: "TBD"
 
+- title: "Fuel Cycle Performance of Fast Spectrum Molten Salt Reactor Designs"
+  presenter: Andrei Rykhlevskii
+  event: "ORNL NESLS Poster Session 2018"
+  type: Poster Presentation
+  place: Oak Ridge, TN
+  month: August
+  day: 08
+  year: 2018
+  time: 1:00 pm
+  pic: '/img/pres/2018-08-09-fs_msrs_poster.png'
+  slides: '/pres/2018-08-08-fs_msrs_poster.pdf'
+  description: "This poster shows progress in fuel cycle performance evaluation for 4 different fast molten salt reactors."
+
 - title: "A Comparison of Machine Learning Methods for Automated Gamma-ray Spectroscopy"
   presenter: Mark Kamuda
   event: "Symposium on Radiation Measurements and Applications 2018"
