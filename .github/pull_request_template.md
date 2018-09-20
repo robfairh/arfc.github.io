@@ -16,7 +16,13 @@
 - [ ] I have added tests to cover my changes.
 - [ ] All new and existing tests passed.
 
-## Associated Issues
+## Associated Issues and PRs
 <!--- Please note any issues or pull requests associated with this pull request -->
 
 - Issue: #
+
+
+## Associated Developers
+<!--- Please mention any developers who should be alerted of this PR -->
+
+- Dev: @
