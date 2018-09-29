@@ -184,6 +184,20 @@
       icon: github-alt
       name: GitHub
 
+
+- name: Matthew Koziol
+  pic: /img/people/koziolm.jpg
+  dates: 2018-present
+  role: Undergraduate Research Assistant
+  description: 'Matthew is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear physics computation and data science.'
+  social:
+    - url: mailto:mkoziol3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/makoziol0
+      icon: github-alt
+      name: GitHub
+
 - name: You
   pic: /img/people/you.png
   dates: now
