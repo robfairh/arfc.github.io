@@ -171,6 +171,22 @@
       icon: github-alt
       name: Github
 
+- name: Akanksha Panda
+  pic: /img/people/pandaa.jpg
+  dates: 2018-present
+  role: Undergraduate Research Assistant
+  description: 'Akanksha is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear physics computation, nuclear fuel cycles, and cybersecurity.'
+  social:
+    - url: mailto:panda2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://www.linkedin.com/in/akanksha-panda-757505131/
+      icon: linkedin
+      name: Linkedin
+    - url: https://github.com/akankshapanda
+      icon: github-alt
+      name: GitHub
+
 - name: Adam Pichman
   pic: /img/people/pichmana.jpeg
   dates: 2018-present
