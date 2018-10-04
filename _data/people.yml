@@ -145,19 +145,6 @@
       icon: github-alt
       name: Github
 
-- name: Brad Ellis
-  pic: /img/people/ellisb.jpg
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Brad is an undergraduate student interested in fuel cycle analysis and repository simulation.'
-  social:
-    - url: mailto:Ellis6@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/bellis6
-      icon: github-alt
-      name: Github
-
 - name: Zoe Richter
   pic: /img/people/richterz.png
   dates: 2018-present
@@ -170,6 +157,19 @@
     - url: https://github.com/ZoeRichter
       icon: github-alt
       name: Github
+
+- name: Matthew Koziol
+  pic: /img/people/koziolm.jpg
+  dates: 2018-present
+  role: Undergraduate Research Assistant
+  description: 'Matthew is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear physics computation and data science.'
+  social:
+    - url: mailto:mkoziol3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/makoziol0
+      icon: github-alt
+      name: GitHub
 
 - name: Akanksha Panda
   pic: /img/people/pandaa.jpg
@@ -184,33 +184,6 @@
       icon: linkedin
       name: Linkedin
     - url: https://github.com/akankshapanda
-      icon: github-alt
-      name: GitHub
-
-- name: Adam Pichman
-  pic: /img/people/pichmana.jpeg
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Adam is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear fuel cycles.'
-  social:
-    - url: mailto:pichman2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/pichman2
-      icon: github-alt
-      name: GitHub
-
-
-- name: Matthew Koziol
-  pic: /img/people/koziolm.jpg
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Matthew is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear physics computation and data science.'
-  social:
-    - url: mailto:mkoziol3@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/makoziol0
       icon: github-alt
       name: GitHub
 
