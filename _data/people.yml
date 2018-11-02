@@ -187,6 +187,19 @@
       icon: github-alt
       name: GitHub
 
+- name: Roberto Fairhurst Agosta
+  pic: /img/people/fairhurstr.jpg
+  dates: 2018-present
+  role: Graduate Research Assistant
+  description: 'Roberto is a Masters Student interested in mutiphysics simulations of advanced fission reactors.'
+  social:
+    - url: mailto:ref3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: http://github.com/robfairh
+      icon: github-alt
+      name: Github
+
 - name: You
   pic: /img/people/you.png
   dates: now
