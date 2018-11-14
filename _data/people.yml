@@ -71,7 +71,7 @@
   pic: /img/people/smpark.jpg
   dates: 2017-present
   role: Graduate Research Assistant
-  description: 'Sun Myung Park is a new PhD student embarking on his nuclear engineering journey.'
+  description: 'Sun Myung Park is a PhD student embarking on his nuclear engineering journey.'
   social:
       - url: mailto:smpark3@illinois.edu
         icon: envelope-o
@@ -79,7 +79,7 @@
       - url: https://github.com/smpark7
         icon: github-alt
         name: Github
-                
+
 - name: Gwendolyn Chee
   pic: /img/people/cheeg.jpg
   dates: 2017-present
@@ -97,7 +97,7 @@
   pic: /img/people/chaubea.jpg
   dates: 2017-present
   role: Graduate Researcher
-  description: 'Ansh is a graduate student and NPRE Teaching Assistant interested in mutiphysics simulations of advanced fission reactors.'
+  description: 'Ansh is a graduate student interested in mutiphysics simulations of advanced fission reactors.'
   social:
     - url: mailto:achaube2@illinois.edu
       icon: envelope-o
@@ -110,7 +110,7 @@
   pic: /img/people/westphalg.png
   dates: 2017-present
   role: Graduate Researcher
-  description: 'Greg is a Masters Student and Teaching Assistant interested in simulating fuel cycles.'
+  description: 'Greg is a Masters Student interested in signatures and observables in the nuclear fuel cycle.'
   social:
     - url: mailto:gtw2@illinois.edu
       icon: envelope-o
@@ -119,29 +119,16 @@
       icon: github-alt
       name: Github
 
-- name: Gyu Tae Park
-  pic: /img/people/parkg.jpg
-  dates: 2016-present
-  role: Undergraduate Research Assistant
-  description: 'Gyu Tae Park is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
+- name: Roberto Fairhurst Agosta
+  pic: /img/people/fairhurstr.jpg
+  dates: 2018-present
+  role: Graduate Research Assistant
+  description: 'Roberto is a Masters Student interested in mutiphysics simulations of advanced fission reactors.'
   social:
-    - url: mailto:gpark29@illinois.edu
+    - url: mailto:ref3@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/gyutaepark
-      icon: github-alt
-      name: Github
-
-- name: Daniel Chiu
-  pic: /img/people/chiud.jpg
-  dates: 2017-present
-  role: Undergraduate Research Assistant
-  description: 'Daniel Chiu is an Undergraduate Student in UIUC, interested in fuel cycle simulations.'
-  social:
-    - url: mailto:dschiu2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/chiudaniels
+    - url: http://github.com/robfairh
       icon: github-alt
       name: Github
 
@@ -171,18 +158,31 @@
       icon: github-alt
       name: Github
 
-- name: Brad Ellis
-  pic: /img/people/EllisB.jpg
+- name: Zoe Richter
+  pic: /img/people/richterz.png
   dates: 2018-present
   role: Undergraduate Research Assistant
-  description: 'Brad is an undergraduate student interested in fuel cycle analysis and repository simulation.'
+  description: 'Zoe is an undergraduate student with an interest in fuel cycles and nonproliferation.'
   social:
-    - url: mailto:Ellis6@illinois.edu
+    - url: mailto:zrichte2@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/KennellyT
+    - url: https://github.com/ZoeRichter
       icon: github-alt
       name: Github
+
+- name: Matthew Koziol
+  pic: /img/people/koziolm.jpg
+  dates: 2018-present
+  role: Undergraduate Research Assistant
+  description: 'Matthew is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear physics computation and data science.'
+  social:
+    - url: mailto:mkoziol3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/makoziol0
+      icon: github-alt
+      name: GitHub
 
 - name: You
   pic: /img/people/you.png
@@ -199,3 +199,4 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
+
