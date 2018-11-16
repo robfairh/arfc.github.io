@@ -1,16 +1,3 @@
-- title: "PyRe: A Cyclus Pyroprocessing Facility Archetype"
-  presenter: Greg Westphal
-  event: "Advances in Nuclear Nonproliferation Technology and Policy Conference 2018"
-  type: Technical Presentation
-  place: Orlando, FL
-  month: November
-  day: 12
-  year: 2018
-  time: 4:00 pm
-  pic: '/img/pres/2018-11-12-westphal-antpc2018.png'
-  slides: '/pres/2018-11-12-westphal-antpc2018.pdf'
-  description: "This presentation shows the progress made on modelling a pyroprocessing facility within the Cyclus framework and initial simulations."
-
 - title: "Validation of Spent Nuclear Fuel Output by Cyclus, a Fuel Cycle Simulator Code"
   presenter: Gwendolyn Chee
   event: "American Nuclear Society Winter Meeting 2018"
@@ -23,6 +10,19 @@
   pic: '/img/pres/2018-11-12-chee-answinter2018.png'
   slides: '/pres/2018-11-12-chee-answinter2018.pdf'
   description: "This presentation discusses the validation conducted of the isotopic compositions and decay heat contributions from the spent fuel produced by a Cyclus simulation of the historic United States nuclear fuel cycle."
+
+- title: "PyRe: A Cyclus Pyroprocessing Facility Archetype"
+  presenter: Greg Westphal
+  event: "Advances in Nuclear Nonproliferation Technology and Policy Conference 2018"
+  type: Technical Presentation
+  place: Orlando, FL
+  month: November
+  day: 12
+  year: 2018
+  time: 4:00 pm
+  pic: '/img/pres/2018-11-12-westphal-antpc2018.png'
+  slides: '/pres/2018-11-12-westphal-antpc2018.pdf'
+  description: "This presentation shows the progress made on modelling a pyroprocessing facility within the Cyclus framework and initial simulations."
 
 - title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
   presenter: Kathryn Huff
