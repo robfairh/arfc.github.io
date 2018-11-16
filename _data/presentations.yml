@@ -1,3 +1,16 @@
+- title: "Validation of Spent Nuclear Fuel Output by Cyclus, a Fuel Cycle Simulator Code"
+  presenter: Gwendolyn Chee
+  event: "American Nuclear Society Winter Meeting 2018"
+  type: Technical Presentation
+  place: Orlando, FL
+  month: November
+  day: 12
+  year: 2018
+  time: 5:35 pm
+  pic: '/img/pres/2018-11-12-chee-answinter2018.png'
+  slides: '/pres/2018-11-12-chee-answinter2018.pdf'
+  description: "This presentation discusses the validation conducted of the isotopic compositions and decay heat contributions from the spent fuel produced by a Cyclus simulation of the historic United States nuclear fuel cycle."
+
 - title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
   presenter: Kathryn Huff
   event: "SIAM CSE: Computational Methods for Kinetic Models of Gases and Plasmas Minisymposium"
