@@ -1,3 +1,16 @@
+- title: "Impact of Composition Approximation on Simulated Nuclear Fuel Cycle Metrics"
+  presenter: Jin Whan Bae
+  event: "American Nuclear Society Winter Meeting 2018"
+  type: Poster Presentation
+  place: Orlando, FL
+  month: November
+  day: 13
+  year: 2018
+  time: 11:35 am
+  pic: '/img/pres/2018-11-13-bae-answinter2018.png'
+  slides: '/pres/2018-11-13-bae-answinter2018.pdf'
+  description: "This work compares the validity and limits of simplifying Used Nuclear Fuel (UNF) composition."
+
 - title: "Validation of Spent Nuclear Fuel Output by Cyclus, a Fuel Cycle Simulator Code"
   presenter: Gwendolyn Chee
   event: "American Nuclear Society Winter Meeting 2018"
