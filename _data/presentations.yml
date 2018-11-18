@@ -22,7 +22,7 @@
   time: 4:00 pm
   pic: '/img/pres/2018-11-12-westphal-antpc2018.png'
   slides: '/pres/2018-11-12-westphal-antpc2018.pdf'
-  description: "This presentation shows the progress made on modelling a pyroprocessing facility within the Cyclus framework and initial simulations."
+  description: "This presentation shows the progress made on modeling a pyroprocessing facility within the Cyclus framework and initial simulations."
 
 - title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
   presenter: Kathryn Huff
