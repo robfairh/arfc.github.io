@@ -1,3 +1,16 @@
+- title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
+  presenter: Kathryn Huff
+  event: "SIAM CSE: Computational Methods for Kinetic Models of Gases and Plasmas Minisymposium"
+  type: Invited Mini Symposium
+  place: Spokane, WA
+  month: February
+  day: TBD
+  year: 2019
+  time: TBD
+  pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
+  slides: '/pres/2019-02-25-siam'
+  description: "TBD"
+
 - title: "Impact of Composition Approximation on Simulated Nuclear Fuel Cycle Metrics"
   presenter: Jin Whan Bae
   event: "American Nuclear Society Winter Meeting 2018"
@@ -37,18 +50,19 @@
   slides: '/pres/2018-11-12-westphal-antpc2018.pdf'
   description: "This presentation shows the progress made on modeling a pyroprocessing facility within the Cyclus framework and initial simulations."
 
-- title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
+- title: "Doing Our Best: Approaches in Scientific Computing" 
   presenter: Kathryn Huff
-  event: "SIAM CSE: Computational Methods for Kinetic Models of Gases and Plasmas Minisymposium"
-  type: Invited Mini Symposium
-  place: Spokane, WA
-  month: February
-  day: TBD
-  year: 2019
-  time: TBD
-  pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
-  slides: '/pres/2019-02-25-siam'
-  description: "TBD"
+  event: Insitute for Advanced Computational Science Seminar
+  type: Seminar
+  place: Stony Brook University
+  month: November
+  day: 08
+  year: 2018
+  time: 1:00pm
+  pic: https://
+  vid: https://www.youtube.com/watch?v=YqTxZC1i-B0
+  slides: https://katyhuff.github.io/2018-11-08-iacs
+  description: "This talk will touch on best practices approaches to building software and simulations for scientific computation. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can use for focusing on the underlying scientific questions. This talk will also touch on pain points and lessons learned from a series of case studies of real scientists doing their best, recently published in 'The Practice of Reproducible Research' (Kitzes, Deniz, Turek editors). "
 
 - title: "Fuel Cycle Performance of Fast Spectrum Molten Salt Reactor Designs"
   presenter: Andrei Rykhlevskii
