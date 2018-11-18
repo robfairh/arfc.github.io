@@ -16,6 +16,13 @@ permalink: /manual/guides/writing/journal-article
 
 ## Rules of the Journal Article
 
+A summary paragraph is often the last step, but [one should get it 
+right](http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf).
+Consider these [ten simple rules for structuring 
+papers](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619).
+Indeed, the MIT Communication Lab has a whole set of articles of their website 
+[on how to write journal 
+articles.](http://mitcommlab.mit.edu/be/use-the-commkit/)
 Don't forget the [checklist](/manual/guides/writing/checklist).
 
 ## After Writing
