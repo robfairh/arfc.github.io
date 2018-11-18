@@ -61,9 +61,14 @@ As your PI, it is my responsibility to do a number of things.
 
 - **Be present:** I expect you to be accessible during normal working hours. 
   Feel free to follow a schedule that works for you, work from home once in a 
-  while when you need to, and take breaks when you want to. But, by default, 
-  plan to come to the office during the daytime with regularity.  I won't track 
-  your hours, but I will worry if I haven't seen your face all week.
+  while when you need to, and take breaks when you need to. But, by default, 
+  plan to come to the office during the daytime with regularity.  
+  I won't track your hours, but I do want to know if you'll be 
+  out-of-communication, and I will worry if I haven't seen your face all week.
+  If you plan to take a vacation, please let me know in advance, particularly 
+  if we have meetings scheduled while you'll be away. Postdocs are considered 
+  staff, and should note that academic holidays are not always 
+  [staff holidays](http://humanresources.illinois.edu/employees/resources/info-about-your-employment/campus-holiday-schedule.html).
 - **Be productive** by writing papers and contributing to software toward the 
   missions of the group, the advancement of science in your field, building 
   your career, and expanding your expertise. 
@@ -133,8 +138,14 @@ Students who are my advisees have many responsibilities to themselves, to me, an
   Feel free to follow a schedule that works for you, work from home once in a 
   while when you need to, focus on coursework when that needs to take priority, 
   read for exams, and take breaks when you want to. But, by default, plan to 
-  come to the office during the daytime with regularity.  I won't track your 
-  hours, but I will worry if I haven't seen your face all week.
+  come to the office during the daytime with regularity.  
+  I won't track your hours, but I do want to know if you'll be 
+  out-of-communication, and I will worry if I haven't seen your face all week.
+  If you plan to take a vacation, please let me know in advance, particularly 
+  if we have meetings scheduled while you'll be away. Generally, graduate 
+  student research assistants are considered staff, and should note 
+  that academic holidays are not always 
+  [staff holidays](http://humanresources.illinois.edu/employees/resources/info-about-your-employment/campus-holiday-schedule.html).
 - **Participate:** actively in the university and the department, attending 
   colloquia, workshops, and other professional, technical, and departmental 
   events when they are relevant to your work and professional growth. Of 
