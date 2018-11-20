@@ -8,6 +8,7 @@ permalink: /manual/expectations
 # Behavior
 All members of the research group are required to agree with the [code of conduct](/manual/coc). 
 
+
 # Katy's Responsibilities
 
 As your PI, it is my responsibility to do a number of things. 
@@ -176,3 +177,13 @@ For details on each of these, see above for now.
 - submit weekly reports
 - attend lab meetings when possible
 - apply for scholarships, awards, and fellowships
+
+
+# Credit
+
+This part of the website is intended to be a living document capturing the
+norms and processes behind this research group. The following sections were
+inspired by [Lab Carpentry](http://labcarpentry.org) and its implementation at
+the [Data Exploration Laboratory](https://dxl.ncsa.illinois.edu/) and the
+[Lab for Data Intensive Biology](http://ivory.idyll.org/lab/).
+
