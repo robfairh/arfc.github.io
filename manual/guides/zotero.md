@@ -21,11 +21,13 @@ and joining the
 
 ## Install Zotero Plugins
 
-Go to [www.zotero.org/download](www.zotero.org/download) and follow the instructions. 
+Go to [www.zotero.org/download](https://www.zotero.org/download) and follow the 
+instructions to install the standalone app. It will additionally be helpful to 
+have the browser extension. 
 
 If you use firefox:
 
-1. Download Zotero Firefox Application:
+1. Download Zotero Firefox Application.
 2. That's it for now.
 
 
@@ -45,11 +47,15 @@ If you use something else (e.g. Chrome):
 
 ### The Tricky Part
 
-In order to 'properly' store papers and refernces, one must do so with caution.
+In order to 'properly' store papers and refernces, one must do so with caution. 
+If your browser extension shows a PDF icon, then it will only save the file, 
+with no metadata. Ideally, you should navigate to a URL where a different icon 
+is present (e.g. a folder icon, a journal article icon, or a conference 
+presentation icon.)
 
 #### Best Option: Google Scholar
 
-Search for the article in [Google Scholar](scholar.google.com)
+Search for the article in [Google Scholar](https://scholar.google.com)
 This will most likely ensure that the browser plugin will have access to all
 the necessary information for proper citing.
 

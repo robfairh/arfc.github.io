@@ -1,3 +1,82 @@
+- title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
+  presenter: Kathryn Huff
+  event: "SIAM CSE: Computational Methods for Kinetic Models of Gases and Plasmas Minisymposium"
+  type: Invited Mini Symposium
+  place: Spokane, WA
+  month: February
+  day: TBD
+  year: 2019
+  time: TBD
+  pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
+  slides: '/pres/2019-02-25-siam'
+  description: "TBD"
+
+- title: "Impact of Composition Approximation on Simulated Nuclear Fuel Cycle Metrics"
+  presenter: Jin Whan Bae
+  event: "American Nuclear Society Winter Meeting 2018"
+  type: Poster Presentation
+  place: Orlando, FL
+  month: November
+  day: 13
+  year: 2018
+  time: 11:35 am
+  pic: '/img/pres/2018-11-13-bae-answinter2018.png'
+  slides: '/pres/2018-11-13-bae-answinter2018.pdf'
+  description: "This work compares the validity and limits of simplifying Used Nuclear Fuel (UNF) composition."
+
+- title: "Validation of Spent Nuclear Fuel Output by Cyclus, a Fuel Cycle Simulator Code"
+  presenter: Gwendolyn Chee
+  event: "American Nuclear Society Winter Meeting 2018"
+  type: Technical Presentation
+  place: Orlando, FL
+  month: November
+  day: 12
+  year: 2018
+  time: 5:35 pm
+  pic: '/img/pres/2018-11-12-chee-answinter2018.png'
+  slides: '/pres/2018-11-12-chee-answinter2018.pdf'
+  description: "This presentation discusses the validation conducted of the isotopic compositions and decay heat contributions from the spent fuel produced by a Cyclus simulation of the historic United States nuclear fuel cycle."
+
+- title: "PyRe: A Cyclus Pyroprocessing Facility Archetype"
+  presenter: Greg Westphal
+  event: "Advances in Nuclear Nonproliferation Technology and Policy Conference 2018"
+  type: Technical Presentation
+  place: Orlando, FL
+  month: November
+  day: 12
+  year: 2018
+  time: 4:00 pm
+  pic: '/img/pres/2018-11-12-westphal-antpc2018.png'
+  slides: '/pres/2018-11-12-westphal-antpc2018.pdf'
+  description: "This presentation shows the progress made on modeling a pyroprocessing facility within the Cyclus framework and initial simulations."
+
+- title: "Doing Our Best: Approaches in Scientific Computing" 
+  presenter: Kathryn Huff
+  event: Insitute for Advanced Computational Science Seminar
+  type: Seminar
+  place: Stony Brook University
+  month: November
+  day: 08
+  year: 2018
+  time: 1:00pm
+  pic: https://iacs.stonybrook.edu/commcms/iacs/_images/iacs_logo.png
+  vid: https://www.youtube.com/watch?v=YqTxZC1i-B0
+  slides: https://katyhuff.github.io/2018-11-08-iacs
+  description: "This talk will touch on best practices approaches to building software and simulations for scientific computation. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can use for focusing on the underlying scientific questions. This talk will also touch on pain points and lessons learned from a series of case studies of real scientists doing their best, recently published in 'The Practice of Reproducible Research' (Kitzes, Deniz, Turek editors). "
+
+- title: "Fuel Cycle Performance of Fast Spectrum Molten Salt Reactor Designs"
+  presenter: Andrei Rykhlevskii
+  event: "ORNL NESLS Poster Session 2018"
+  type: Poster Presentation
+  place: Oak Ridge, TN
+  month: August
+  day: 08
+  year: 2018
+  time: 1:00 pm
+  pic: '/img/pres/2018-08-08-fs_msrs_poster.png'
+  slides: '/pres/2018-08-08-fs_msrs_poster.pdf'
+  description: "This poster shows progress in fuel cycle performance evaluation for 4 different fast molten salt reactors."
+
 - title: "A Comparison of Machine Learning Methods for Automated Gamma-ray Spectroscopy"
   presenter: Mark Kamuda
   event: "Symposium on Radiation Measurements and Applications 2018"
@@ -21,6 +100,7 @@
   year: 2018
   time: 1:30 pm
   pic: '/img/pres/2018-04-07-comp-tools-msr.png'
+  vid: 'https://www.youtube.com/watch?v=KWx_Jc1WU_I&t=8s'
   slides: '/pres/2018-04-07-comp-tools-msr.pdf'
   description: "The Advanced Reactors and Fuel Cycles (ARFC) group models and simulates the design, safety, and performance of advanced nuclear reactors. Such reactors involve tight coupling between physics such as thermal-hydraulic phenomena, neutron transport, and fuel performance. Current work introduces an extension of the MOOSE framework, Moltres, to appropriately model coupled thermal-hydraulics and neutronics of promising molten-salt-fueled reactor designs. Additionally, we have developed an online reprocessing simulation tool, SaltProc which includes fission product removal, fissile material separations, and refuelling for time dependent analysis of fuel-salt evolution. Initial simulations of the Molten Salt Reactor Experiment and the conceptual Molten Salt Breeder Reactor have been conducted on Blue Waters with deterministic multiphysics and Monte Carlo methods respectively. Steady state, transient, and fuel cycle analysis simulations have been run in 2D as well as 3D and compared against the Molten Salt Reactor Experiment. Fuel cycle dynamics and quasi-equilibrium compositions were obtained from depletion and reprocessing simulations for a 20-year time frame. The MSBR full-core safety analysis was performed at the startup and equilibrium fuel salt compositions, for important reactor safety parameters. In this work, conducted on Blue Waters, ARFC has demonstrated the capability to model complex physics in an advanced molten-salt-fueled nuclear reactor."
 
@@ -39,7 +119,7 @@
 
 - title: "Advanced Online Reprocessing Simulation of Thorium-Fueled Molten Salt Breeder Reactor"
   presenter: Andrei Rykhlevskii
-  event: "NPRE496: Seminar in Nuclear Science and Engineering"
+  event: "NPRE596: Seminar in Nuclear Science and Engineering"
   type: Technical Presentation
   place: Urbana, IL
   month: April
@@ -75,19 +155,6 @@
   pic: '/img/pres/2018-04-07-kissinger-stuconf.png'
   slides: '/pres/2018-04-16_kissinger-stuconf.pdf'
   description: "This presentation discusses the a depletion calculation conducted by Louis Kissinger in an independent study project with Prof. Huff. This work focused on the SFR-UAM benchmark core and evaluated a depleted fuel recipe for the core."
-
-- title: "Doing Our Best"
-  presenter: Kathryn Huff
-  event: "NPRE 199 Undergraduate Seminar"
-  type: Seminar
-  place: Urbana, IL
-  month: March 
-  day: 27
-  year: 2018
-  time: 12:00 noon
-  pic: '/img/pres/2018-03-27-npre199'
-  slides: 'https://katyhuff.github.io/2018-02-24-hackillinois'
-  description: "This talk will touch on best practices approaches to building software and simulations for nuclear engineering scientific computation. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can used for focusing on the underlying scientific questions. This talk will also touch on pain points and lessons learned from a series of case studies of real scientists doing their best, recently published in 'The Practice of Reproducible Research' (Kitzes, Deniz, Turek editors)."
 
 - title: "Doing Our Best"
   presenter: Kathryn Huff

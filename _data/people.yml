@@ -119,6 +119,19 @@
       icon: github-alt
       name: Github
 
+- name: Roberto Fairhurst Agosta
+  pic: /img/people/fairhurstr.jpg
+  dates: 2018-present
+  role: Graduate Research Assistant
+  description: 'Roberto is a Masters Student interested in mutiphysics simulations of advanced fission reactors.'
+  social:
+    - url: mailto:ref3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: http://github.com/robfairh
+      icon: github-alt
+      name: Github
+
 - name: Louis Kissinger
   pic: /img/people/kissingerl.png
   dates: 2017-present
@@ -145,19 +158,6 @@
       icon: github-alt
       name: Github
 
-- name: Brad Ellis
-  pic: /img/people/ellisb.jpg
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Brad is an undergraduate student interested in fuel cycle analysis and repository simulation.'
-  social:
-    - url: mailto:Ellis6@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/bellis6
-      icon: github-alt
-      name: Github
-
 - name: Zoe Richter
   pic: /img/people/richterz.png
   dates: 2018-present
@@ -171,16 +171,16 @@
       icon: github-alt
       name: Github
 
-- name: Adam Pichman
-  pic: /img/people/pichmana.jpeg
+- name: Matthew Koziol
+  pic: /img/people/koziolm.jpg
   dates: 2018-present
   role: Undergraduate Research Assistant
-  description: 'Adam is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear fuel cycles.'
+  description: 'Matthew is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear physics computation and data science.'
   social:
-    - url: mailto:pichman2@illinois.edu
+    - url: mailto:mkoziol3@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/pichman2
+    - url: https://github.com/makoziol0
       icon: github-alt
       name: GitHub
 
