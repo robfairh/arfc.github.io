@@ -11,6 +11,20 @@
   slides: '/pres/2019-02-25-siam'
   description: "TBD"
 
+- title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
+  presenter: Kathryn Huff
+  event: "Indo-US Science and Technology Forum - Symposium on Advanced Sensors and Modelling Techniques for Nuclear Reactor Safety"
+  type: Invited Speaker
+  place: Mumbai, Maharashtra, India
+  month: December
+  day: 18
+  year: 2018
+  time: 12:20
+  pic: '/img/pres/2018-12-18-mumbai'
+  slides: '/pres/2018-12-18-mumbai.pdf'
+  description: "Modeling and simulation of neutron kinetics in liquid-fueled nuclear reactors incorporates three major challenging components. First, it is necessary to establish the dynamic evolution of fuel composition via depletion and online reprocessing. Additionally, multiphysics analysis of the thermal hydraulics and neutronics in such a reactor must incorporate thermal feedbacks and material expansion feedbacks. Finally, drift of delayed neutron precursors must be incorporated into the kinetics analysis due to the mobility of the liquid fuel. This talk will discuss all three components. Toward the first component, a discussion of the SaltProc python package will establish the fuel composition dynamics capabilities necessary for fuel composition depletion in the context of online reprocessing. Toward the second component, a point kinetics model implementation in PyRK, and a more sophisticated advection model implementation in Moltres will be discussed. Finally, incorporation in Moltres of neutron diffusion and precursor equations will be discussed as will their implementation using the MOOSE action system."
+
+
 - title: "Impact of Composition Approximation on Simulated Nuclear Fuel Cycle Metrics"
   presenter: Jin Whan Bae
   event: "American Nuclear Society Winter Meeting 2018"
