@@ -41,19 +41,6 @@
       icon: twitter
       name: Twitter
 
-- name: Jin Whan Bae
-  pic: /img/people/baej.png
-  dates: 2016-present
-  role: Graduate Research Assistant
-  description: 'Jin Whan Bae is a PhD student interested in fuel cycles and repository simulation.'
-  social:
-    - url: mailto:jbae11@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/jbae11
-      icon: github-alt
-      name: Github
-
 - name: Mark Kamuda
   pic: /img/people/kamudam.png
   dates: 2017-present
