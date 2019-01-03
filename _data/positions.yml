@@ -57,11 +57,11 @@
   available:
     - title: "Undergraduate Hourly: Technical Editing"
       description: 'The candidate will review draft reports, presentations, and articles regarding original research by the Advanced Reactors and Fuel Cycles group as they arise.
-      The student will review and edit these items for clarity, techincal accuracy, grammar, format, flow, etc. The student will be expected to work well both independently and with mentorship. A strong interest in computational nuclear engineering will be required. Apply by sending an up-to-date resume and a writing sample by email to Prof. Huff by November 30, 2018.'
+      The student will review and edit these items for clarity, techincal accuracy, grammar, format, flow, etc. The student will be expected to work well both independently and with mentorship. A strong interest in computational nuclear engineering will be required. Apply by sending an up-to-date resume and a writing sample by email to Prof. Huff ASAP.'
       required: "Fluent English"
       desired: "git, LaTeX, Google Docs"
       pic: /img/positions/postdoc.png
-      start: "November 2018"
+      start: "ASAP"
   closed:
     - title: "Undergraduate Hourly: Nuclear Fuel Cycle Simulation"
       description: 'The candidate will address open issues in the Cyclus ecosystem as they arise. This will include quality assurance efforts, assessment of documentation clarity, and development of software tests. The student will be expected to work well both independently and with mentorship. A strong interest in scientific computing combined with interest in nuclear energy will be required. Apply by sending an up-to-date resume by email to Prof. Huff by September 20, 2018.'

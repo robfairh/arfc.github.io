@@ -149,7 +149,7 @@
   pic: /img/people/pichmana.jpeg
   dates: 2018 summer
   role: Undergraduate Research Assistant
-  description: 'Adam is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear fuel cycles.'
+  description: 'Adam received his undergraduate degree in 2019 and accepted a job at Epic Systems in Madison, WI'
   social:
     - url: mailto:pichman2@illinois.edu
       icon: envelope-o
@@ -171,7 +171,6 @@
       icon: github-alt
       name: Github
 
-
 - name: Akanksha Panda
   pic: /img/people/pandaa.jpg
   dates: 2018 fall
@@ -187,3 +186,16 @@
     - url: https://github.com/akankshapanda
       icon: github-alt
       name: GitHub
+
+- name: Jin Whan Bae
+  pic: /img/people/baej.png
+  dates: 2016-present
+  role: Graduate Research Assistant
+  description: 'Jin Whan Bae received his MS in 2018 and is now a staff member at ORNL'
+  social:
+    - url: mailto:jbae11@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/jbae11
+      icon: github-alt
+      name: Github

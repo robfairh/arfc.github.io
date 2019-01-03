@@ -41,19 +41,6 @@
       icon: twitter
       name: Twitter
 
-- name: Jin Whan Bae
-  pic: /img/people/baej.png
-  dates: 2016-present
-  role: Graduate Research Assistant
-  description: 'Jin Whan Bae is a PhD student interested in fuel cycles and repository simulation.'
-  social:
-    - url: mailto:jbae11@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/jbae11
-      icon: github-alt
-      name: Github
-
 - name: Mark Kamuda
   pic: /img/people/kamudam.png
   dates: 2017-present
@@ -132,6 +119,19 @@
       icon: github-alt
       name: Github
 
+- name: Zoe Richter
+  pic: /img/people/richterz.png
+  dates: 2018-present
+  role: Graduate Research Assistant
+  description: 'Zoe is an NRC fellow with an interest in advanced reactors, fuel cycles, and nonproliferation.'
+  social:
+    - url: mailto:zrichte2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/ZoeRichter
+      icon: github-alt
+      name: Github
+
 - name: Louis Kissinger
   pic: /img/people/kissingerl.png
   dates: 2017-present
@@ -155,19 +155,6 @@
       icon: envelope-o
       name: Email
     - url: https://github.com/KennellyT
-      icon: github-alt
-      name: Github
-
-- name: Zoe Richter
-  pic: /img/people/richterz.png
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Zoe is an undergraduate student with an interest in fuel cycles and nonproliferation.'
-  social:
-    - url: mailto:zrichte2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/ZoeRichter
       icon: github-alt
       name: Github
 
