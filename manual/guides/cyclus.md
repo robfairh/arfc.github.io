@@ -43,6 +43,7 @@ Likewise, the following can be entered in the terminal:
 ```
 $ cd
 $ git clone https://github.com/cyclus/cyclus
+$ cd
 $ git clone https://github.com/cyclus/cycamore
 ```
 
