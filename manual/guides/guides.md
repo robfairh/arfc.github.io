@@ -85,7 +85,7 @@ twitter accounts, and whatnot that tie us together.
 - install python
 - install pyne
 - install moose
-
+- [install cyclus](/manual/guides/cyclus)
 
 # Software
 
