@@ -171,19 +171,16 @@
       icon: github-alt
       name: GitHub
 
-- name: You
+- name: Julia Roessler
   pic: /img/people/you.png
-  dates: now
-  status: PI
-  role: Group Member
-  src: /positions
-  url: /positions
-  description: 'Ideal ARFC group members seek to advance nuclear energy challenges through advanced computing, physics-informed modeling, and sophisticated simulation'
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Julia is an undergraduate student at the University of Illinois who is eager to gain technical experience in the nuclear engineering field.'
   social:
-    - url: mailto:katyhuff@gmail.com
+    - url: mailto:juliakr2@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
-      icon: map-marker
-      name: 118 Talbot Lab
+    - url: https://github.com/juliaroessler
+      icon: github-alt
+      name: GitHub
 
