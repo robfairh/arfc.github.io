@@ -132,6 +132,19 @@
       icon: github-alt
       name: Github
 
+- name: Eleonora Skrzypek
+  pic: /img/people/skel.png
+  dates: 2019-present
+  role: Visiting Scholar
+  description: 'Eleonora is a graduate student from Warsaw University of Technology from Poland, interested in the safety and performance of generation IV reactors.'
+  social:
+    - url: mailto:eleonora@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/eleonora-skrzypek
+      icon: github-alt
+      name: GitHub
+
 - name: Louis Kissinger
   pic: /img/people/kissingerl.png
   dates: 2017-present
@@ -171,19 +184,6 @@
       icon: github-alt
       name: GitHub
       
-- name: Eleonora Skrzypek
-  pic: /img/people/skel.png
-  dates: 2019-present
-  role: Short-term scholar
-  description: 'Eleonora is an graduate student from Warsaw University of Technology from Poland, interested in generation IV reactors safety and performance.'
-  social:
-    - url: mailto:eleonora@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/eleonora-skrzypek
-      icon: github-alt
-      name: GitHub
-
 - name: You
   pic: /img/people/you.png
   dates: now
