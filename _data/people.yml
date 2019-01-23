@@ -170,6 +170,19 @@
     - url: https://github.com/makoziol0
       icon: github-alt
       name: GitHub
+      
+- name: Eleonora Skrzypek
+  pic: /img/people/skel.png
+  dates: 2019-present
+  role: Short-term scholar
+  description: 'Eleonora is an graduate student from Warsaw University of Technology from Poland, interested in generation IV reactors safety and performance.'
+  social:
+    - url: mailto:eleonora@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/eleonora-skrzypek
+      icon: github-alt
+      name: GitHub
 
 - name: You
   pic: /img/people/you.png
