@@ -132,6 +132,19 @@
       icon: github-alt
       name: Github
 
+- name: Eleonora Skrzypek
+  pic: /img/people/skel.png
+  dates: 2019-present
+  role: Visiting Scholar
+  description: 'Eleonora is a graduate student from Warsaw University of Technology from Poland, interested in the safety and performance of generation IV reactors.'
+  social:
+    - url: mailto:eleonora@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/eleonora-skrzypek
+      icon: github-alt
+      name: GitHub
+
 - name: Louis Kissinger
   pic: /img/people/kissingerl.png
   dates: 2017-present
@@ -172,7 +185,7 @@
       name: GitHub
 
 - name: Julia Roessler
-  pic: /img/people/JuliaRoessler.jpeg
+  pic: /img/people/roesslerj.jpeg
   dates: 2019-present
   role: Undergraduate Research Assistant
   description: 'Julia is an undergraduate student at the University of Illinois who is eager to gain technical experience in the nuclear engineering field.'
@@ -183,4 +196,20 @@
     - url: https://github.com/juliaroessler
       icon: github-alt
       name: GitHub
+
+- name: You
+  pic: /img/people/you.png
+  dates: now
+  role: Group Member
+  src: /positions
+  url: /positions
+  description: 'Ideal ARFC group members seek to advance nuclear energy challenges through advanced computing, physics-informed modeling, and sophisticated simulation'
+  social:
+    - url: mailto:katyhuff@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
+      icon: map-marker
+      name: 118 Talbot Lab
+
 
