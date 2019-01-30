@@ -559,7 +559,7 @@ more likely to have consenting communities."
   year: 2017
   time: 11:00am
   pic: '/img/pres/2017-03-02-ae3.png'
-  slides: http://katyhuff.github.io/2017-03-02-ae3
+  slides: './pres/2017-03-02-ae3.pdf'
   description: "To reduce implicit bias in the classroom, I use a random name picker. It's working."
 
 - title: "Innovation and Nuclear Energy: A Love Story"
