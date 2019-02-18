@@ -37,7 +37,8 @@ the following options:
 ** `1` and `2` correspond to the displayed Yes and No options respectively.
 
 ## Step 3. Clone Cyclus and Cycamore Repositories
-The repositories are found here for [cyclus](https://github.com/cyclus/cyclus) and [cycamore](https://github.com/cyclus/cycamore).
+The repositories are found here for [cyclus](https://github.com/cyclus/cyclus) and 
+[cycamore](https://github.com/cyclus/cycamore).
 
 Likewise, the following can be entered in the terminal:
 ```
