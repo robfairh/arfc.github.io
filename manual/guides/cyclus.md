@@ -62,6 +62,6 @@ cd ~/cycamore && python setup.py
 
 If both have successfully installed, we must now verify they perform as intended with unit tests:
 ```
-$ cyclus_unit_tests
+cyclus_unit_tests && cycamore_unit_tests
 $ cycamore_unit_tests
 ```
