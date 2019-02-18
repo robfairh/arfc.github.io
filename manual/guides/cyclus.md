@@ -18,7 +18,7 @@ both the `startup.sh` and `toBash.txt` files.
 ## Step 2. Run the script
 Change to the directory containing the script and proceed to run it with the following:
 ```
-$ cd ~/scripts/cyclus-setup && bash startup.sh
+cd ~/scripts/cyclus-setup && bash startup.sh
 ```
 The script will prompt you asking what to install.
 
@@ -64,5 +64,4 @@ cd ~/cycamore && python setup.py
 If both have successfully installed, we must now verify they perform as intended with unit tests:
 ```
 cyclus_unit_tests && cycamore_unit_tests
-$ cycamore_unit_tests
 ```
