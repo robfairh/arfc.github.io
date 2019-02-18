@@ -58,7 +58,6 @@ $ python setup.py
 After Cyclus is installed, we proceed to Cycamore:
 ```
 cd ~/cycamore && python setup.py
-$ python setup.py
 ```
 
 If both have successfully installed, we must now verify they perform as intended with unit tests:
