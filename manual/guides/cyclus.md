@@ -11,7 +11,7 @@ Make sure your Ubuntu environment is clean to ensure the script works.
 ## Step 1. Get the Script
 Download the script from [here](https://github.com/arfc/scripts/setmyenv). Make sure you have
 both the `startup.sh` and `toBash.txt` files.
-
+```git clone git@github.com:arfc/scripts && cd scripts```
 ## Step 2. Run the script
 Change to the directory containing the script and proceed to run it with the following:
 ```
