@@ -54,7 +54,6 @@ This is accomplished by running the `setup.py` scripts in each directory.
 
 ```
 cd ~/cyclus && python setup.py
-$ python setup.py
 ```
 
 After Cyclus is installed, we proceed to Cycamore:
