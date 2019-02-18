@@ -34,7 +34,7 @@ the following options:
 |Install Sublime Text | `1` (Optional) |
 |Install Other Software | `2` |
 
-** `1` and `2` Correspond to the displayed Yes and No options respectively.
+** `1` and `2` correspond to the displayed Yes and No options respectively.
 
 ## Step 3. Clone Cyclus and Cycamore Repositories
 The repositories are found here for [cyclus](https://github.com/cyclus/cyclus) and [cycamore](https://github.com/cyclus/cycamore).
