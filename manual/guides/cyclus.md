@@ -57,7 +57,7 @@ $ python setup.py
 
 After Cyclus is installed, we proceed to Cycamore:
 ```
-$ cd
+cd ~/cycamore && python setup.py
 $ cd cycamore
 $ python setup.py
 ```
