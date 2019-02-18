@@ -42,7 +42,7 @@ The repositories are found here for [cyclus](https://github.com/cyclus/cyclus) a
 
 Likewise, the following can be entered in the terminal:
 ```
-$ cd
+cd ~ && git clone https://github.com/cyclus/cyclus && git clone https://github.com/cyclus/cycamore
 $ git clone https://github.com/cyclus/cyclus
 $ cd
 $ git clone https://github.com/cyclus/cycamore
