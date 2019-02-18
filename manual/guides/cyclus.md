@@ -50,7 +50,7 @@ With the depencies installed, and the repositories downloaded we can proceed to 
 This is accomplished by running the `setup.py` scripts in each directory.
 
 ```
-$ cd
+cd ~/cyclus && python setup.py
 $ cd cyclus
 $ python setup.py
 ```
