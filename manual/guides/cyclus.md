@@ -54,7 +54,6 @@ This is accomplished by running the `setup.py` scripts in each directory.
 
 ```
 cd ~/cyclus && python setup.py
-$ cd cyclus
 $ python setup.py
 ```
 
