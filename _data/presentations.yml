@@ -11,6 +11,20 @@
   slides: '/pres/2019-02-25-siam'
   description: "TBD"
 
+- title: "Neutron Kinetics and Dynamics in Liquid-Fueled Nuclear Reactors"
+  presenter: Kathryn Huff
+  event: "Seminar, School of Nuclear Engineering, Purdue University"
+  type: Invited Seminar
+  place: West Lafayette, IN
+  month: February
+  day: 20
+  year: 2019
+  time: 15:30
+  pic: '/pres/2019-02-20-purdue.png'
+  slides: '/pres/2019-02-20-purdue.pdf'
+  description: "Modeling and simulation of neutron kinetics and dynamics in liquid-fueled, molten salt reactors incorporates three major challenging components. First, it is necessary to establish the dynamic evolution of fuel composition via depletion and online reprocessing. Additionally, multiphysics analysis of the thermal hydraulics and neutronics in such a nuclear reactor must incorporate thermal feedbacks and material expansion feedbacks. Finally, drift of delayed neutron precursors must be incorporated into the kinetics analysis due to the mobility of the liquid fuel. This talk will discuss all three components. Toward the first component, a discussion of the SaltProc python package will establish the fuel composition dynamics capabilities necessary for fuel composition depletion in the context of online reprocessing. Toward the second component, a point kinetics model implementation in PyRK, and a more sophisticated advection model implementation in Moltres will be discussed, including neutron diffusion and precursor drift equations in Moltres as well as their implementation using the MOOSE action system. Finally, future directions for Moltres and SaltProc development will be noted."
+
+
 - title: "Best Practices and Resources for Scientific Computing"
   presenter: Kathryn Huff
   event: "SciPy India"
