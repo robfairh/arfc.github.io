@@ -4,12 +4,42 @@
   type: Invited Mini Symposium
   place: Spokane, WA
   month: February
-  day: TBD
+  day: 27
   year: 2019
-  time: TBD
+  time: 11:00 
   pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
-  slides: '/pres/2019-02-25-siam'
-  description: "TBD"
+  slides: '/pres/2019-02-27-siam.pdf'
+  description: "Presentation in the MS187 Minisymposium: Statistical mechanics provides a mathematical modeling framework in which a collection of particles (e.g., electrons, nucleons, atoms, or molecules) is represented by a probability density function (PDF). This representation allows one to model the influence of microscopic dynamics on larger scales, without explicitly computing the detailed dynamics on the microscopic scale. Models in this framework are referred to as kinetic models, and arise in many application areas, including in rarefied gas dynamics, nuclear reactor modeling, and plasma physics. Transport phenomena refers to the evolution and redistribution of macroscopic quantities such as mass, momentum, energy, and heat flux. This minisymposium addresses recent advances in computational methods for the simulation of statistical mechanical models and the resulting transport phenomena. Our goal is to showcase a diverse array of application areas, models, and numerical techniques."
+
+- title: "Sustaining Student Software"
+  Simulation of Molten Salt Reactors with Moltres"
+  presenter: Kathryn Huff
+  event: "SIAM CSE: PP103 Minisymposterium: Software Productivity and Sustainability for CSE and Data Science"
+  type: Mini Symposterium
+  place: Spokane, WA
+  month: February
+  day: 26
+  year: 2019
+  time: 16:30
+  pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
+  slides: 'https://doi.org/10.6084/m9.figshare.7768349.v1' 
+  description: "A university research group focused on CSE software development can generate an enormous amount of software very quickly. Not all of it can (or should) be sustained. A constantly increasing maintenance burden is unsustainable and the transient nature of student researchers further complicates software sustainability. However, computational research groups build their research capabilities by leveraging and sustaining software. This poster will summarize lessons learned and challenges encountered by an early career faculty member striking this balance. We will describe software life cycles in the context of the software development workflow, tool stack, and community strategies we use in the Advanced Reactors and Fuel Cycles group. This life cycle will touch on a number of topics, including: software birth/death/afterlife, the various roles of the PI, collaborative code review, skills training, best practices, responsible employment of undergraduates, contribution disambiguation, and contributor transitions."
+
+- title: "Simulation of Molten Salt Reactors with Moltres"
+  presenter: Andrei Rykhlevskii
+  event: "SIAM CSE: Multiphysics Simulation with MOOSE - Part II of II"
+  type: Mini Symposium
+  place: Spokane, WA
+  month: February
+  day: 26
+  year: 2019
+  time: 15:30
+  pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
+  slides: '/pres/2019-rykhl-siam.pdf'
+  description: "The Advanced Reactors and Fuel Cycles (ARFC) group models and simulates the design, safety, and performance of advanced nuclear reactors. For these simulations coupling between physics such as neutron transport, thermal-hydraulics phenomena, and fuel performance must be taken into account. Our group performs high fidelity simulation of Gen IV reactor designs through development of models and tools for representing unique materials, complex geometries, and physical phenomena. Current work introduces an extension of the MOOSE framework, Moltres, to appropriately model coupled thermal-hydraulics and neutronics of promising liquid-fueled Molten Salt Reactor designs.
+
+Initial simulations of the Molten Salt Reactor Experiment (MSRE) have been conducted on Blue Waters supercomputer with deterministic multiphysics. Steady state, transient, and fuel cycle analysis simulations have been run in 2D as well as 3D and compared against the Molten Salt Reactor Experiment. These simulations have occupied up to many hundreds of nodes simultaneously and have resulted in rich datasets for use in reactor design and analysis. This talk will describe how coupling between neutronics and thermal hydraulics have been established in the Moltres as well as the validation and verification efforts which have been completed."
+
 
 - title: "Neutron Kinetics and Dynamics in Liquid-Fueled Nuclear Reactors"
   presenter: Kathryn Huff
