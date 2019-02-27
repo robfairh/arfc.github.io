@@ -12,7 +12,6 @@
   description: "Presentation in the MS187 Minisymposium: Statistical mechanics provides a mathematical modeling framework in which a collection of particles (e.g., electrons, nucleons, atoms, or molecules) is represented by a probability density function (PDF). This representation allows one to model the influence of microscopic dynamics on larger scales, without explicitly computing the detailed dynamics on the microscopic scale. Models in this framework are referred to as kinetic models, and arise in many application areas, including in rarefied gas dynamics, nuclear reactor modeling, and plasma physics. Transport phenomena refers to the evolution and redistribution of macroscopic quantities such as mass, momentum, energy, and heat flux. This minisymposium addresses recent advances in computational methods for the simulation of statistical mechanical models and the resulting transport phenomena. Our goal is to showcase a diverse array of application areas, models, and numerical techniques."
 
 - title: "Sustaining Student Software"
-  Simulation of Molten Salt Reactors with Moltres"
   presenter: Kathryn Huff
   event: "SIAM CSE: PP103 Minisymposterium: Software Productivity and Sustainability for CSE and Data Science"
   type: Mini Symposterium
