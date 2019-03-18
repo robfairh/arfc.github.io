@@ -4,12 +4,146 @@
   type: Invited Mini Symposium
   place: Spokane, WA
   month: February
-  day: TBD
+  day: 27
   year: 2019
-  time: TBD
+  time: 11:00 
   pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
-  slides: '/pres/2019-02-25-siam'
-  description: "TBD"
+  slides: '/pres/2019-02-27-siam.pdf'
+  description: "Presentation in the MS187 Minisymposium: Statistical mechanics provides a mathematical modeling framework in which a collection of particles (e.g., electrons, nucleons, atoms, or molecules) is represented by a probability density function (PDF). This representation allows one to model the influence of microscopic dynamics on larger scales, without explicitly computing the detailed dynamics on the microscopic scale. Models in this framework are referred to as kinetic models, and arise in many application areas, including in rarefied gas dynamics, nuclear reactor modeling, and plasma physics. Transport phenomena refers to the evolution and redistribution of macroscopic quantities such as mass, momentum, energy, and heat flux. This minisymposium addresses recent advances in computational methods for the simulation of statistical mechanical models and the resulting transport phenomena. Our goal is to showcase a diverse array of application areas, models, and numerical techniques."
+
+- title: "Sustaining Student Software"
+  presenter: Kathryn Huff
+  event: "SIAM CSE: PP103 Minisymposterium: Software Productivity and Sustainability for CSE and Data Science"
+  type: Mini Symposterium
+  place: Spokane, WA
+  month: February
+  day: 26
+  year: 2019
+  time: 16:30
+  pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
+  slides: 'https://doi.org/10.6084/m9.figshare.7768349.v1' 
+  description: "A university research group focused on CSE software development can generate an enormous amount of software very quickly. Not all of it can (or should) be sustained. A constantly increasing maintenance burden is unsustainable and the transient nature of student researchers further complicates software sustainability. However, computational research groups build their research capabilities by leveraging and sustaining software. This poster will summarize lessons learned and challenges encountered by an early career faculty member striking this balance. We will describe software life cycles in the context of the software development workflow, tool stack, and community strategies we use in the Advanced Reactors and Fuel Cycles group. This life cycle will touch on a number of topics, including: software birth/death/afterlife, the various roles of the PI, collaborative code review, skills training, best practices, responsible employment of undergraduates, contribution disambiguation, and contributor transitions."
+
+- title: "Simulation of Molten Salt Reactors with Moltres"
+  presenter: Andrei Rykhlevskii
+  event: "SIAM CSE: Multiphysics Simulation with MOOSE - Part II of II"
+  type: Mini Symposium
+  place: Spokane, WA
+  month: February
+  day: 26
+  year: 2019
+  time: 15:30
+  pic: 'http://evoq-eval.siam.org/Portals/0/Images/Modified/CSE19logo-resize263x313.jpg'
+  slides: '/pres/2019-02-26-rykhlevskii-siam.pdf'
+  description: "The Advanced Reactors and Fuel Cycles (ARFC) group models and simulates the design, safety, and performance of advanced nuclear reactors. For these simulations coupling between physics such as neutron transport, thermal-hydraulics phenomena, and fuel performance must be taken into account. Our group performs high fidelity simulation of Gen IV reactor designs through development of models and tools for representing unique materials, complex geometries, and physical phenomena. Current work introduces an extension of the MOOSE framework, Moltres, to appropriately model coupled thermal-hydraulics and neutronics of promising liquid-fueled Molten Salt Reactor designs.
+
+Initial simulations of the Molten Salt Reactor Experiment (MSRE) have been conducted on Blue Waters supercomputer with deterministic multiphysics. Steady state, transient, and fuel cycle analysis simulations have been run in 2D as well as 3D and compared against the Molten Salt Reactor Experiment. These simulations have occupied up to many hundreds of nodes simultaneously and have resulted in rich datasets for use in reactor design and analysis. This talk will describe how coupling between neutronics and thermal hydraulics have been established in the Moltres as well as the validation and verification efforts which have been completed."
+
+- title: "Neutron Kinetics and Dynamics in Liquid-Fueled Nuclear Reactors"
+  presenter: Kathryn Huff
+  event: "Seminar, School of Nuclear Engineering, Purdue University"
+  type: Invited Seminar
+  place: West Lafayette, IN
+  month: February
+  day: 20
+  year: 2019
+  time: 15:30
+  pic: '/img/pres/2019-02-20-purdue.png'
+  slides: '/pres/2019-02-20-purdue.pdf'
+  description: "Modeling and simulation of neutron kinetics and dynamics in liquid-fueled, molten salt reactors incorporates three major challenging components. First, it is necessary to establish the dynamic evolution of fuel composition via depletion and online reprocessing. Additionally, multiphysics analysis of the thermal hydraulics and neutronics in such a nuclear reactor must incorporate thermal feedbacks and material expansion feedbacks. Finally, drift of delayed neutron precursors must be incorporated into the kinetics analysis due to the mobility of the liquid fuel. This talk will discuss all three components. Toward the first component, a discussion of the SaltProc python package will establish the fuel composition dynamics capabilities necessary for fuel composition depletion in the context of online reprocessing. Toward the second component, a point kinetics model implementation in PyRK, and a more sophisticated advection model implementation in Moltres will be discussed, including neutron diffusion and precursor drift equations in Moltres as well as their implementation using the MOOSE action system. Finally, future directions for Moltres and SaltProc development will be noted."
+
+
+- title: "Best Practices and Resources for Scientific Computing"
+  presenter: Kathryn Huff
+  event: "SciPy India"
+  type: Keynote
+  place: Mumbai, Maharashtra, India
+  month: December
+  day: 22
+  year: 2018
+  time: 10:15
+  pic: 'https://scipy.in/static/website/bootstrap-css/assets/images/SciPy2018_thmb.png'
+  slides: 'https://katyhuff.github.io/2018-12-22-mumbai'
+  description: "This talk will touch on best practices approaches to building software and simulations for scientific computation. In addition to using and contributing to SciPy itself, This talk will touch on best practices approaches to building software and simulations for scientific computation. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can use for focusing on the underlying scientific questions. This talk will also touch on pain points and lessons learned from a series of case studies of real scientists doing their best, recently published in 'The Practice of Reproducible Research' (Kitzes, Deniz, Turek editors)."
+
+- title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
+  presenter: Kathryn Huff
+  event: "Indo-US Science and Technology Forum - Symposium on Advanced Sensors and Modelling Techniques for Nuclear Reactor Safety"
+  type: Invited Speaker
+  place: Mumbai, Maharashtra, India
+  month: December
+  day: 18
+  year: 2018
+  time: 12:20
+  pic: '/img/pres/2018-12-18-mumbai.png'
+  slides: '/pres/2018-12-18-mumbai.pdf'
+  description: "Modeling and simulation of neutron kinetics in liquid-fueled nuclear reactors incorporates three major challenging components. First, it is necessary to establish the dynamic evolution of fuel composition via depletion and online reprocessing. Additionally, multiphysics analysis of the thermal hydraulics and neutronics in such a reactor must incorporate thermal feedbacks and material expansion feedbacks. Finally, drift of delayed neutron precursors must be incorporated into the kinetics analysis due to the mobility of the liquid fuel. This talk will discuss all three components. Toward the first component, a discussion of the SaltProc python package will establish the fuel composition dynamics capabilities necessary for fuel composition depletion in the context of online reprocessing. Toward the second component, a point kinetics model implementation in PyRK, and a more sophisticated advection model implementation in Moltres will be discussed. Finally, incorporation in Moltres of neutron diffusion and precursor equations will be discussed as will their implementation using the MOOSE action system. Abstract indexed at  https://newprairiepress.org/asemot/2018/fullprogram/23/. "
+
+- title: "Impact of Composition Approximation on Simulated Nuclear Fuel Cycle Metrics"
+  presenter: Jin Whan Bae
+  event: "American Nuclear Society Winter Meeting 2018"
+  type: Poster Presentation
+  place: Orlando, FL
+  month: November
+  day: 13
+  year: 2018
+  time: 11:35 am
+  pic: '/img/pres/2018-11-13-bae-answinter2018.png'
+  slides: '/pres/2018-11-13-bae-answinter2018.pdf'
+  description: "This work compares the validity and limits of simplifying Used Nuclear Fuel (UNF) composition."
+
+- title: "Validation of Spent Nuclear Fuel Output by Cyclus, a Fuel Cycle Simulator Code"
+  presenter: Gwendolyn Chee
+  event: "American Nuclear Society Winter Meeting 2018"
+  type: Technical Presentation
+  place: Orlando, FL
+  month: November
+  day: 12
+  year: 2018
+  time: 5:35 pm
+  pic: '/img/pres/2018-11-12-chee-answinter2018.png'
+  slides: '/pres/2018-11-12-chee-answinter2018.pdf'
+  description: "This presentation discusses the validation conducted of the isotopic compositions and decay heat contributions from the spent fuel produced by a Cyclus simulation of the historic United States nuclear fuel cycle."
+
+- title: "PyRe: A Cyclus Pyroprocessing Facility Archetype"
+  presenter: Greg Westphal
+  event: "Advances in Nuclear Nonproliferation Technology and Policy Conference 2018"
+  type: Technical Presentation
+  place: Orlando, FL
+  month: November
+  day: 12
+  year: 2018
+  time: 4:00 pm
+  pic: '/img/pres/2018-11-12-westphal-antpc2018.png'
+  slides: '/pres/2018-11-12-westphal-antpc2018.pdf'
+  description: "This presentation shows the progress made on modeling a pyroprocessing facility within the Cyclus framework and initial simulations."
+
+- title: "Doing Our Best: Approaches in Scientific Computing" 
+  presenter: Kathryn Huff
+  event: Insitute for Advanced Computational Science Seminar
+  type: Seminar
+  place: Stony Brook University
+  month: November
+  day: 08
+  year: 2018
+  time: 1:00pm
+  pic: https://iacs.stonybrook.edu/commcms/iacs/_images/iacs_logo.png
+  vid: https://www.youtube.com/watch?v=YqTxZC1i-B0
+  slides: https://katyhuff.github.io/2018-11-08-iacs
+  description: "This talk will touch on best practices approaches to building software and simulations for scientific computation. These include concepts covered in the paper 'Best Practices in Scientific Computing' (Wilson, et al) as well as concepts covered in 'Effective Computation in Physics' (Scopatz, Huff). It describes a set of practices that are easy to adopt and have proven effective in many research settings. None of these practices will guarantee efficient, error-free software development, but used in concert they will reduce the number of errors in scientific software, make it easier to reuse, and save the authors of the software time and effort that can use for focusing on the underlying scientific questions. This talk will also touch on pain points and lessons learned from a series of case studies of real scientists doing their best, recently published in 'The Practice of Reproducible Research' (Kitzes, Deniz, Turek editors). "
+
+- title: "A Machine Learning Approach to Identifying Shielded Radioisotopes in Gamma-Ray Spectra"
+  presenter: Mark Kamuda
+  event: "Consortium for Verification Technology Workshop"
+  type: Poster Presentation
+  place: Ann Arbor, MI
+  month: October
+  day: 31
+  year: 2018
+  time: 4:00 pm
+  pic: '/img/pres/2018-06-13-SORMA.jpg'
+  slides: '/pres/2018-10-31-CVT.pdf'
+  description: "This poster compares dense and convolution neural networks for identifying shielded isotopes in gamma-ray spectra."
 
 - title: "Fuel Cycle Performance of Fast Spectrum Molten Salt Reactor Designs"
   presenter: Andrei Rykhlevskii
@@ -467,7 +601,7 @@ more likely to have consenting communities."
   year: 2017
   time: 11:00am
   pic: '/img/pres/2017-03-02-ae3.png'
-  slides: http://katyhuff.github.io/2017-03-02-ae3
+  slides: './pres/2017-03-02-ae3.pdf'
   description: "To reduce implicit bias in the classroom, I use a random name picker. It's working."
 
 - title: "Innovation and Nuclear Energy: A Love Story"

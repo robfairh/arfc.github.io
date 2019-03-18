@@ -41,19 +41,6 @@
       icon: twitter
       name: Twitter
 
-- name: Jin Whan Bae
-  pic: /img/people/baej.png
-  dates: 2016-present
-  role: Graduate Research Assistant
-  description: 'Jin Whan Bae is a PhD student interested in fuel cycles and repository simulation.'
-  social:
-    - url: mailto:jbae11@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/jbae11
-      icon: github-alt
-      name: Github
-
 - name: Mark Kamuda
   pic: /img/people/kamudam.png
   dates: 2017-present
@@ -132,6 +119,32 @@
       icon: github-alt
       name: Github
 
+- name: Zoe Richter
+  pic: /img/people/richterz.png
+  dates: 2018-present
+  role: Graduate Research Assistant
+  description: 'Zoe is an NRC fellow with an interest in advanced reactors, fuel cycles, and nonproliferation.'
+  social:
+    - url: mailto:zrichte2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/ZoeRichter
+      icon: github-alt
+      name: Github
+
+- name: Eleonora Skrzypek
+  pic: /img/people/skel.png
+  dates: 2019-present
+  role: Visiting Scholar
+  description: 'Eleonora is a graduate student from Warsaw University of Technology from Poland, interested in the safety and performance of generation IV reactors.'
+  social:
+    - url: mailto:eleonora@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/eleonora-skrzypek
+      icon: github-alt
+      name: GitHub
+
 - name: Louis Kissinger
   pic: /img/people/kissingerl.png
   dates: 2017-present
@@ -158,19 +171,6 @@
       icon: github-alt
       name: Github
 
-- name: Zoe Richter
-  pic: /img/people/richterz.png
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Zoe is an undergraduate student with an interest in fuel cycles and nonproliferation.'
-  social:
-    - url: mailto:zrichte2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/ZoeRichter
-      icon: github-alt
-      name: Github
-
 - name: Matthew Koziol
   pic: /img/people/koziolm.jpg
   dates: 2018-present
@@ -184,10 +184,22 @@
       icon: github-alt
       name: GitHub
 
+- name: Julia Roessler
+  pic: /img/people/roesslerj.jpeg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Julia is an undergraduate student at the University of Illinois who is eager to gain technical experience in the nuclear engineering field.'
+  social:
+    - url: mailto:juliakr2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/juliaroessler
+      icon: github-alt
+      name: GitHub
+
 - name: You
   pic: /img/people/you.png
   dates: now
-  status: PI
   role: Group Member
   src: /positions
   url: /positions
@@ -199,4 +211,5 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
+
 
