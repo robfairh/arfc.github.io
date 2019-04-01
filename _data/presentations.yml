@@ -52,6 +52,18 @@ Initial simulations of the Molten Salt Reactor Experiment (MSRE) have been condu
   slides: '/pres/2019-02-20-purdue.pdf'
   description: "Modeling and simulation of neutron kinetics and dynamics in liquid-fueled, molten salt reactors incorporates three major challenging components. First, it is necessary to establish the dynamic evolution of fuel composition via depletion and online reprocessing. Additionally, multiphysics analysis of the thermal hydraulics and neutronics in such a nuclear reactor must incorporate thermal feedbacks and material expansion feedbacks. Finally, drift of delayed neutron precursors must be incorporated into the kinetics analysis due to the mobility of the liquid fuel. This talk will discuss all three components. Toward the first component, a discussion of the SaltProc python package will establish the fuel composition dynamics capabilities necessary for fuel composition depletion in the context of online reprocessing. Toward the second component, a point kinetics model implementation in PyRK, and a more sophisticated advection model implementation in Moltres will be discussed, including neutron diffusion and precursor drift equations in Moltres as well as their implementation using the MOOSE action system. Finally, future directions for Moltres and SaltProc development will be noted."
 
+- title: Dynamic transition analysis with TIMES 
+  presenter: Anshuman Chaube
+  event: Energy Analysis Division Workshop, I2CNER Annual Symposium
+  type: Workshop
+  place: Fukuoka, Japan
+  month: February
+  day: 01
+  year: 2019
+  time: 11:00 am
+  pic: '/img/pres/2019-02-01-i2cner-symp.jpg'
+  slides: '/pres/2019-02-01-chaube-i2cner.pdf'
+  description: 'Progress on the ARFC project to simulate dynamic transition scenarios in the Japanese electricity-generation sector aimed at lowering carbon emissions.'
 
 - title: "Best Practices and Resources for Scientific Computing"
   presenter: Kathryn Huff
