@@ -49,7 +49,7 @@ cd ~ && git clone https://github.com/cyclus/cyclus && git clone https://github.c
 ```
 
 ## Step 4. Installation
-With the depencies installed, and the repositories downloaded we can proceed to build from source.
+With the dependencies installed, and the repositories downloaded we can proceed to build from source.
 This is accomplished by running the `setup.py` scripts in each directory.
 
 ```
