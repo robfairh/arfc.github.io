@@ -55,7 +55,7 @@
   url: '/positions/ugrad'
   description: 'Within ARFC, many projects appropriate for undergraduates require a significant dedication to learning software skills and best practices. Accordingly, we look for undergraduates who are available for at least 10 hours a week. We additionally invite undergraduates to join in our group meetings. In return for this higher level of participation, we will dedicate the time necessary to train you in high-utility computational skills.'
   available:
-  - title: "Undergraduate Summer: Technical Editing (Full Time)"
+    - title: "Undergraduate Summer: Technical Editing (Full Time)" 
       description: 'The candidate will review draft reports, presentations, and articles regarding original research by the Advanced Reactors and Fuel Cycles group as they arise.
       The student will review and edit these items for clarity, techincal accuracy, grammar, format, flow, etc. The student will be expected to work well both independently and with mentorship. A strong interest in computational nuclear engineering will be required. Apply by sending an up-to-date resume and a writing sample by email to Prof. Huff by by April 10, 2019.'
       required: "Fluent English"
