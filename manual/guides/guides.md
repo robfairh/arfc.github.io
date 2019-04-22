@@ -19,6 +19,8 @@ You're new to the research group. There are a lot of tasks to get done before
 you can really fly. 
 
 - Handle HR stuff.
+- Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
+- Add yourself to the [communication channels](/manual/guides/communication).
 - If you have an office, work with Katy and the NPRE Department office to get a key.
 - If you have an ARFC computer, work with Katy to get a login name.
 - Get a [Zotero account](https://www.zotero.org/user/register/).
@@ -27,15 +29,13 @@ you can really fly.
 - Read the [Code of Conduct](/manual/coc).
 - Download the [book](http://proquest.safaribooksonline.com/9781491901564). Browse it now and use it as a reference when you are lost.
 - Install a text editor of your choosing. (e.g. [vim](http://www.vim.org/), [emacs](https://www.gnu.org/software/emacs/), [atom](https://atom.io/), or [xo](https://github.com/scopatz/xo)).
-- Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
 - Install [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 - [Configure](http://swcarpentry.github.io/git-novice/02-setup/) git.
 - Install the [Zotero desktop application](https://www.zotero.org/download/).
 - [Learn how to use Zotero](/manual/guides/zotero).
 - [Learn how to access articles through the university library](http://www.library.illinois.edu/library-technology/proxy-bookmarklet/).
-- Add yourself to the [communication channels](/manual/guides/communication).
 - Add yourself to [this website.](/manual/guides/website)
-- Email Katy to include your:
+- Email Katy your:
   - GitHub username (Katy will add you to the [ARFC github organization.](https://github.com/arfc))
   - Email address(es) to invite to the group:
     - Google Drive directory.
