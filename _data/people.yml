@@ -201,7 +201,7 @@
   pic: /img/people/valaitiss.jpg
   dates: Summer 2019
   role: Graduate Research Assistant
-  description: 'Sonata is a graduate student interested in fuel cycle simulations and multi-scale code coupling for fusion edge plasmas.'
+  description: 'Sonata is a graduate student interested in fuel cycle simulations and fusion edge plasmas.'
   social:
     - url: https://github.com/sonatav2
       icon: github-alt
