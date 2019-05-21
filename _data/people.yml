@@ -210,6 +210,19 @@
       icon: envelope-o
       name: Email
 
+- name: Maanu Grover
+  pic: /img/people/groverm.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Maanu is a computer science undergraduate student interested in computer systems and scientific computing.'
+  social:
+    - url: mailto:mgrover3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mongwell
+      icon: github-alt
+      name: GitHub
+
 - name: You
   pic: /img/people/you.png
   dates: now
