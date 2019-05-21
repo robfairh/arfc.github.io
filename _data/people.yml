@@ -132,6 +132,24 @@
       icon: github-alt
       name: Github
 
+- name: Sam Dotson
+  pic: /img/people/dotsons.png
+  dates: 2019-present
+  role: Research Assistant
+  src: http://www.samgdotson.com/
+  url: http://www.samgdotson.com/
+  description: 'Sam graduated from UIUC with a in Engineering Physics and is interested in everything.'
+  social:
+    - url: mailto:sgd2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/samgdotson
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/sam-dotson
+      icon: linkedin
+      name: Linkedin
+
 - name: Eleonora Skrzypek
   pic: /img/people/skel.png
   dates: 2019-present
