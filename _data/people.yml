@@ -215,6 +215,19 @@
       icon: github-alt
       name: GitHub
 
+- name: Nathan Bartholomew
+  pic: /img/people/bartholomewn.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Nathan is an undergraduate student in nuclear engineering at UIUC working on PYNE.'
+  social:
+    - url: mailto:njbartholomew98@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nathanb01
+      icon: github-alt
+      name: Github
+
 - name: You
   pic: /img/people/you.png
   dates: now
@@ -229,5 +242,3 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
-
-
