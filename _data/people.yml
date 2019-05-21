@@ -158,58 +158,6 @@
       icon: envelope-o
       name: Email
 
-- name: Louis Kissinger
-  pic: /img/people/kissingerl.png
-  dates: 2017-present
-  role: Undergraduate Research Assistant
-  description: 'Louis Kissinger is an undergraduate student interested in fuel cycles and repository simulation.'
-  social:
-    - url: mailto:lkissin2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/lkissin2
-      icon: github-alt
-      name: Github
-
-- name: Tyler Kennelly
-  pic: /img/people/kennellyt.jpg
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Tyler is an undergraduate student interested in nuclear reactor physics computation.'
-  social:
-    - url: mailto:kennlly2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/KennellyT
-      icon: github-alt
-      name: Github
-
-- name: Matthew Koziol
-  pic: /img/people/koziolm.jpg
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Matthew is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear physics computation and data science.'
-  social:
-    - url: mailto:mkoziol3@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/makoziol0
-      icon: github-alt
-      name: GitHub
-
-- name: Julia Roessler
-  pic: /img/people/roesslerj.jpeg
-  dates: 2019-present
-  role: Undergraduate Research Assistant
-  description: 'Julia is an undergraduate student at the University of Illinois who is eager to gain technical experience in the nuclear engineering field.'
-  social:
-    - url: mailto:juliakr2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/juliaroessler
-      icon: github-alt
-      name: GitHub
-
 - name: Anthony Ruzzo
   pic: /img/people/ruzzoa.jpg
   dates: 2019-present
