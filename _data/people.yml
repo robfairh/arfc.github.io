@@ -184,6 +184,19 @@
       icon: github-alt
       name: GitHub
 
+- name: Anna Balla
+  pic: /img/people/ballaa.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Anna is a nuclear engineering undergraduate working on using reactor simulation software to develop educational tools for the public.'
+  social:
+    - url: mailto:acballa2@illinos.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/acballa2
+      icon: github-alt
+      name: GitHub
+
 - name: You
   pic: /img/people/you.png
   dates: now
