@@ -197,6 +197,19 @@
       icon: github-alt
       name: GitHub
 
+- name: Huan Yan
+  pic: /img/people/yhuan.jpg
+  dates: 2019-present
+  role: Research Assistant
+  description: 'Huan Yan is a PhD candidate working on advanced characterization of irradiated structural materials.'
+  social:
+    - url: mailto:huanyan3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/yanhuan0713
+      icon: github-alt
+      name: GitHub
+
 - name: You
   pic: /img/people/you.png
   dates: now
@@ -211,5 +224,3 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
-
-
