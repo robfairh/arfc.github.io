@@ -132,6 +132,24 @@
       icon: github-alt
       name: Github
 
+- name: Sam Dotson
+  pic: /img/people/dotsons.png
+  dates: 2019-present
+  role: Research Assistant
+  src: http://www.samgdotson.com/
+  url: http://www.samgdotson.com/
+  description: 'Sam graduated from UIUC with a in Engineering Physics and is interested in everything.'
+  social:
+    - url: mailto:sgd2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/samgdotson
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/sam-dotson
+      icon: linkedin
+      name: Linkedin
+
 - name: Eleonora Skrzypek
   pic: /img/people/skel.png
   dates: 2019-present
@@ -184,6 +202,19 @@
       icon: github-alt
       name: GitHub
 
+- name: Anna Balla
+  pic: /img/people/ballaa.png
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Anna is a nuclear engineering undergraduate working on using reactor simulation software to develop educational tools for the public.'
+  social:
+    - url: mailto:acballa2@illinos.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/acballa2
+      icon: github-alt
+      name: GitHub
+
 - name: Nathan Bartholomew
   pic: /img/people/bartholomewn.jpg
   dates: 2019-present
@@ -196,6 +227,19 @@
     - url: https://github.com/nathanb01
       icon: github-alt
       name: Github
+
+- name: Huan Yan
+  pic: /img/people/yhuan.jpg
+  dates: 2019-present
+  role: Research Assistant
+  description: 'Huan Yan is a PhD candidate working on advanced characterization of irradiated structural materials.'
+  social:
+    - url: mailto:huanyan3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/yanhuan0713
+      icon: github-alt
+      name: GitHub
 
 - name: You
   pic: /img/people/you.png
@@ -211,5 +255,3 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
-
-
