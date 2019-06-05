@@ -228,6 +228,19 @@
       icon: github-alt
       name: Github
 
+- name: Kip Kleimenhagen
+  pic: /img/people/kleimenhagenk.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Kip is an undergraduate student in the NPRE department at UIUC currently working on the Cyclus fuel cycle simulation tool to better characterize the depletion of fuel in MSRs.'
+  social:
+    - url: mailto:kiplk2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/kipk49
+      icon: github-alt
+      name: Github
+
 - name: Huan Yan
   pic: /img/people/yhuan.jpg
   dates: 2019-present
