@@ -135,10 +135,10 @@
 - name: Sam Dotson
   pic: /img/people/dotsons.png
   dates: 2019-present
-  role: Research Assistant
+  role: Graduate Research Assistant
   src: http://www.samgdotson.com/
   url: http://www.samgdotson.com/
-  description: 'Sam graduated from UIUC with a in Engineering Physics and is interested in everything.'
+  description: 'Sam is currently working on machine learning applications for isotope identification and is interested in everything.'
   social:
     - url: mailto:sgd2@illinois.edu
       icon: envelope-o
