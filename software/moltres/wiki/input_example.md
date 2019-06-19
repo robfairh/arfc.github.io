@@ -360,7 +360,7 @@ can be optionally block restricted by setting `block = <subdomain_names>`.
 The `BCs` block is very similar to the `Kernels` block except the
 `boundary = <boundary_names>` parameter must be specified to indicate where the boundary
 conditions should be applied. The mathematical form of the BCs can be found on
-the [BCs wiki page](/software/moltres/wiki/kernels).
+the [BCs wiki page](/software/moltres/wiki/bcs).
 
 ```
 [Functions]
