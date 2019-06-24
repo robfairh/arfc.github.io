@@ -254,6 +254,19 @@
       icon: github-alt
       name: GitHub
 
+- name: Mitchell Whalen
+  pic: /img/people/whalenm.png
+  dates: 2019-present
+  role: Technical Editor
+  description: 'Mitchell is a nuclear engineering undergraduate interested in spent fuel management.'
+  social:
+    - url: mailto:mdwhale2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mitchellwhalen
+      icon: github-alt
+      name: GitHub
+
 - name: You
   pic: /img/people/you.png
   dates: now
