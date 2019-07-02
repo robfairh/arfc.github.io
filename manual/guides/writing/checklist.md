@@ -13,6 +13,9 @@ This [writing checklist](/manual/guides/writing/checklist) is mostly from advice
 ## Checklist
 
 ```markdown
+- [ ] Run a spell checker.
+- [ ] The Oxford comma appears in  ("lions, tigers, and bears.")
+- [ ] Do not use the word "where" unless referring to a location (try "such that" or "in which").
 - [ ] Articles such as "a" "the" "some" "any" and "each" appear where necessary.
 - [ ] All subjects match the plurality of their verbs ( no: "Apples is tasty" yes: "Apples are tasty")
 - [ ] Avoid run-on sentences.
