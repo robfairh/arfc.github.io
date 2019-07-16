@@ -1,3 +1,16 @@
+- title: "Diversion Detection in Cyclus"
+  presenter: Greg Westphal
+  event: "TwoFCS 2019"
+  type: Technical Presentation
+  place: Champaign, IL
+  month: June
+  day: 28
+  year: 2019
+  time: 10:00
+  pic: '/img/pres/2019-06-28-pyre-twofcs.png'
+  slides: '/pres/2019-06-28-pyre-twofcs.pdf'
+  description: "This presentation discusses the work done towards detecting various methods of diversion from within a pyroprocessing plant, and is tested on a transition scenario."
+
 - title: "Demand Driven Deployment Capabilities in Cyclus"
   presenter: Gwendolyn Chee
   event: "TwoFCS 2019"
