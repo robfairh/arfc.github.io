@@ -7,7 +7,14 @@ permalink: /manual/guides/travel
 
 # Traveling
 
-Traveling for ARFC purposes should be done in these steps:
+If personal travel (e.g. vacation)
+will have an impact on research goals and meeting attendance. 
+please communicate as soon as possible with Prof. Huff regarding scheduling and 
+expectations. Beyond this, please simply submit a [travel request
+form](https://my.npre.illinois.edu/travel/request/?section=absence) to register
+your absence for any personal travel impacting your availability.
+
+Traveling for ARFC purposes (conferences, workshops, etc.) should be done in these steps:
 
 
 ## 1. Plan Ahead!
