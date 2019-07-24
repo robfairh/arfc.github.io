@@ -12,9 +12,9 @@ reactors.
 
 Outlines of the kernels and boundary
 conditions used to construct the Moltres governing equations can be found on the
-[Moltres wiki](http://arfc.github.io/software/moltres/wiki/). Breakdown of a
+[Moltres wiki](./wiki/). Breakdown of a
 full-fledged Moltres input file can be found
-[here](http://arfc.github.io/software/moltres/wiki/input_example/). New Moltres
+[here](./wiki/input_example/). New Moltres
 users who have never used MOOSE before are encouraged to check-out its
 [wiki](http://mooseframework.org/wiki/),
 [tutorials](http://mooseframework.org/wiki/MooseTutorials/), and
