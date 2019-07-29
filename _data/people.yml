@@ -132,6 +132,24 @@
       icon: github-alt
       name: Github
 
+- name: Sam Dotson
+  pic: /img/people/dotsons.png
+  dates: 2019-present
+  role: Graduate Research Assistant
+  src: http://www.samgdotson.com/
+  url: http://www.samgdotson.com/
+  description: 'Sam is currently working on machine learning applications for isotope identification and is interested in everything.'
+  social:
+    - url: mailto:sgd2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/samgdotson
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/sam-dotson
+      icon: linkedin
+      name: Linkedin
+
 - name: Eleonora Skrzypek
   pic: /img/people/skel.png
   dates: 2019-present
@@ -145,55 +163,107 @@
       icon: github-alt
       name: GitHub
 
-- name: Louis Kissinger
-  pic: /img/people/kissingerl.png
-  dates: 2017-present
-  role: Undergraduate Research Assistant
-  description: 'Louis Kissinger is an undergraduate student interested in fuel cycles and repository simulation.'
+- name: Sonata Valaitis
+  pic: /img/people/valaitiss.jpg
+  dates: Summer 2019
+  role: Graduate Research Assistant
+  description: 'Sonata is a graduate student interested in fuel cycle simulations and fusion edge plasmas.'
   social:
-    - url: mailto:lkissin2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/lkissin2
+    - url: https://github.com/sonatav2
       icon: github-alt
       name: Github
-
-- name: Tyler Kennelly
-  pic: /img/people/kennellyt.jpg
-  dates: 2018-present
-  role: Undergraduate Research Assistant
-  description: 'Tyler is an undergraduate student interested in nuclear reactor physics computation.'
-  social:
-    - url: mailto:kennlly2@illinois.edu
+    - url: mailto:sonatav2@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/KennellyT
-      icon: github-alt
-      name: Github
 
-- name: Matthew Koziol
-  pic: /img/people/koziolm.jpg
-  dates: 2018-present
+- name: Anthony Ruzzo
+  pic: /img/people/ruzzoa.jpg
+  dates: 2019-present
   role: Undergraduate Research Assistant
-  description: 'Matthew is an undergraduate student at the University of Illinois--Urbana Champaign, interested in nuclear physics computation and data science.'
+  description: 'Anthony is an undergraduate student at the University of Illinois interested in computational nuclear physics.'
   social:
-    - url: mailto:mkoziol3@illinois.edu
+    - url: mailto:aruzzo2@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/makoziol0
+    - url: https://github.com/aruzzo
       icon: github-alt
       name: GitHub
 
-- name: Julia Roessler
-  pic: /img/people/roesslerj.jpeg
+- name: Maanu Grover
+  pic: /img/people/groverm.jpg
   dates: 2019-present
   role: Undergraduate Research Assistant
-  description: 'Julia is an undergraduate student at the University of Illinois who is eager to gain technical experience in the nuclear engineering field.'
+  description: 'Maanu is a computer science undergraduate student interested in computer systems and scientific computing.'
   social:
-    - url: mailto:juliakr2@illinois.edu
+    - url: mailto:mgrover3@illinois.edu
       icon: envelope-o
       name: Email
-    - url: https://github.com/juliaroessler
+    - url: https://github.com/mongwell
+      icon: github-alt
+      name: GitHub
+
+- name: Anna Balla
+  pic: /img/people/ballaa.png
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Anna is a nuclear engineering undergraduate working on using reactor simulation software to develop educational tools for the public.'
+  social:
+    - url: mailto:acballa2@illinos.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/acballa2
+      icon: github-alt
+      name: GitHub
+
+- name: Nathan Bartholomew
+  pic: /img/people/bartholomewn.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Nathan is an undergraduate student in nuclear engineering at UIUC working on PYNE.'
+  social:
+    - url: mailto:njbartholomew98@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nathanb01
+      icon: github-alt
+      name: Github
+
+- name: Kip Kleimenhagen
+  pic: /img/people/kleimenhagenk.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Kip is an undergraduate student in the NPRE department at UIUC currently working on the Cyclus fuel cycle simulation tool to better characterize the depletion of fuel in MSRs.'
+  social:
+    - url: mailto:kiplk2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/kipk49
+      icon: github-alt
+      name: Github
+
+- name: Huan Yan
+  pic: /img/people/yhuan.jpg
+  dates: 2019-present
+  role: Research Assistant
+  description: 'Huan Yan is a PhD candidate working on advanced characterization of irradiated structural materials.'
+  social:
+    - url: mailto:huanyan3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/yanhuan0713
+      icon: github-alt
+      name: GitHub
+
+- name: Mitchell Whalen
+  pic: /img/people/whalenm.png
+  dates: 2019-present
+  role: Technical Editor
+  description: 'Mitchell is a nuclear engineering undergraduate interested in spent fuel management.'
+  social:
+    - url: mailto:mdwhale2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mitchellwhalen
       icon: github-alt
       name: GitHub
 
@@ -211,5 +281,3 @@
     - url: https://www.google.com/maps/d/edit?mid=zwJ5Sc8HIDN4.k3fYHsg-biWE&usp=sharing
       icon: map-marker
       name: 118 Talbot Lab
-
-
