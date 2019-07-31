@@ -218,7 +218,7 @@ type `FileMesh` and takes a parameter argument `file = <mesh_file_name>`.
 ```
 
 Many MOOSE users generate their meshes using
-Cubit/Trellis. For national lab employees this software is free; however,
+Cubit/Trelis. For national lab employees this software is free; however,
 academic or industry users must pay. Consequently, Moltres meshes to date have
 been generated using the software [gmsh](http://gmsh.info/) which is free and
 open source. Binaries for Windows, Mac, and Linux as well as source code can be
