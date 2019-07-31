@@ -110,7 +110,7 @@ nt_scale=1e13
 - `diri_temp` is used to control the inlet temperature boundary condition.
 - `nt_scale` is a transient fission heat source term scaling factor.
 
-These variables may be modified to affect our primary system variables of
+These variables may be modified to affect our primary system variables:
 temperature, neutron flux, and precursor concentrations. Decreasing the flow velocity
 will increase the temperature through the reactor. Because of the negative
 feedback coefficients of fuel and moderator for this reactor composition (modeled
