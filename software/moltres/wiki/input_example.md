@@ -6,7 +6,7 @@ permalink: /software/moltres/wiki/input_example/
 
 The input file example documented here is taken from
 [`moltres/tests/twod_axi_coupled/auto_diff_rho.i`](https://github.com/arfc/moltres/blob/devel/tests/twod_axi_coupled/auto_diff_rho.i).
-This is a simple 2-D 1/2 core model of the molton salt reactor experiment (MSRE)
+This is a simple 2-D axisymmetric core model of the Molten Salt Reactor Experiment (MSRE)
 that was developed at Oak Ridge National Laboratory and was operated from 1965
 through 1969. Simualtion results from a version of this model is documented in the
 article, [Introduction to Moltres: An application for simulation of Molten Salt
