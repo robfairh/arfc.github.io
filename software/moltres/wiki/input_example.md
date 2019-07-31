@@ -65,7 +65,8 @@ application for visualizing output files is
 
 #### Model Geometry
 
-The domain for the 2-D MSRE model is a 72.5 cm by 151.75 cm rectangle that is
+The figure below shows the domain for the 2-D MSRE model. It is a
+72.5 cm by 151.75 cm rectangle that is
 slightly smaller than the total height of the core, and includes 1/2 the width
 of the core, extending from the core center line on the left to the core wall on
 the right. For this steady-state simulation, the core center line is a symmetry
