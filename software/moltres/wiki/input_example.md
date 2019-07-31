@@ -88,7 +88,7 @@ with nesting of blocks allowed and `[../]` being used to indicate the end of a
 block (i.e., going up one level). Empty brackets `[]` can also be used to indicate
 the end of a block. *Note that block names and parameter names are generally case
 sensitive in the input file.* In addition, in Moltres/MOOSE input file, the `#`
-symbol is used to mark the start of comment. Comments may start anywhere on a line.
+symbol is used to mark the start of a comment. Comments may start anywhere on a line.
 
 #### Substitution Variables
 
