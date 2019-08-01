@@ -70,7 +70,9 @@ The figure below shows the domain for the 2-D MSRE model. It is a
 slightly smaller than the total height of the core, and includes 1/2 the width
 of the core, extending from the core center line on the left to the core wall on
 the right. For this steady-state simulation, the core center line is a symmetry
-boundary. The domain models 14 fuel channels and alternates between regions that
+boundary. The domain consists of 14 fuel channels, alternating with
+14 solid graphite moderator regions, represented in the figure by
+cyan and grey rectangles respectively.
 represent the molton salt fuel flow channels and the solid graphite moderator
 regions respectively. In the figure below, the blue (cyan) rectangles represent
 fuel / molton salt regions and the grey rectangles represent the graphite
