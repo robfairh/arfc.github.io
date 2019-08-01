@@ -88,7 +88,7 @@ start and end of input blocks. The format is loosely based on a directory struct
 with nesting of blocks allowed and `[../]` being used to indicate the end of a
 block (i.e., going up one level). Empty brackets `[]` can also be used to indicate
 the end of a block. *Note that block names and parameter names are generally case
-sensitive in the input file.* In addition, in Moltres/MOOSE input file, the `#`
+sensitive in the input file.* In addition, in Moltres/MOOSE input files, the `#`
 symbol is used to mark the start of a comment. Comments may start anywhere on a line.
 
 #### Substitution Variables
