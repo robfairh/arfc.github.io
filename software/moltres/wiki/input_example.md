@@ -315,7 +315,7 @@ solution variables were defined in the variable section:
 
 * The `group1` fast group neutron flux.
 * The `group2` thermal group neutron flux.
-* The molton salt / moderator temperature (`temp`).
+* The molten salt / moderator temperature (`temp`).
 
 Note that additional precursor variables are automatically defined by the
 [`Precursors`](#Precursors) block.
