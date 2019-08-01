@@ -10,7 +10,7 @@ This is a simple 2-D axisymmetric core model of the Molten Salt Reactor Experime
 that was developed at Oak Ridge National Laboratory and was operated from 1965
 through 1969. Simulation results from this 2-D model are documented in the
 article, [Introduction to Moltres: An application for simulation of Molten Salt
-Reactors](http://arfc.github.io/papers/lindsay_introduction_2018.pdf).
+Reactors](http://arfc.github.io/papers/lindsay_introduction_2018.pdf),
 which discusses simulation results, and compares them to a 3-D Motlres model of
 the MSRE and to MSRE data and calculated results. It should be noted that
 Figure 1 of the article indicates that the width of the model is 145 cm. This
