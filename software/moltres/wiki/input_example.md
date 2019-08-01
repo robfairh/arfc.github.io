@@ -375,7 +375,7 @@ $$ \underbrace{\rho c_p \frac{\partial T}{\partial t}}_{[1]}
 
 - [1] = MatINSTemperatureTimeDerivative
 - [2] = ConservativeTemperatureAdvection
-- $$\bar{u}$$ = fuel / molton salt velocity
+- $$\bar{u}$$ = fuel / molten salt velocity
 
 
 
