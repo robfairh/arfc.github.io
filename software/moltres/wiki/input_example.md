@@ -73,7 +73,6 @@ the right. For this steady-state simulation, the core center line is a symmetry
 boundary. The domain consists of 14 fuel channels, alternating with
 14 solid graphite moderator regions, represented in the figure by
 cyan and grey rectangles respectively.
-regions respectively. In the figure below, the blue (cyan) rectangles represent
 fuel / molton salt regions and the grey rectangles represent the graphite
 moderator regions.
 
