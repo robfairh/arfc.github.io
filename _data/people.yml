@@ -20,6 +20,24 @@
       icon: twitter
       name: Twitter
 
+- name: Mehmet Turkmen
+  pic: /img/people/turkmenm.jpg
+  dates: 2019-present
+  role: Post-doctoral Researcher
+  src: https://www.linkedin.com/in/mehmeturkmen
+  url: https://www.linkedin.com/in/mehmeturkmen
+  description: 'Mehmet is doing researches on numerical simulations, Monte Carlo method, optimization, advanced nuclear reactor designs, in-core fuel management and uncertainty quantification in nuclear engineering.'
+  social:
+    - url: mailto:mturkmen@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mehmeturkmen
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/mehmeturkmen
+      icon: Linkedin
+      name: Linkedin
+
 - name: Andrei Rykhlevskii
   pic: /img/people/rykhlevskiia.jpg
   dates: 2016-present
