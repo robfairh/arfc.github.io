@@ -24,8 +24,8 @@
   pic: /img/people/turkmenm.jpg
   dates: 2019-present
   role: Post-doctoral Researcher
-  src: https://www.linkedin.com/in/mehmeturkmen
-  url: https://www.linkedin.com/in/mehmeturkmen
+  src: http://arfc.npre.illinois.edu/people/
+  url: http://arfc.npre.illinois.edu/people/
   description: 'Mehmet is doing researches on numerical simulations, Monte Carlo method, optimization, advanced nuclear reactor designs, in-core fuel management and uncertainty quantification in nuclear engineering.'
   social:
     - url: mailto:mturkmen@illinois.edu
@@ -34,7 +34,7 @@
     - url: https://github.com/mehmeturkmen
       icon: github-alt
       name: Github
-    - url: https://www.linkedin.com/in/mehmeturkmen
+    - url: https://www.linkedin.com/in/mehmet-türkmen-324a0838/
       icon: Linkedin
       name: Linkedin
 
