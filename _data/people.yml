@@ -267,6 +267,19 @@
       icon: github-alt
       name: GitHub
 
+- name: David Atwater
+  pic: /img/people/atwaterd.jpg
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'David Atwater is a third-year Nuclear Enginnering Undergraduate interested in working with computational nulcear engineering.'
+  social:
+    - url: mailto:davida2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/datw0258
+      icon: github-alt
+      name: GitHub
+      
 - name: You
   pic: /img/people/you.png
   dates: now
