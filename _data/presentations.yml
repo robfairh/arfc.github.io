@@ -1,3 +1,16 @@
+- title: "Demand Driven Deployment Capabilities in Cyclus"
+  presenter: Gwendolyn Chee
+  event: "Global 2019"
+  type: Technical Presentation
+  place: Seattle, WA
+  month: September
+  day: 24
+  year: 2019
+  time: 14:15 pm
+  pic: '/img/pres/2019-09-24-ddca-global.png'
+  slides: '/pres/2019-09-24-ddca-global.pdf'
+  description: "This presentation demonstrates using demand driven deployment capabilities in Cyclus to set up transition scenarios."
+
 - title: "Fuel Cycle Performance of Fast Spectrum Molten Salt Reactor Designs"
   presenter: Andrei Rykhlevskii
   event: "The International Conference on Mathematics and Computational Methods applied to Nuclear Science and Engineering (M&C 2019)"
@@ -61,8 +74,7 @@
   time: 09:45 am
   pic: '/img/pres/2019-06-26-ddca-twofcs.png'
   slides: '/pres/2019-06-26-ddca-twofcs.pdf'
-  description: "This presentation discusses the validation conducted of the isotopic compositions and decay heat contributions from the spent fuel produced by a Cyclus simulation of the historic United States nuclear fuel cycle."
-
+  description: "This presentation presents the demand driven deployment capabilities in Cyclus with simple transition scenarios examples."
 
 - title: "Neutron Kinetics in Liquid-Fueled Nuclear Reactors"
   presenter: Kathryn Huff
