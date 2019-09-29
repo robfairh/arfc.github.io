@@ -1,3 +1,16 @@
+- title: "Safety Analysis of the Molten Salt Fast Reactor Fuel Composition with Moltres"
+  presenter: Sun Myung Park
+  event: 'Global 2019 International Nuclear Fuel Cycle Conference'
+  type: Technical Presentation
+  place: Seattle, WA
+  month: September
+  day: 26
+  year: 2019
+  time: 9.15am
+  pic: '/img/pres/2019-09-22-global.png'
+  slides: '/pres/2019-09-26-park-global.pdf'
+  description: 'This presentation discusses transient, coupled neutronics/thermal-hydraulics simulations of the MSFR using Moltres.'
+
 - title: "Fuel Cycle Performance of Fast Spectrum Molten Salt Reactor Designs"
   presenter: Andrei Rykhlevskii
   event: "The International Conference on Mathematics and Computational Methods applied to Nuclear Science and Engineering (M&C 2019)"
@@ -9,7 +22,7 @@
   time: 3:30 pm
   pic: '/img/pres/2019-08-26-rykhlevskii-mc.jpeg'
   slides: '/pres/2019-08-26-rykhlevskii-mc.pdf'
-  description: "This presentation duscusses progress in fuel cycle performance evaluation for four different fast molten salt reactors."
+  description: "This presentation discusses progress in fuel cycle performance evaluation for four different fast molten salt reactors."
 
 - title: 'Preventing Disaster: Identifying Nuclear Weapons with Neural Networks'
   presenter: Mark Kamuda 
@@ -21,7 +34,7 @@
   year: 2019
   time: 5:30 pm
   pic: '/img/pres/2019-07-10-kamuda-scipy.png'
-  slides: 'pres/2019-07-10-kamuda-scipy.pdf'
+  slides: '/pres/2019-07-10-kamuda-scipy.pdf'
   description: 'This poster discusses how our trained machine learning algorithms perform when identifying shielded and unshielded enriched uranium gamma-ray spectra.'
 
 - title: 'Using Low-Resolution Gamma-ray Spectroscopy and Machine Learning as an Information Barrier for Uranium Enrichment Measurments'
@@ -34,7 +47,7 @@
   Year: 2019
   time: 5:00 pm
   pic: '/img/pres/2019-07-04-kamuda-cvt.jpeg'
-  slides: 'pres/2019-07-04-kamuda-cvt.pdf'
+  slides: '/pres/2019-07-04-kamuda-cvt.pdf'
   description: 'This poster discusses how a machine learning alogirthm can be trained to identify the U-235 enrichment of an object without human interaction.' 
 
 - title: "Diversion Detection in Cyclus"
