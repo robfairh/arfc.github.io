@@ -168,19 +168,6 @@
       icon: linkedin
       name: Linkedin
 
-- name: Eleonora Skrzypek
-  pic: /img/people/skel.png
-  dates: 2019-present
-  role: Visiting Scholar
-  description: 'Eleonora is a graduate student from Warsaw University of Technology from Poland, interested in the safety and performance of generation IV reactors.'
-  social:
-    - url: mailto:eleonora@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/eleonora-skrzypek
-      icon: github-alt
-      name: GitHub
-
 - name: Nathan Bartholomew
   pic: /img/people/bartholomewn.jpg
   dates: 2019-present
