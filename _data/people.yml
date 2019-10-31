@@ -194,6 +194,19 @@
       icon: github-alt
       name: Github
       
+- name: Matt Kozak
+  pic: /img/people/kozakm.png
+  dates: 2019-present
+  role: Technical Editor
+  description: 'Matt is an undergraduate student in NPRE at UIUC working as a technical editor for the group.'
+  social:
+    - url: mailto:mkozak7@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mkozak7
+      icon: github-alt
+      name: Github
+      
 - name: You
   pic: /img/people/you.png
   dates: now
