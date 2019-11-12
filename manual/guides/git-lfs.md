@@ -29,7 +29,7 @@ $chmod 755 install.sh
 $sudo ./install.sh
 ```
 and you will get message that the extension initialized
-![alt text](/img/manual/guides/git-lfs-msg.jpg)
+![alt text](/img/manual/guides/git-lfs-msg.png)
 
 ## Step 4. Add Git LFS hooks to the repository
 In your repository direcotry, run
@@ -47,9 +47,9 @@ binaries.
 
 ARFC Git Large File Storage is quite large, but be respectful 
 to your colleagues and make sure you store only valuable data 
-of reasonable (100Mb-5Gb) size. 
+of reasonable (100Mb-5Gb) size. Consider using alternative storage options such as Box if version control is not necessary or if files of a larger size need to be stored.
 
-To verion large files in your repository:
+To version large files in your repository:
 
 1. Select the file types you would like Git LFS to manage 
 (i.e., Serpent ouput files has extension .m)
