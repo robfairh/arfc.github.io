@@ -97,6 +97,7 @@ twitter accounts, and whatnot that tie us together.
 - data management
 - cloud computing
 - [using Blue Waters](/manual/guides/bluewaters)
+- [using Git Large File Storage](/manual/guides/git-lfs)
 
 
 # Presenting Work
