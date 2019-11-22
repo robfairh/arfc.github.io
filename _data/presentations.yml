@@ -1,3 +1,16 @@
+- title: "The Impact of Xenon-135 on Load Following Transatomic Power Molten Salt Reactor"
+  presenter: Andrei Rykhlevskii
+  event: "American Nuclear Society Winter Meeting 2019"
+  type: Technical Presentation
+  place: Washington, DC
+  month: November
+  day: 19
+  year: 2019
+  time: 10:15 am
+  pic: '/img/pres/2019-11-19-rykhlevskii-ans.jpg'
+  slides: '/pres/2019-11-19-rykhlevskii-ans.pdf'
+  description: "This talk discusses effect of Xe-135 poisoning for Transatomic Power MSR and compares it with well-known PWR behavior."
+
 - title: "Safety Analysis of the Molten Salt Fast Reactor Fuel Composition with Moltres"
   presenter: Sun Myung Park
   event: 'Global 2019'
