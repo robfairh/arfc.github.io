@@ -207,6 +207,22 @@
       icon: github-alt
       name: Github
       
+- name: Gavin Davis
+  pic: /img/people/davisg.JPG
+  dates: 2019-present
+  role: Undergraduate Research Assistant
+  description: 'Gavin is an undergraduate student in the NPRE department at UIUC interested in microreactors and other advanced reactor designs.'
+  social:
+    - url: mailto:gavind2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/Dayvis7
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/gavin-davis-92624b16a/
+      icon: linkedin
+      name: LinkedIn
+      
 - name: You
   pic: /img/people/you.png
   dates: now
