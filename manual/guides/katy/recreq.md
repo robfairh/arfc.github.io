@@ -35,12 +35,14 @@ information:
 
 I'm going to need some information. 
 Most importantly, if I don't see you on a 
-daily basis, please remind me how we know one another. 
+daily basis, please remind me how we know one another and when we met (what 
+year). 
 
 Please also provide:
 
-- your up-to-date CV or resume,
-- a list of where the letters will go,
+- Your up-to-date CV or resume,
+- including your GPA and student status.
+- A list of where the letters will go,
 - ideally with links to descriptions of those positions,
 - and the due dates for the references.
 - Will they call me, ask for a letter via email, or send a form?
@@ -58,7 +60,7 @@ For grad school, scholarship, or academic job market applications, in particular
 Please remind me:
 
 - which course(s) you took
-- what semester(s)
+- what semester(s) and year(s)
 - what grade(s) you were awarded
 - particular elements of your performance that you are proud of
 
@@ -82,6 +84,6 @@ Please remind me:
 - What student organization(s) were you involved in?
 - What were our primary interactions?
 - What kinds of activities were you involved in?
-- Did you occupy an executive committee position?
+- Did you occupy an executive committee position (please list, with dates)?
 - What are you most proud of regarding this activity?
 
