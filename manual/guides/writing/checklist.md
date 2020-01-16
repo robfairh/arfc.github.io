@@ -79,7 +79,7 @@ Here's an example of an equation:
 The line is defined as
 \begin{align}
 y&=mx + b
-intertext{where}
+\intertext{where}
 y&= \mbox{ height of the line, also known as rise [m]}\nonumber\\
 m&= \mbox{ slope [-]}\nonumber\\
 x&=\mbox{ independent parameter, known as run [m]}\nonumber\\
