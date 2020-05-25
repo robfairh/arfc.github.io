@@ -236,7 +236,24 @@
     - url: https://github.com/datw0258
       icon: github-alt
       name: GitHub
-      
+    
+    
+- name: Nathan Ryan
+  pic: /img/people/ryann.png
+  dates: 2020-present
+  role: Undergraduate Research Assistant
+  description: 'Nathan is an undergraduate student in the Physics department at UIUC interested in the simulation of new regimes in nuclear reactors.'
+  social:
+    - url: mailto:nsryan2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nsryan2
+      icon: github-alt
+      name: Github
+    - url: https://www.linkedin.com/in/nathan-ryan-5a06b8193
+      icon: linkedin
+      name: LinkedIn
+
 - name: You
   pic: /img/people/you.png
   dates: now
