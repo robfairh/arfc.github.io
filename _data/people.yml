@@ -59,19 +59,6 @@
       icon: twitter
       name: Twitter
 
-- name: Mark Kamuda
-  pic: /img/people/kamudam.png
-  dates: 2017-present
-  role: Graduate Research Assistant
-  description: 'Mark Kamuda is a PhD student working on machine learning applications to automate isotope identification.'
-  social:
-      - url: mailto:kamuda1@illinois.edu
-        icon: envelope-o
-        name: email
-      - url: https://github.com/kamuda1
-        icon: github-alt
-        name: Github
-
 - name: Sun Myung Park
   pic: /img/people/smpark.jpg
   dates: 2017-present
@@ -108,19 +95,6 @@
       icon: envelope-o
       name: Email
     - url: https://github.com/achubbz
-      icon: github-alt
-      name: Github
-
-- name: Greg Westphal
-  pic: /img/people/westphalg.png
-  dates: 2017-present
-  role: Graduate Researcher
-  description: 'Greg is a Masters Student interested in signatures and observables in the nuclear fuel cycle.'
-  social:
-    - url: mailto:gtw2@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/gtw2
       icon: github-alt
       name: Github
 
@@ -168,19 +142,6 @@
       icon: linkedin
       name: Linkedin
 
-- name: Nathan Bartholomew
-  pic: /img/people/bartholomewn.jpg
-  dates: 2019-present
-  role: Undergraduate Research Assistant
-  description: 'Nathan is an undergraduate student in nuclear engineering at UIUC working on PYNE.'
-  social:
-    - url: mailto:njbartholomew98@gmail.com
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/nathanb01
-      icon: github-alt
-      name: Github
-
 - name: Kip Kleimenhagen
   pic: /img/people/kleimenhagenk.jpg
   dates: 2019-present
@@ -191,19 +152,6 @@
       icon: envelope-o
       name: Email
     - url: https://github.com/kipk49
-      icon: github-alt
-      name: Github
-      
-- name: Matt Kozak
-  pic: /img/people/kozakm.png
-  dates: 2019-present
-  role: Technical Editor
-  description: 'Matt is an undergraduate student in NPRE at UIUC working as a technical editor for the group.'
-  social:
-    - url: mailto:mkozak7@illinois.edu
-      icon: envelope-o
-      name: Email
-    - url: https://github.com/mkozak7
       icon: github-alt
       name: Github
       
@@ -223,10 +171,9 @@
       icon: linkedin
       name: LinkedIn
 
-
 - name: David Atwater
   pic: /img/people/atwaterd.PNG
-  dates: Fall 2019
+  dates: 2019-present
   role: Undergraduate Research Assistant
   description: 'David Atwater is a Nuclear Engineering Undergraduate interested in working on computational nuclear engineering.'
   social:
@@ -236,7 +183,6 @@
     - url: https://github.com/datw0258
       icon: github-alt
       name: GitHub
-    
     
 - name: Nathan Ryan
   pic: /img/people/ryann.png

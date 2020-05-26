@@ -338,7 +338,7 @@
   pic: /img/people/skel.png
   dates: Spring 2019
   role: Visiting Scholar
-  description: 'Eleonora is a graduate student from Warsaw University of Technology from Poland, interested in the safety and performance of generation IV reactors.'
+  description: 'Eleonora was a graduate student from Warsaw University of Technology from Poland who visited us for one semester before returning.'
   social:
     - url: mailto:eleonora@illinois.edu
       icon: envelope-o
@@ -346,3 +346,57 @@
     - url: https://github.com/eleonora-skrzypek
       icon: github-alt
       name: GitHub
+
+
+- name: Mark Kamuda
+  pic: /img/people/kamudam.png
+  dates: 2017-2019
+  role: Graduate Research Assistant
+  description: 'Mark Kamuda was the first PhD student to graduate from the ARFC group. Upon graduation, he joined Applied Research Analytics in North Carolina as a Data Scientist.'
+  social:
+      - url: mailto:kamuda1@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/kamuda1
+        icon: github-alt
+        name: Github
+
+- name: Greg Westphal
+  pic: /img/people/westphalg.png
+  dates: 2017-2019
+  role: Graduate Researcher
+  description: 'Greg received his MS degree in 2019 and joined the ORNL Safeguards and Security Technology group upon graduation.'
+  social:
+    - url: mailto:gtw2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/gtw2
+      icon: github-alt
+      name: Github
+
+- name: Nathan Bartholomew
+  pic: /img/people/bartholomewn.jpg
+  dates: 2019-2019
+  role: Undergraduate Research Assistant
+  description: 'Nathan is an undergraduate student in nuclear engineering at UIUC.'
+  social:
+    - url: mailto:njbartholomew98@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nathanb01
+      icon: github-alt
+      name: Github
+
+- name: Matt Kozak
+  pic: /img/people/kozakm.png
+  dates: 2019-2020
+  role: Technical Editor
+  description: 'Matt worked as an undergraduate researcher with ARFC and joined Exelon upon graduation.'
+  social:
+    - url: mailto:mkozak7@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mkozak7
+      icon: github-alt
+      name: Github
+
