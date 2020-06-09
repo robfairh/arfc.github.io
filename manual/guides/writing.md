@@ -55,7 +55,8 @@ download to use this technique.
 full screen word processor that can track daily goals, has built-in timers, and
 colorful themes. Available on Ubuntu, Mac, or Windows.
 - [ColdTurkeyWriter](https://getcoldturkey.com/writer/) is the **nuclear option** of
-word processors. Once you open the app and set a goal (time or word count) you *cannot* exit the app until the goal is completed. Caveats: Only the basic version is
+word processors. Once you open the app and set a goal (time or word count) 
+you *cannot* exit the app until the goal is completed. Caveats: Only the basic version is
 free (though you don't need much more), it's only available on Windows/Mac.
 3. Have a distraction-free word processor open on computer start up. Doing this
 forces you to write a certain number of words or for a certain length of time
