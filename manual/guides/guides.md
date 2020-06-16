@@ -5,18 +5,18 @@ subtitle: "Instructions and Checklists for practical, common tasks."
 permalink: /manual/guides/
 ---
 
-This page is an index of the growing set of guides behind the operations of the 
-research group. It is intended to be a living document capturing the overviews 
-and checklists for mastering the practical, administrative, and computational 
-infrastructure that ARFC relies on for various common tasks. All research group 
-members should contribute to this section early and often. If possible, link to 
-github repositories, gists, or Jupyter notebooks when there is a guide item 
-that can be captured in one. 
+This page is an index of the growing set of guides behind the operations of the
+research group. It is intended to be a living document capturing the overviews
+and checklists for mastering the practical, administrative, and computational
+infrastructure that ARFC relies on for various common tasks. All research group
+members should contribute to this section early and often. If possible, link to
+GitHub repositories, gists, or Jupyter notebooks when there is a guide item
+that can be captured in one.
 
 # <a name="gettingstarted"></a>Getting Started
 
-You're new to the research group. There are a lot of tasks to get done before 
-you can really fly. 
+You're new to the research group. There are a lot of tasks to get done before
+you can really fly.
 
 - Handle HR stuff.
 - Get a [GitHub](https://git-scm.com/book/en/v2/GitHub-Account-Setup-and-Configuration) account
@@ -47,8 +47,8 @@ you can really fly.
 
 # Dealing with Katy
 
-Here are some ways to interact with me that will make my life (and sometimes 
-yours) easier. 
+Here are some ways to interact with me that will make my life (and sometimes
+yours) easier.
 
 - [Scheduling to meet with Katy](/manual/guides/katy/meeting)
 - [Requesting a recommendation letter](/manual/guides/katy/recreq)
@@ -58,51 +58,51 @@ yours) easier.
 
 # Communication
 
-We communicate through many channels. Use the 
-[communication](/manual/guides/communication) guide to understand and be 
-prepared to make use of the various meetings, listhosts, chat media, calendars, 
+We communicate through many channels. Use the
+[communication](/manual/guides/communication) guide to understand and be
+prepared to make use of the various meetings, listhosts, chat media, calendars,
 twitter accounts, and whatnot that tie us together.
 
 # Writing
 
-- [how to write](/manual/guides/writing/)
+- [How to Write](/manual/guides/writing/)
 
 
 # Administrative
 
-- [travel](/manual/guides/travel)
-- purchasing
-- printing
-- internet
-- courses
-- qualifying exam
-- thesis proposal
-- editing this website 
+- [Travel](/manual/guides/travel)
+- Purchasing & Refunding
+- Printing from a [Laptop](https://www.library.illinois.edu/library-technology/print-from-a-laptop/) or a [Library Computer](https://www.library.illinois.edu/library-technology/print-from-a-library-computer/)
+- [VPN Client](https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client)
+- Course Planning & Registration
+- [Qualifying Exam](https://npre.illinois.edu/academics/graduate/qualifying-examination)
+- Thesis Proposal
+- [Editing this Website](/manual/guides/website)
 
-# Installation 
+# Installation
 
-- install git
-- install python
-- install pyne
-- install moose
-- [install cyclus](/manual/guides/cyclus)
+- [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [Python](https://realpython.com/installing-python/)
+- PyNE
+- [MOOSE](https://moose.inl.gov/SitePages/Home.aspx)
+- [Cyclus](/manual/guides/cyclus)
 
 # Software
 
-- prototyping
-- collaborating
-- pull requests
-- issues
-- releases
-- data management
-- cloud computing
-- [using Blue Waters](/manual/guides/bluewaters)
-- [using Git Large File Storage](/manual/guides/git-lfs)
+- Prototyping
+- Collaborating
+- Pull Requests (PRs)
+- Issues
+- Releases
+- Serpent
+- Data Management
+- Cloud Computing
+- [Using Blue Waters](/manual/guides/bluewaters)
+- [Using Git Large File Storage](/manual/guides/git-lfs)
 
 
 # Presenting Work
 
-- how to present
-- what to present
-- where to present
-
+- How to present
+- What to present
+- Where to present
