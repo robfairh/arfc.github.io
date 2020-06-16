@@ -66,7 +66,18 @@ twitter accounts, and whatnot that tie us together.
 # Writing
 
 - [How to Write](/manual/guides/writing/)
-
+- [Conference Abstract](http://arfc.github.io/manual/guides/writing/conf-abs/)
+- [Conference Paper](http://arfc.github.io/manual/guides/writing/conf-paper/)
+- [Poster](http://arfc.github.io/manual/guides/writing/poster/)
+- [Presentation](http://arfc.github.io/manual/guides/writing/presentation)
+- [Report](http://arfc.github.io/manual/guides/writing/report)
+- [White Paper](http://arfc.github.io/manual/guides/writing/white-paper)
+- [Pre-Printing](http://arfc.github.io/manual/guides/writing/pre-print)
+- [Journal Article](http://arfc.github.io/manual/guides/writing/journal-article)
+- [Masters Thesis](http://arfc.github.io/manual/guides/writing/ms-thesis)
+- [Preliminary Exam](http://arfc.github.io/manual/guides/writing/prelim)
+- [PhD Dissertation](http://arfc.github.io/manual/guides/writing/dissertation)
+- [Research Proposal](http://arfc.github.io/manual/guides/writing/proposal)
 
 # Administrative
 
