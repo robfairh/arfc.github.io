@@ -242,7 +242,7 @@
 
 - name: Julia Roessler
   pic: /img/people/roesslerj.jpeg
-  dates: 2019-2019
+  dates: 2019
   role: Undergraduate Research Assistant
   description: 'Julia is an undergraduate student at the University of Illinois who is eager to gain technical experience in the nuclear engineering field.'
   social:
@@ -253,4 +253,150 @@
       icon: github-alt
       name: GitHub
 
+
+- name: Huan Yan
+  pic: /img/people/yhuan.jpg
+  dates: summer 2019
+  role: Research Assistant
+  description: 'Huan Yan is a PhD candidate working on advanced characterization of irradiated structural materials.'
+  social:
+    - url: mailto:huanyan3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/yanhuan0713
+      icon: github-alt
+      name: GitHub
+
+- name: Mitchell Whalen
+  pic: /img/people/whalenm.png
+  dates: summer 2019
+  role: Technical Editor
+  description: 'Mitchell is a nuclear engineering undergraduate interested in spent fuel management.'
+  social:
+    - url: mailto:mdwhale2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mitchellwhalen
+      icon: github-alt
+      name: GitHub
+
+
+- name: Sonata Valaitis
+  pic: /img/people/valaitiss.jpg
+  dates: Summer 2019
+  role: Graduate Research Assistant
+  description: 'Sonata is a graduate student interested in fuel cycle simulations and fusion edge plasmas.'
+  social:
+    - url: https://github.com/sonatav2
+      icon: github-alt
+      name: Github
+    - url: mailto:sonatav2@illinois.edu
+      icon: envelope-o
+      name: Email
+
+- name: Anthony Ruzzo
+  pic: /img/people/ruzzoa.jpg
+  dates: summer 2019
+  role: Undergraduate Research Assistant
+  description: 'Anthony is an undergraduate student at the University of Illinois interested in computational nuclear physics.'
+  social:
+    - url: mailto:aruzzo2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/aruzzo
+      icon: github-alt
+      name: GitHub
+
+- name: Maanu Grover
+  pic: /img/people/groverm.jpg
+  dates: summer 2019
+  role: Undergraduate Research Assistant
+  description: 'Maanu is a computer science undergraduate student interested in computer systems and scientific computing.'
+  social:
+    - url: mailto:mgrover3@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mongwell
+      icon: github-alt
+      name: GitHub
+
+- name: Anna Balla
+  pic: /img/people/ballaa.png
+  dates: summer 2019
+  role: Undergraduate Research Assistant
+  description: 'Anna is a nuclear engineering undergraduate working on using reactor simulation software to develop educational tools for the public.'
+  social:
+    - url: mailto:acballa2@illinos.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/acballa2
+      icon: github-alt
+      name: GitHub
+
+
+- name: Eleonora Skrzypek
+  pic: /img/people/skel.png
+  dates: Spring 2019
+  role: Visiting Scholar
+  description: 'Eleonora was a graduate student from Warsaw University of Technology from Poland who visited us for one semester before returning.'
+  social:
+    - url: mailto:eleonora@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/eleonora-skrzypek
+      icon: github-alt
+      name: GitHub
+
+
+- name: Mark Kamuda
+  pic: /img/people/kamudam.png
+  dates: 2017-2019
+  role: Graduate Research Assistant
+  description: 'Mark Kamuda was the first PhD student to graduate from the ARFC group. Upon graduation, he joined Applied Research Analytics in North Carolina as a Data Scientist.'
+  social:
+      - url: mailto:kamuda1@illinois.edu
+        icon: envelope-o
+        name: email
+      - url: https://github.com/kamuda1
+        icon: github-alt
+        name: Github
+
+- name: Greg Westphal
+  pic: /img/people/westphalg.png
+  dates: 2017-2019
+  role: Graduate Researcher
+  description: 'Greg received his MS degree in 2019 and joined the ORNL Safeguards and Security Technology group upon graduation.'
+  social:
+    - url: mailto:gtw2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/gtw2
+      icon: github-alt
+      name: Github
+
+- name: Nathan Bartholomew
+  pic: /img/people/bartholomewn.jpg
+  dates: 2019-2019
+  role: Undergraduate Research Assistant
+  description: 'Nathan is an undergraduate student in nuclear engineering at UIUC.'
+  social:
+    - url: mailto:njbartholomew98@gmail.com
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/nathanb01
+      icon: github-alt
+      name: Github
+
+- name: Matt Kozak
+  pic: /img/people/kozakm.png
+  dates: 2019-2020
+  role: Technical Editor
+  description: 'Matt worked as an undergraduate researcher with ARFC and joined Exelon upon graduation.'
+  social:
+    - url: mailto:mkozak7@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/mkozak7
+      icon: github-alt
+      name: Github
 
