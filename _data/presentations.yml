@@ -1,4 +1,17 @@
 - title: "The Impact of Xenon-135 on a Load Following Transatomic Power Molten Salt Reactor"
+  presenter: Mehmet Turkmen
+  event: "American Nuclear Society Annual Meeting 2020"
+  type: Technical Presentation
+  place: Virtual Meeting
+  month: June
+  day: 9
+  year: 2020
+  time: 1:30 pm
+  pic: '/img/pres/2020-06-09-turkmen-ans.png'
+  slides: '/pres/2020-06-09-turkmen-ans.pdf'
+  description: "This talk introduces a novel design recommendation approach based on machine learning methods in predicting performance metrics of nuclear reactor designs."
+  
+- title: "The Impact of Xenon-135 on a Load Following Transatomic Power Molten Salt Reactor"
   presenter: Andrei Rykhlevskii
   event: "American Nuclear Society Winter Meeting 2019"
   type: Technical Presentation
