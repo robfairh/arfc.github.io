@@ -94,7 +94,7 @@ twitter accounts, and whatnot that tie us together.
 
 - [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 - [Python](https://realpython.com/installing-python/)
-- PyNE
+- [PyNE](/manual/guides/pyne)
 - [MOOSE](https://moose.inl.gov/SitePages/Home.aspx)
 - [Cyclus](/manual/guides/cyclus)
 
