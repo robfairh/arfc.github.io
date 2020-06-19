@@ -85,7 +85,7 @@ twitter accounts, and whatnot that tie us together.
 - Purchasing & Refunding
 - Printing from a [Laptop](https://www.library.illinois.edu/library-technology/print-from-a-laptop/) or a [Library Computer](https://www.library.illinois.edu/library-technology/print-from-a-library-computer/)
 - [VPN Client](https://techservices.illinois.edu/services/virtual-private-networking-vpn/download-and-set-up-the-vpn-client)
-- Course Planning & Registration
+- [Course Planning & Registration](/manual/guides/courses)
 - [Qualifying Exam](https://npre.illinois.edu/academics/graduate/qualifying-examination)
 - Thesis Proposal
 - [Editing this Website](/manual/guides/website)
