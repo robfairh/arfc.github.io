@@ -25,4 +25,3 @@ After Prof. Huff approved your course plan in the Student Record, you can reques
 Once this is done, you can go through [Self Service](https://apps.uillinois.edu/selfservice/) and Register for Classes by going to "Registration & Records", then "Enhanced Registration".
 
 Near the beginning of the semester, all students should update their Student Record with the grades they have earned in the courses from the past semester.
->>>>>>> 91643367c6761b8008e735a9f2a9ba40c5b3475d
