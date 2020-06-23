@@ -97,17 +97,23 @@ semester.
       [Student Self Service](https://apps.uillinois.edu/selfservice)
 - [ ] Register for Prof. Huff's Thesis Research using CRN 24115
 - [ ] Make sure you meet the credit requirements listed at
-      [registrat.illinois.edu](https://registrar.illinois.edu/registration/registration-process/max-min-enrollment-levels/)
+      [registrar.illinois.edu](https://registrar.illinois.edu/registration/registration-process/max-min-enrollment-levels/)
 - [ ] Ensure your previous grades are up to date in the Student Record
       spreadsheet
 ```
+# How to Register
 
-# Useful Courses
+Registration is done through
+[Self Service](https://apps.uillinois.edu/selfservice/). First, click on the
+link titled "*Registration & Records*". Most registration is through
+"*Enhanced Registration*". From there, you can search and register for courses
+and sections.
 
-- [NPRE 247: Modeling Nuclear Energy System](https://courses.illinois.edu/schedule/terms/NPRE/247)
-- [NPRE 455: Neutron Diffusion & Transport](https://courses.illinois.edu/schedule/terms/NPRE/455)
-- [NPRE 555: Reactor Theory I](https://courses.illinois.edu/schedule/terms/NPRE/555)
-- [NPRE 599: Thesis Research](https://npre.illinois.edu/academics/courses/NPRE599-120191)
+To register for Prof. Huff's Thesis Research, go instead to "*Classic
+Registration*". Add the class "NPRE 599" and make sure to use the CRN number
+24115 for Prof. Huff's section. The CRN numbers for all NPRE instructors can
+be found [here](https://npre.illinois.edu/academics/courses/NPRE599-120198).
+From there, you can change the amount of credits as necessary.
 
 # Helpful Certificates
 
