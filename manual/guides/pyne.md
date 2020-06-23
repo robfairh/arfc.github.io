@@ -7,7 +7,11 @@ permalink: /manual/guides/pyne
 
 # A Brief Overview
 
-PyNE is a library used for nuclear engineering, helping its users "be more productive, have the *best* solvers, have a beautiful API, write really great code, and teach the next generation". The [PyNE website](http://pyne.io/index.html) includes information about [installation](http://pyne.io/install/index.html) and a [tutorial](http://pyne.io/tutorial/index.html) on using PyNE.
+PyNE is a library used for nuclear engineering, helping its users "be more productive, 
+have the *best* solvers, have a beautiful API, write really great code, and teach the next 
+generation". The [PyNE website](http://pyne.io/index.html) includes information about 
+[installation](http://pyne.io/install/index.html) and a [tutorial](http://pyne.io/tutorial/index.html) 
+on using PyNE.
 
 # Development
 
