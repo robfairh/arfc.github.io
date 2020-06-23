@@ -15,4 +15,11 @@ on using PyNE.
 
 # Development
 
-PyNE is open source and free to use. Prof. Huff encourages contributions to PyNE, as its purpose is to provide a complete library meant to help all nuclear engineers. Anyone who feels that there should be something added or something changed is encouraged to develop changes. The website provides a [developer's guide](http://pyne.io/devsguide/index.html) to assist with testing, developing, and integration with PyNE, and the [Pyne GitHub](https://github.com/pyne/pyne) contains the source code. Prof. Huff is willing to help by offering some guidance on contributions, so any ideas on fixes or changes are encouraged.
+PyNE is open source and free to use. Prof. Huff encourages contributions to PyNE, 
+as its purpose is to provide a complete library meant to help all nuclear engineers. 
+Anyone who feels that there should be something added or something changed is 
+encouraged to develop changes. The website provides a 
+[developer's guide](http://pyne.io/devsguide/index.html) to assist with testing, 
+developing, and integration with PyNE. The [Pyne GitHub Organization](https://github.com/pyne/pyne) 
+contains the source code. Prof. Huff is willing to help by offering some guidance 
+on contributions, so any ideas on fixes or changes are encouraged.
