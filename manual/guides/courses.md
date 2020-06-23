@@ -1,7 +1,7 @@
 ---
 layout: manual
 title: Course Planning & Registration
-subtitle: "Assistance with Choosing and Registering for Classes"
+subtitle: "Choosing and Registering for Classes"
 permalink: /manual/guides/courses
 ---
 
@@ -9,12 +9,13 @@ permalink: /manual/guides/courses
 
 A list of courses for all students can be found
 [here](http://catalog.illinois.edu/courses-of-instruction/npre/).
-For undergraduate students, the NPRE department has compiled an interactive suggested course sequence for undergraduate students, which can be found
+For undergraduate students, the NPRE department has compiled an interactive
+suggested course sequence for undergraduate students, which can be found
 [here](https://npre.illinois.edu/academics/undergraduate/curriculum).
 Undergraduate Students should meet with their faculty advisor each semester to
-discuss what other courses they need to take to satisfy their degree
-requirements. They should bring with them a copy of their DARS report
-as well as a plan for the coming semester.
+discuss career goals and what courses they need to take to satisfy their
+degree requirements. Students should bring with them a copy of their DARS
+report as well as a plan for the coming semester.
 
 It's recommended for undergraduate students to stick to the suggested sequence
 because some classes are offered only in one half of the school year.
@@ -26,13 +27,27 @@ advisor and make sure there are no foreseeable conflicts.
 
 
 ```markdown
-- [ ] Looked at suggested course sequence
+- [ ] Review the Detailed undergraduate checklist at
+      [npre.illinois.edu]((https://npre.illinois.edu/academics/undergraduate/advising)
+- [ ] Review
+      [suggested course sequence](https://npre.illinois.edu/academics/undergraduate/course-sequence)
 - [ ] Plan your classes for the following semester(s)
-- [ ] Talk with your faculty advisor
+- [ ] Set up an advising appointment with your faculty advisor at
+      [my.npre](https://my.npre.illinois.edu/)
+- [ ] Run a DARS audit at
+      [http://registrar.illinois.edu/dars-audit](http://registrar.illinois.edu/dars-audit)
+- [ ] Download and fill out a
+      [course registration approval form](https://ws.engr.illinois.edu/sitemanager/getfile.asp?id=88)
+- [ ] Review your DARS audit and course registration form with your faculty
+      advisor
 - [ ] Make any edits due to course load, class timing, etc.
-- [ ] Talk with Becky to release your registration hold
-- [ ] Check your time ticket for registration
-- [ ] Register during your registration period through Self Service
+- [ ] Email your course registration form (with advisor signature) to Becky
+      requesting a time to chat with her.
+- [ ] Chat with Becky to release your registration hold.
+- [ ] Check your time ticket for registration at
+      [Student Self Service](https://apps.uillinois.edu/selfservice)
+- [ ] Register during your registration period at
+      [Student Self Service](https://apps.uillinois.edu/selfservice)
 ```
 
 # Graduate Students
@@ -54,7 +69,7 @@ requirements for the
 Early Research Assistantship students should be taking 2-3 graduate classes
 per semester and 4-8 research credit hours. Later, students typically
 take one or fewer graduate classes per semester and fill the rest of their
-necessary hours with research credits.
+necessary hours (12) with research credits.
 
 After Prof. Huff approves your course plan in the Student Record, you can
 request the registration hold be lifted so that you can go ahead and
@@ -73,34 +88,25 @@ semester.
 
 ```markdown
 - [ ] Fill out your Student Plan
-- [ ] Discuss your selection with Prof. Huff
+- [ ] Discuss your selection with Prof. Huff during a regular individual
+      meeting
 - [ ] Make any edits due to course load, class timing, etc.
-- [ ] Request your registration hold lifted
-- [ ] Register for classes through Self Service
+- [ ] Email plan to NPRE staff to request that your registration hold be
+      lifted. CC Prof. Huff.
+- [ ] Register for classes through
+      [Student Self Service](https://apps.uillinois.edu/selfservice)
 - [ ] Register for Prof. Huff's Thesis Research using CRN 24115
-- [ ] Make sure you meet the credit requirements
-- [ ] Ensure your previous grades are up to date
+- [ ] Make sure you meet the credit requirements listed at
+      [registrat.illinois.edu](https://registrar.illinois.edu/registration/registration-process/max-min-enrollment-levels/)
+- [ ] Ensure your previous grades are up to date in the Student Record
+      spreadsheet
 ```
-
-# How to Register
-
-Registration is done through
-[Self Service](https://apps.uillinois.edu/selfservice/). First, click on the
-link titled "*Registration & Records*". Most registration is through
-"*Enhanced Registration*". From there, you can search and register for courses
-and sections.
-
-To register for Prof. Huff's Thesis Research, go instead to "*Classic
-Registration*". Add the class "NPRE 599" and make sure to use the CRN number
-24115 for Prof. Huff's section. The CRN numbers for all NPRE instructors can
-be found [here](https://npre.illinois.edu/academics/courses/NPRE599-120198).
-From there, you can change the amount of credits as necessary.
 
 # Useful Courses
 
-- [NPRE 247: Modeling Nuclear Energy System](https://npre.illinois.edu/academics/courses/NPRE247-120191)
-- [NPRE 455: Neutron Diffusion & Transport](https://npre.illinois.edu/academics/courses/NPRE455-120191)
-- [NPRE 555: Reactor Theory I](https://courses.illinois.edu/schedule/2020/fall/NPRE/555)
+- [NPRE 247: Modeling Nuclear Energy System](https://courses.illinois.edu/schedule/terms/NPRE/247)
+- [NPRE 455: Neutron Diffusion & Transport](https://courses.illinois.edu/schedule/terms/NPRE/455)
+- [NPRE 555: Reactor Theory I](https://courses.illinois.edu/schedule/terms/NPRE/555)
 - [NPRE 599: Thesis Research](https://npre.illinois.edu/academics/courses/NPRE599-120191)
 
 # Helpful Certificates
