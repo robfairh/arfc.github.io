@@ -33,20 +33,57 @@ information:
 - Please make your request well in advance (at least a few weeks) before it will be due.
 - Please don't forget to [write a professional email](http://chrisblattman.com/2010/11/08/students-how-to-email-to-your-professor-employer-and-professional-peers/).
 
-I'm going to need some information. Most importantly, if I don't see you on a 
-daily basis, please remind me how we know one another. Please also provide:
+I'm going to need some information. 
+Most importantly, if I don't see you on a 
+daily basis, please remind me how we know one another and when we met (what 
+year). 
 
-- your up-to-date CV or resume,
-- a list of where the letters will go,
+Please also provide:
+
+- Your up-to-date CV or resume,
+- including your GPA and student status.
+- A list of where the letters will go,
 - ideally with links to descriptions of those positions,
 - and the due dates for the references.
-- Will they call me or ask for a letter via email?
+- Will they call me, ask for a letter via email, or send a form?
 - Why do you think you are a good candidate?
 - Are there any specific guidelines for the letter?
 
-For grad school, scholarship, or academic job market applications, in 
-particular, I could be helped by:
+For grad school, scholarship, or academic job market applications, in particular, I could be helped by:
 
-- Any relevant application material (e.g. research statement, teaching statement, statement of intent)
-- A reminder about any particular feature of you or your work that you are 
-  hoping I will address.
+- Relevant application material (e.g. research statement, teaching statement, statement of intent)
+- A reminder about any particular feature of you or your work that you are hoping I will address.
+
+
+## If you were a student in my course(s)
+
+Please remind me:
+
+- which course(s) you took
+- what semester(s) and year(s)
+- what grade(s) you were awarded
+- particular elements of your performance that you are proud of
+
+
+## If you conducted research work with me: 
+
+Please remind me:
+
+- When did you begin working for me?
+- When did you cease to work for me?
+- What were your major responsibilities?
+- What work are you most proud of?
+
+
+
+## If you know me through a student organization (ANS, WiN, THW... )
+
+Please remind me:
+
+- When was this?
+- What student organization(s) were you involved in?
+- What were our primary interactions?
+- What kinds of activities were you involved in?
+- Did you occupy an executive committee position (please list, with dates)?
+- What are you most proud of regarding this activity?
+

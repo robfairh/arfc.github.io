@@ -18,13 +18,13 @@ genre of writing.
 - **[Poster](./poster):** a single pdf page accompanying a poster session.
 - **[Presentation](./presentation):** slides or other digital media which accompany a talk.
 - **[Report](./report):** details a process, literature review, or result.
-- **[White Paper](./white-paper):** conveys the perspective of a group of people, such as a 
-  workshop. 
+- **[White Paper](./white-paper):** conveys the perspective of a group of people, such as a
+  workshop.
 - **[Pre-print](./pre-print):** this is a copy of a journal article awaiting publication.
 - **[Journal Article](./journal-article):** between 5 and 50 pages, submitted to an archival journal.
 - **[Masters Thesis](./ms-thesis):** describes a cohesive research effort.
 - **[Preliminary Exam](./prelim):** <20 pages, proposes the scope of a dissertation.
-- **[PhD Dissertation](./dissertation):** the ultimate document. 
+- **[PhD Dissertation](./dissertation):** the ultimate document.
 - **[Research Proposal](./proposal):** describes future research for the purpose of receiving funding.
 
 
@@ -34,15 +34,34 @@ There is a ton of writing advice out there. Some exceptional advice is found bel
 
 ### How to Write a Lot
 
-Prof. Huff loved 
+Prof. Huff loved
 [this book](https://www.amazon.com/How-Write-Lot-Practical-Productive/dp/1591477433/ref=la_B001JP2K08_1_1)
-as a postdoc. The main lesson is that you should 
-write every day, not in occasional bursts. 
+as a postdoc. **The main lesson is that you should
+write every day, not in occasional bursts.**
 
 ![write-a-lot](https://images-na.ssl-images-amazon.com/images/I/51RRWRHDRFL._SX311_BO1,204,203,200_.jpg)
 
+### Create a Writing Habit
+
+Here are some recommendations to help you make a habit of writing everyday:
+1. The [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is
+a powerful method for doing focused, deep, work. There are several apps you could
+download to use this technique.
+- [GNU Pomodoro](https://gnomepomodoro.org/) is an open source timer for Linux OS.
+- [Tomighty](https://tomighty.github.io/) timer is an open source timer for Windows/Mac OS.
+- A standard kitchen or watch timer also works!
+2. Use full screen word processor that blocks all distractions.
+- [FocusWriter](https://gottcode.org/focuswriter/) is a free, open source,
+full screen word processor that can track daily goals, has built-in timers, and
+colorful themes. Available on Ubuntu, Mac, or Windows.
+- [ColdTurkeyWriter](https://getcoldturkey.com/writer/) is the **nuclear option** of
+word processors. Once you open the app and set a goal (time or word count) 
+you *cannot* exit the app until the goal is completed. Caveats: Only the basic version is
+free (though you don't need much more), it's only available on Windows/Mac.
+3. Have a distraction-free word processor open on computer start up. Doing this
+forces you to write a certain number of words or for a certain length of time
+before you can do anything else!
 
 ### Stanford MOOC on Writing in the Sciences
 
 Prof. Huff's [writing checklist](/manual/guides/writing/checklist) is mostly from advice in this  [massively open online course](https://online.stanford.edu/course/writing-sciences-self-paced-spring-2016). You can take it yourself, for free, at your own pace.
-
