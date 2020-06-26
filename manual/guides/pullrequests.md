@@ -14,7 +14,9 @@ permalink: /manual/guides/pullrequests
 Below is a checklist that lists many aspects that reviews should
 consider before approving a pull request. As a reminder, the
 [ARFC Code of Conduct](http://arfc.github.io/manual/coc) still applies
-in pull request reviews. It's important to be kind to colleagues.
+in pull request reviews. It's important to practice proper reviewing
+while maintaining respect.
+
 ```markdown
 - [ ] Read the PR description
 - [ ] Read through all the changes, considering the following questions.
