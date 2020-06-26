@@ -52,6 +52,7 @@ as you go along.
   - [ ] Make a review, leaving kind comments and suggesting changes
         where needed (to resolve the above).
   - [ ] Has the author resolved all of the comments and suggestions in your review?
+  - [ ] Has the author resolved all of the comments and suggestions in your review?
 - [ ] When you approve of the PR, merge and close it.
 - [ ] Thank the author for their contribution.
 ```
