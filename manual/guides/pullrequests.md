@@ -15,7 +15,6 @@ consider before approving a pull request. As a reminder, the
 [ARFC Code of Conduct](http://arfc.github.io/manual/coc) still applies
 in pull request reviews. Reviews should be both thorough and respectful. 
 Critical feedback is encouraged but should be delivered with kindness.
-while maintaining respect.
 
 ```markdown
 - [ ] Read the PR description
