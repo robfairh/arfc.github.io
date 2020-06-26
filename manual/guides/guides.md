@@ -102,7 +102,7 @@ twitter accounts, and whatnot that tie us together.
 
 - Prototyping
 - Collaborating
-- [Pull Requests (PRs)](/manual/guides/pullrequests)
+- [Pull Requests (PRs)](/manual/guides/pull_requests)
 - Issues
 - Releases
 - Serpent
