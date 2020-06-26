@@ -10,7 +10,7 @@ permalink: /manual/guides/pullrequests
 - [Cyclus PR Review Recommendations](https://fuelcycle.org/kernel/pr_review.html)
 - [Common mistakes and errors](https://blog.scottnonnenberg.com/top-ten-pull-request-review-mistakes/)
 
-Below is a checklist that lists many aspects that reviews should
+Below is a checklist the PR reviewer should
 consider before approving a pull request. As a reminder, the
 [ARFC Code of Conduct](http://arfc.github.io/manual/coc) still applies
 in pull request reviews. It's important to practice proper reviewing
