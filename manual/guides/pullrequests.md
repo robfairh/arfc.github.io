@@ -38,7 +38,7 @@ Critical feedback is encouraged but should be delivered with kindness.
   - [ ] If there is no continuous integration, check out the branch
         locally, build, and run the tests.
   - [ ] Do the tests pass on your machine?
-  - [ ] Is the PR free of random cruft (built files, SWP files, etc.)?
+  - [ ] Is the PR free of random cruft (built files, `.swp` files, etc.)?
   - [ ] Do all files in the PR belong in the repository?
   - [ ] If the PR deletes files, is this appropriate?
   - [ ] If the PR adds files or data, are these new files compatible
