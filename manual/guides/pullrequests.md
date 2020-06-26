@@ -8,7 +8,6 @@ permalink: /manual/guides/pullrequests
 # Reviewing a Pull Request
 
 - [Cyclus PR Review Recommendations](https://fuelcycle.org/kernel/pr_review.html)
-
 - [Common mistakes and errors](https://blog.scottnonnenberg.com/top-ten-pull-request-review-mistakes/)
 
 Below is a checklist that lists many aspects that reviews should
