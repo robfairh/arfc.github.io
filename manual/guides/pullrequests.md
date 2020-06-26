@@ -25,10 +25,12 @@ while maintaining respect.
   - [ ] Are variable names brief but descriptive?
   - [ ] Are new/changed functions no longer than a paragraph?
   - [ ] Do all function parameters have default values where appropriate?
-  - [ ] Is the code clear and clean? (see Robert C. Martin's Clean Code)
+  - [ ] Is the code clear and clean? (see Robert C. Martin's
+        [Clean Code](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf))
   - [ ] Is there enough documentation?
   - [ ] Does the programming style meet the requirements of the
-        repository (PEP8 for python, google for C++, etc.)
+        repository ([PEP8](https://www.python.org/dev/peps/pep-0008/) for python,
+        [google C++ style guide](https://google.github.io/styleguide/cppguide.html), etc.)
   - [ ] If a new feature has been added, or a bug fixed, has a test been
         added to confirm good behavior?
   - [ ] Does the test actually test the new/changed functionality?
@@ -44,10 +46,10 @@ while maintaining respect.
   - [ ] If the PR deletes files, is this appropriate?
   - [ ] If the PR adds files or data, are these new files compatible
         with the repository license?
-  - [ ] Does this PR close an issue? If so, be sure to descriptively
-        close this issue when the PR is merged.
   - [ ] Make a review, leaving kind comments and suggesting changes
         where needed (to resolve the above).
 - [ ] When you approve of the PR, merge and close it.
+- [ ] Does this PR close an issue? If so, be sure to descriptively
+      close this issue when the PR is merged
 - [ ] Thank the author for their contribution.
 ```
