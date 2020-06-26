@@ -16,6 +16,10 @@ consider before approving a pull request. As a reminder, the
 in pull request reviews. Reviews should be both thorough and respectful. 
 Critical feedback is encouraged but should be delivered with kindness.
 
+If you are about to review a PR, consider copying and pasting 
+this checklist into your review comment and checking the boxes 
+as you go along. 
+
 ```markdown
 - [ ] Read the PR description
 - [ ] Read through all the changes, considering the following questions.
