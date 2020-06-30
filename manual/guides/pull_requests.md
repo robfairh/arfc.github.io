@@ -7,7 +7,7 @@ permalink: /manual/guides/pull_requests
 
 # Making a Pull Request
 
-A Pull Requests (PR) merges the changes in a branch of a repository
+A Pull Request (PR) merges the changes in a branch of a repository
 to the main branch. This means the main branch has all of the updates
 that need to get approved before they're implemented.
 For the basics on how to create a PR, GitHub has a guide available
