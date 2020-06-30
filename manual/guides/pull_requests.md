@@ -90,7 +90,8 @@ suggestions for changes. Comments can include general comments on the
 material or the formatting of the submission. Changes can be
 requested for a specific line or lines, where the reviewer can even write
 their own code to improve the committed files. These changes can
-either be ignored or committed directly from the review. The
+either be discussed in the comment box or committed directly from the
+review with the `commit suggestion` button. With this button, the
 suggested changes are committed and pushed immediately
 to the PR branch, which makes
 incorporating suggested changes faster. Once the PR has been approved
