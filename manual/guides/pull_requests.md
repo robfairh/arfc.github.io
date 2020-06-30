@@ -1,9 +1,30 @@
 ---
 layout: manual
 title: Pull Requests
-subtitle: "What to check in a PR Review"
-permalink: /manual/guides/pullrequests
+subtitle: "The #1 Collaboration Tool"
+permalink: /manual/guides/pull_requests
 ---
+
+# Making a Pull Request
+
+A Pull Requests (PR) merges the changes in a branch of a repository
+to the main branch. This means the main branch has all of the updates
+that need to get approved before they're implemented.
+For the basics on how to create a PR, GitHub has a guide available
+[here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+Most of the pull requests done in the ARFC group are from a working branch
+in a personal fork to the main ARFC repository. PRs made by
+ARFC members should:
+
+- Have GitHub Labels (Difficulty:1-Beginner, Status:1-New, etc.)
+- Have a GitHub Project (Meta, Fuel Cycles, etc.)
+- Have a description in GitHub
+- List requested reviews (usually one or two, consider if more than
+  two is really necessary for your request)
+- Link to an issue
+- Be small (achieve one thing; "atomic")
+
 
 # Reviewing a Pull Request
 
@@ -26,7 +47,7 @@ while maintaining respect.
   - [ ] Are new/changed functions no longer than a paragraph?
   - [ ] Do all function parameters have default values where appropriate?
   - [ ] Is the code clear and clean? (see Robert C. Martin's
-        [Clean Code](https://www.investigatii.md/uploads/resurse/Clean_Code.pdf))
+        [Clean Code](https://i-share-uiu.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma99944155312205899&context=L&vid=01CARLI_UIU:CARLI_UIU&tab=LibraryCatalog&lang=en))
   - [ ] Is there enough documentation?
   - [ ] Does the programming style meet the requirements of the
         repository ([PEP8](https://www.python.org/dev/peps/pep-0008/) for python,
@@ -53,3 +74,8 @@ while maintaining respect.
       close this issue when the PR is merged
 - [ ] Thank the author for their contribution.
 ```
+
+# Responding to Pull Requests Reviews
+
+Reviews on pull requests includes comments, suggestions for changes,
+and approvals. 
