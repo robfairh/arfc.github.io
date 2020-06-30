@@ -13,7 +13,8 @@ that need to get approved before they're implemented.
 For the basics on how to create a PR, GitHub has a guide available
 [here](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-Most of the pull requests done in the ARFC group are from a working branch
+Most of the pull requests done in the ARFC group are from a feature branch 
+(not the main branch)
 in a personal fork to the main ARFC repository. PRs made by
 ARFC members should:
 
