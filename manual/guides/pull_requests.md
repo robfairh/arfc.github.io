@@ -77,5 +77,13 @@ while maintaining respect.
 
 # Responding to Pull Requests Reviews
 
-Reviews on pull requests includes comments, suggestions for changes,
-and approvals. 
+Reviews on pull requests includes comments, approvals, and
+suggestions for changes. Comments can include general comments on the
+material or the formatting of the submission. Changes can be
+requested for a specific line or lines, where the reviewer will write
+their own code to improve the committed files. These changes can
+either be ignored or committed directly from the review. The
+committed changes are implemented immediately in GitHub, which makes
+incorporating suggested changes faster. Once the PR has been approved
+by the reviewers, one reviewer will merge the changes and the PR will
+be closed.
