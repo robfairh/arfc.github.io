@@ -95,6 +95,8 @@ either be discussed in the comment box or committed directly from the
 review with the `commit suggestion` button. With this button, the
 suggested changes are committed and pushed immediately
 to the PR branch, which makes
-incorporating suggested changes faster. Once the PR has been approved
+incorporating suggested changes faster. Do not leave comments un-handled.
+All reviewer comments should be incorporated, responded to, handled, or 
+discussed further. Once the PR has been approved
 by at least one reviewer, a reviewer will merge the changes and the PR will
 be closed.
