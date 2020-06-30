@@ -17,7 +17,6 @@ Most of the pull requests done in the ARFC group are from a feature branch
 (not the main branch)
 in a personal fork to the main branch in the ARFC fork of a repository. 
 PRs made in the ARFC organization should:
-ARFC members should:
 
 - Have GitHub Labels (Difficulty:1-Beginner, Status:1-New, etc.)
 - Have a GitHub Project (Meta, Fuel Cycles, etc.)
