@@ -1,3 +1,16 @@
+- title: "Hydrogen Economy in Champaign-Urbana, IL"
+  presenter: Roberto Fairhurst
+  event: "American Nuclear Society Annual Meeting 2020"
+  type: Technical Presentation
+  place: Virtual Meeting
+  month: June
+  day: 10
+  year: 2020
+  time: 11:00 am
+  pic: '/img/pres/2020-06-10-fairhurst-ans.png'
+  slides: '/pres/2020-06-10-fairhurst-ans.pdf'
+  description: "This talk presents an approach for decarbonizing transportation on UIUC campus."
+
 - title: "Single Channel Design Based on Artificial Intelligence for Molten Salt Reactors"
   presenter: Mehmet Turkmen
   event: "American Nuclear Society Annual Meeting 2020"
