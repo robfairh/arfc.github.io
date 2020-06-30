@@ -95,5 +95,5 @@ review with the `commit suggestion` button. With this button, the
 suggested changes are committed and pushed immediately
 to the PR branch, which makes
 incorporating suggested changes faster. Once the PR has been approved
-by the reviewers, one reviewer will merge the changes and the PR will
+by at least one reviewer, a reviewer will merge the changes and the PR will
 be closed.
