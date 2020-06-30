@@ -87,7 +87,8 @@ as you go along.
 
 Reviews on pull requests include comments, approvals, and
 suggestions for changes. Comments can include general comments on the
-material or the formatting of the submission. Changes can be
+technical substance, documentation, performance, clarity, reproducibility, 
+coding style, and even the formatting of the submission. Changes can be
 requested for a specific line or lines, where the reviewer can even write
 their own code to improve the committed files. These changes can
 either be discussed in the comment box or committed directly from the
