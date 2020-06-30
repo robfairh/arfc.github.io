@@ -85,7 +85,7 @@ as you go along.
 
 # Responding to Pull Requests Reviews
 
-Reviews on pull requests includes comments, approvals, and
+Reviews on pull requests include comments, approvals, and
 suggestions for changes. Comments can include general comments on the
 material or the formatting of the submission. Changes can be
 requested for a specific line or lines, where the reviewer can even write
