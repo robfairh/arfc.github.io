@@ -28,15 +28,19 @@ ARFC members should:
 
 # Reviewing a Pull Request
 
-- [Recommendations from Cyclus PRs](https://fuelcycle.org/kernel/pr_review.html)
+ [Cyclus PR Review Recommendations](https://fuelcycle.org/kernel/pr_review.html)
 
-- [Common mistakes and errors](https://blog.scottnonnenberg.com/top-ten-pull-request-review-mistakes/)
+ [Common mistakes and errors](https://blog.scottnonnenberg.com/top-ten-pull-request-review-mistakes/)
 
-Below is a checklist that lists many aspects that reviews should
+Below is a checklist the PR reviewer should
 consider before approving a pull request. As a reminder, the
 [ARFC Code of Conduct](http://arfc.github.io/manual/coc) still applies
-in pull request reviews. It's important to practice proper reviewing
-while maintaining respect.
+in pull request reviews. Reviews should be both thorough and
+respectful.
+
+If you are about to review a PR, consider copying and pasting
+this checklist into your review comment and checking the boxes
+as you go along.
 
 ```markdown
 - [ ] Read the PR description
@@ -62,13 +66,16 @@ while maintaining respect.
   - [ ] If there is no continuous integration, check out the branch
         locally, build, and run the tests.
   - [ ] Do the tests pass on your machine?
-  - [ ] Is the PR free of random cruft (built files, SWP files, etc.)?
+  - [ ] Is the PR free of random cruft (built files, `.swp` files,
+        etc.)?
   - [ ] Do all files in the PR belong in the repository?
   - [ ] If the PR deletes files, is this appropriate?
   - [ ] If the PR adds files or data, are these new files compatible
         with the repository license?
   - [ ] Make a review, leaving kind comments and suggesting changes
         where needed (to resolve the above).
+  - [ ] Has the author resolved all of the comments and suggestions
+        in your review?
 - [ ] When you approve of the PR, merge and close it.
 - [ ] Does this PR close an issue? If so, be sure to descriptively
       close this issue when the PR is merged
