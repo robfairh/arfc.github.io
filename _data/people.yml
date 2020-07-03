@@ -199,6 +199,19 @@
     - url: https://www.linkedin.com/in/nathan-ryan-5a06b8193
       icon: linkedin
       name: LinkedIn
+      
+- name: Amber Hunter
+  pic: /img/people/huntera.png
+  dates: 2020-present
+  role: Undergraduate Research Assistant
+  description: 'Amber is an Undergraduate in NPRE interested in microreactors and other advanced reactor designs.'
+  social:
+    - url: mailto:amberhh2@illinois.edu
+      icon: envelope-o
+      name: Email
+    - url: https://github.com/amberhhunter
+      icon: github-alt
+      name: GitHub
 
 - name: You
   pic: /img/people/you.png
