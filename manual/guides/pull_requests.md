@@ -83,7 +83,7 @@ as you go along.
 - [ ] Thank the author for their contribution.
 ```
 
-# Responding to Pull Requests Reviews
+# Responding to Pull Request Reviews
 
 Reviews on pull requests include comments, approvals, and
 suggestions for changes. Comments can include general comments on the
