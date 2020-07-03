@@ -42,7 +42,7 @@ you can really fly.
     - Box Directory
     - Email List
     - Slack
-- Register for [classes](/manual/guides/classes).
+- Register for [classes](/manual/guides/courses).
 - Explore [Chambana](https://localwiki.org/cu/).
 
 # Dealing with Katy
