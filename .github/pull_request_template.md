@@ -26,3 +26,9 @@
 <!--- Please mention any developers who should be alerted of this PR -->
 
 - Dev: @
+
+
+## Checklist for Reviewers
+
+Reviewers should use [this link](/manual/guides/pull_requests) to get to the 
+Review Checklist before they begin their review.
