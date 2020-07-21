@@ -42,7 +42,7 @@ you can really fly.
     - Box Directory
     - Email List
     - Slack
-- Register for [classes](/manual/guides/classes).
+- Register for [classes](/manual/guides/courses).
 - Explore [Chambana](https://localwiki.org/cu/).
 
 # Dealing with Katy
@@ -102,7 +102,7 @@ twitter accounts, and whatnot that tie us together.
 
 - Prototyping
 - Collaborating
-- Pull Requests (PRs)
+- [Pull Requests (PRs)](/manual/guides/pull_requests)
 - Issues
 - Releases
 - Serpent
