@@ -5,7 +5,7 @@ subtitle: "Step-by-step instructions for getting Serpent"
 permalink: /manual/guides/getting_serpent_license.md
 ---
 
-## Register at RSICC
+# Register at RSICC
 
 - Go to [rsicc.ornl.gov](https://rsicc.ornl.gov/)
 - Click on "Registration"
@@ -13,7 +13,7 @@ permalink: /manual/guides/getting_serpent_license.md
 you should receive an RSICC Pass Number. You will
 need this for the next step.
 
-## Request the Software at RSICC
+# Request the Software at RSICC
 
 - Go to [rsicc.ornl.gov](https://rsicc.ornl.gov/)
 - Go to "Requests"
@@ -33,7 +33,7 @@ For the project description, there is a general template
 below that has been used by people that obtained their
 license:
 
-```
+```markdown
 I am a graduate student in the Advanced Reactors
 and Fuel Cycles group at the University of Illinois
 in Urbana-Champaign, which is led by Prof. Kathryn Huff.
@@ -49,7 +49,7 @@ export control officer at the University of Illinois.
 
 Here is an example where the blanks have been filled in:
 
-```
+```markdown
 I am a graduate student in the Advanced Reactors
 and Fuel Cycles group at the University of Illinois
 in Urbana-Champaign, which is led by Prof. Kathryn Huff.
