@@ -105,7 +105,7 @@ twitter accounts, and whatnot that tie us together.
 - [Pull Requests (PRs)](/manual/guides/pull_requests)
 - Issues
 - Releases
-- Serpent
+- [Serpent](/manual/guides/getting_serpent_license)
 - Data Management
 - Cloud Computing
 - [Using Blue Waters](/manual/guides/bluewaters)
