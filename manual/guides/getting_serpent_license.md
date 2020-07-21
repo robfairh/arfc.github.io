@@ -1,8 +1,8 @@
 ---
 layout: manual
 title: Acquiring a Serpent License
-subtitle: "Step-by-step instructions for getting Serpent"
-permalink: /manual/guides/getting_serpent_license.md
+subtitle: "Step-by-step instructions for getting a Serpent license"
+permalink: /manual/guides/getting_serpent_license
 ---
 
 # Register at RSICC
@@ -34,41 +34,30 @@ below that has been used by people that obtained their
 license:
 
 ```markdown
-I am a graduate student in the Advanced Reactors
-and Fuel Cycles group at the University of Illinois
-in Urbana-Champaign, which is led by Prof. Kathryn Huff.
-My research is funded by _______.
-My use of Serpent will contribute to _______.
-I intend to use Serpent to _______.
-In the near term, this work will _______.
-This work will contribute to my thesis work in _______.
-Data and software management in this work will abide
-by all license guidelines and will be informed by the
-export control officer at the University of Illinois.
+I am a graduate student in the Advanced Reactors and Fuel Cycles group at the University
+of Illinois in Urbana-Champaign, which is led by Prof. Kathryn Huff.
+My research is funded by _______. My use of Serpent will contribute to _______.
+I intend to use Serpent to _______. In the near term, this work will _______.
+This work will contribute to my thesis work in _______. Data and software management
+in this work will abide by all license guidelines and will be informed
+by the export control officer at the University of Illinois.
 ```
 
 Here is an example where the blanks have been filled in:
 
 ```markdown
-I am a graduate student in the Advanced Reactors
-and Fuel Cycles group at the University of Illinois
-in Urbana-Champaign, which is led by Prof. Kathryn Huff.
-My research is funded by a graduate fellowship
-from the U.S. Nuclear Regulatory Commission.
-My use of Serpent will contribute to the licensing
-and regulatory mission of the U.S. NRC
-through investigation of advanced nuclear reactor safety.
-I intend to use Serpent to run neutronics simulations
-of advanced reactor types relevant to the future
-of the US nuclear energy system. In the near term,
-this work will emphasize generation of group constants
-supporting safety analysis of Molten Salt Reactor core designs.
-This work will contribute to my thesis work
-in advanced reactor multi-physics methods
-for safety analysis and design optimization.
-Data and software management in this work will abide by
-all license guidelines and will be informed
-by the export control officer at the University of Illinois.
+I am a graduate student in the Advanced Reactors and Fuel Cycles group at the University
+of Illinois in Urbana-Champaign, which is led by Prof. Kathryn Huff.
+My research is funded by a graduate fellowship from the U.S. Nuclear Regulatory Commission.
+My use of Serpent will contribute to the licensing and regulatory mission of the U.S. NRC
+through investigation of advanced nuclear reactor safety. I intend to use Serpent
+to run neutronics simulations of advanced reactor types relevant to the future
+of the US nuclear energy system. In the near term, this work will emphasize generation
+of group constants supporting safety analysis of Molten Salt Reactor core designs.
+This work will contribute to my thesis work in advanced reactor multi-physics methods
+for safety analysis and design optimization. Data and software management in this work
+will abide by all license guidelines and will be informed by the export control officer
+at the University of Illinois.
 ```
 
 After this request is submitted, RSICC might request
